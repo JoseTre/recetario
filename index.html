@@ -2,153 +2,118 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Recetario de la Abuela - Cakes & Cookies</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recetario Familiar</title>
     <style>
-        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #fdf6ec; margin: 0; padding: 20px; display: flex; flex-direction: column; align-items: center; }
-        .header { text-align: center; margin-bottom: 20px; }
-        .controls { margin-bottom: 20px; }
-        select { padding: 10px; font-size: 16px; border-radius: 8px; border: 1px solid #dcb289; }
-        .card { background: white; border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.1); width: 90%; max-width: 500px; overflow: hidden; display: flex; flex-direction: column; border: 1px solid #eee; }
-        .card img { width: 100%; height: auto; object-fit: contain; background: #fff; max-height: 400px; }
-        .card-content { padding: 20px; text-align: center; }
-        h1 { margin: 10px 0; color: #5a3825; font-size: 24px; }
-        .category { color: #e67e22; font-weight: bold; text-transform: uppercase; font-size: 14px; letter-spacing: 1px; }
-        .tags { margin-top: 15px; display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; }
-        .tag { background: #fbeee6; color: #d35400; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: 600; }
-        .navigation { display: flex; justify-content: space-between; align-items: center; margin-top: 20px; width: 100%; max-width: 500px; }
-        button { background: #e67e22; color: white; border: none; padding: 12px 25px; border-radius: 8px; font-size: 16px; cursor: pointer; font-weight: bold; transition: background 0.2s; }
-        button:disabled { background: #bdc3c7; cursor: not-allowed; }
-        button:hover:not(:disabled) { background: #d35400; }
-        .counter { font-size: 16px; color: #7f8c8d; font-weight: 600; }
+        body { font-family: 'Segoe UI', sans-serif; background: #1a1a1a; color: #e0e0e0; margin: 0; display: flex; height: 100vh; overflow: hidden; }
+        .panel-izq { width: 60%; height: 100%; display: flex; justify-content: center; align-items: center; background: #111; padding: 20px; box-sizing: border-box; }
+        .panel-izq img { max-width: 100%; max-height: 100%; object-fit: contain; box-shadow: 0 4px 15px rgba(0,0,0,0.5); border-radius: 6px; }
+        .panel-der { width: 40%; height: 100%; background: #262626; padding: 40px; display: flex; flex-direction: column; justify-content: space-between; border-left: 1px solid #3c3c3c; box-sizing: border-box; overflow-y: auto; }
+        h2 { color: #f1c40f; margin-top: 0; margin-bottom: 5px; font-size: 2rem; }
+        .categoria-badge { display: inline-block; background: #d35400; color: white; padding: 5px 12px; border-radius: 15px; font-size: 0.9rem; font-weight: bold; margin-bottom: 20px; }
+        .archivo-nombre { font-size: 0.85rem; color: #888; margin-bottom: 15px; font-family: monospace; }
+        .progreso { font-size: 1rem; color: #aaa; margin-bottom: 20px; }
+        
+        .info-bloque { background: #1a1a1a; padding: 20px; border-radius: 8px; border: 1px solid #444; margin-bottom: 20px; }
+        .info-bloque label { display: block; font-weight: bold; color: #f1c40f; margin-bottom: 5px; font-size: 0.9rem; text-transform: uppercase; }
+        .info-bloque p { margin: 0; font-size: 1.1rem; color: #fff; }
+        
+        .nav-buttons { display: flex; gap: 10px; margin-bottom: 20px; }
+        .btn-nav { flex: 1; padding: 15px; background: #3a3a3a; border: 1px solid #555; color: white; border-radius: 6px; cursor: pointer; font-weight: bold; font-size: 1rem; }
+        .btn-nav:hover { background: #4a4a4a; }
+        .btn-nav:disabled { background: #222; color: #555; cursor: not-allowed; border-color: #333; }
+        
+        .instrucciones { background: #333; padding: 15px; border-radius: 6px; font-size: 0.9rem; color: #ccc; border-left: 4px solid #27ae60; }
+
+        @media (max-width: 768px) {
+            body { flex-direction: column; overflow: auto; height: auto; }
+            .panel-izq { width: 100%; height: 50vh; padding: 10px; }
+            .panel-der { width: 100%; height: auto; padding: 20px; border-left: none; border-top: 1px solid #3c3c3c; }
+            h2 { font-size: 1.5rem; }
+        }
     </style>
 </head>
 <body>
-
-    <div class="header">
-        <h2 style="color: #5a3825; margin: 0;">🍰 Álbum de Recetas Digitales</h2>
+    <div class="panel-izq">
+        <img id="receta-img" src="" alt="Cargando receta...">
     </div>
-
-    <div class="controls">
-        <select id="filtroCategoria" onchange="filtrarPorCategoria()">
-            <option value="TODAS">📁 Todas las Categorías</option>
-        </select>
-    </div>
-
-    <div class="card">
-        <img id="tarjetaImagen" src="" alt="Cargando receta...">
-        <div class="card-content">
-            <div id="tarjetaCategoria" class="category">-</div>
-            <h1 id="tarjetaTitulo">Cargando base de datos...</h1>
-            <div id="tarjetaTags" class="tags"></div>
+    <div class="panel-der">
+        <div>
+            <h2 id="receta-titulo">Cargando...</h2>
+            <span id="receta-categoria" class="categoria-badge">-</span>
+            <div id="receta-archivo" class="archivo-nombre">ID Archivo: -</div>
+            
+            <div id="receta-progreso" class="progreso">
+                Cargando base de datos...
+            </div>
+            
+            <div class="nav-buttons">
+                <button class="btn-nav" id="btn-ant" onclick="navegar(-1)">◀ Anterior</button>
+                <button class="btn-nav" id="btn-sig" onclick="navegar(1)">Siguiente ▶</button>
+            </div>
+            
+            <div class="info-bloque">
+                <label>Palabras Clave / Ingredientes:</label>
+                <p id="receta-tags">-</p>
+            </div>
+        </div>
+        
+        <div class="instrucciones">
+            <strong>🌍 Recetario Familiar Cloud:</strong> Viendo la base de datos central guardada en internet de forma segura.
         </div>
     </div>
 
-    <div class="navigation">
-        <button id="btnAnt" onclick="navegar(-1)" disabled>◀ Anterior</button>
-        <span id="registroContador" class="counter">Tarjeta 0 de 0</span>
-        <button id="btnSig" onclick="navegar(1)" disabled>Siguiente ▶</button>
-    </div>
-
     <script>
-        let recetasGlobales = [];
-        let recetasFiltradas = [];
-        let indiceActual = 0;
-        const CARPETA_IMAGENES = "smart_cropped_recipes";
+        const GITHUB_RAW_BASE = "https://raw.githubusercontent.com/JoseTre/recetario/main";
+        const ARCHIVO_JSON_URL = `${GITHUB_RAW_BASE}/recetas_completas_database.json`;
 
-        document.addEventListener("DOMContentLoaded", () => {
-            fetch("recetas_completas_database.json")
-                .then(response => {
-                    if (!response.ok) throw new Error("No se pudo cargar el archivo JSON");
-                    return response.json();
-                })
-                .then(data => {
-                    recetasGlobales = Object.values(data);
-                    recetasFiltradas = [...recetasGlobales];
-                    poblarCategorias();
-                    actualizarPantalla();
-                })
-                .catch(error => {
-                    console.error("Error inicializando la aplicación:", error);
-                    document.getElementById("tarjetaTitulo").innerText = "Error al cargar la base de datos";
-                });
+        let database = {};
+        let fotosVivas = [];
+        let idxActual = 0;
+
+        async function cargarRecetario() {
+            try {
+                const respuesta = await fetch(ARCHIVO_JSON_URL);
+                database = await respuesta.json();
+                fotosVivas = Object.keys(database).sort();
                 
-            document.addEventListener("keydown", (e) => {
-                if (e.key === "ArrowLeft") navegar(-1);
-                if (e.key === "ArrowRight") navegar(1);
-            });
-        });
-
-        function poblarCategorias() {
-            const selector = document.getElementById("filtroCategoria");
-            const categorias = new Set();
-            recetasGlobales.forEach(r => {
-                if (r.categoria && r.categoria.trim() !== "") {
-                    categorias.add(r.categoria.trim());
+                if (fotosVivas.length === 0) {
+                    document.getElementById('receta-titulo').innerText = "Recetario vacío";
+                    return;
                 }
-            });
-            Array.from(categorias).sort().forEach(cat => {
-                const opcion = document.createElement("option");
-                opcion.value = cat;
-                opcion.textContent = cat;
-                selector.appendChild(opcion);
-            });
-        }
-
-        function filtrarPorCategoria() {
-            const categoriaSeleccionada = document.getElementById("filtroCategoria").value;
-            if (categoriaSeleccionada === "TODAS") {
-                recetasFiltradas = [...recetasGlobales];
-            } else {
-                recetasFiltradas = recetasGlobales.filter(r => r.categoria === categoriaSeleccionada);
-            }
-            indiceActual = 0;
-            actualizarPantalla();
-        }
-
-        function navegar(direccion) {
-            let nuevoIndice = indiceActual + direccion;
-            if (nuevoIndice >= 0 && nuevoIndice < recetasFiltradas.length) {
-                indiceActual = nuevoIndice;
+                
                 actualizarPantalla();
+            } catch (error) {
+                console.error("Error al cargar el JSON:", error);
+                document.getElementById('receta-titulo').innerText = "Error al conectar con el recetario";
             }
         }
 
         function actualizarPantalla() {
-            const total = recetasFiltradas.length;
-            if (total === 0) {
-                document.getElementById("tarjetaImagen").src = "";
-                document.getElementById("tarjetaTitulo").innerText = "No hay recetas en esta sección";
-                document.getElementById("tarjetaCategoria").innerText = "-";
-                document.getElementById("tarjetaTags").innerHTML = "";
-                document.getElementById("registroContador").innerText = "Tarjeta 0 de 0";
-                document.getElementById("btnAnt").disabled = true;
-                document.getElementById("btnSig").disabled = true;
-                return;
-            }
+            const fotoActual = fotosVivas[idxActual];
+            const datos = database[fotoActual];
+
+            document.getElementById('receta-img').src = `${GITHUB_RAW_BASE}/smart_cropped_recipes/${fotoActual}`;
+            document.getElementById('receta-titulo').innerText = datos.titulo || "Sin título";
+            document.getElementById('receta-categoria').innerText = datos.categoria || "Otros";
+            document.getElementById('receta-archivo').innerText = `ID Archivo: ${fotoActual}`;
+            document.getElementById('receta-progreso').innerHTML = `Receta <strong>${idxActual + 1}</strong> de ${fotosVivas.length}`;
             
-            const receta = recetasFiltradas[indiceActual];
-            document.getElementById("tarjetaImagen").src = `${CARPETA_IMAGENES}/${receta.archivo}`;
-            document.getElementById("tarjetaImagen").alt = receta.titulo;
-            document.getElementById("tarjetaTitulo").innerText = receta.titulo;
-            document.getElementById("tarjetaCategoria").innerText = receta.categoria || "Sin categoría";
-            
-            const contenedorTags = document.getElementById("tarjetaTags");
-            contenedorTags.innerHTML = "";
-            if (receta.palabras_clave && receta.palabras_clave.length > 0) {
-                receta.palabras_clave.forEach(tag => {
-                    const span = document.createElement("span");
-                    span.className = "tag";
-                    span.innerText = tag;
-                    contenedorTags.appendChild(span);
-                });
-            } else {
-                contenedorTags.innerHTML = "<span style='color:#666; font-style:italic;'>Ninguna</span>";
-            }
-            
-            document.getElementById("registroContador").innerText = `Tarjeta ${indiceActual + 1} de ${total}`;
-            document.getElementById("btnAnt").disabled = (indiceActual === 0);
-            document.getElementById("btnSig").disabled = (indiceActual === total - 1);
+            const tags = datos.palabras_clave || [];
+            document.getElementById('receta-tags').innerText = tags.length > 0 ? tags.join(', ') : "Ninguna";
+
+            document.getElementById('btn-ant').disabled = (idxActual === 0);
+            document.getElementById('btn-sig').disabled = (idxActual === fotosVivas.length - 1);
         }
+
+        function navegar(direccion) {
+            idxActual += direccion;
+            if (idxActual < 0) idxActual = 0;
+            if (idxActual >= fotosVivas.length) idxActual = fotosVivas.length - 1;
+            actualizarPantalla();
+        }
+
+        cargarRecetario();
     </script>
 </body>
 </html>
