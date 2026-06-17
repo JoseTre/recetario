@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Recetario Familiar</title>
+    <title>Mi Recetario Familiar Cloud</title>
     <style>
         body { font-family: 'Segoe UI', sans-serif; background: #1a1a1a; color: #e0e0e0; margin: 0; display: flex; height: 100vh; overflow: hidden; }
         .panel-izq { width: 60%; height: 100%; display: flex; justify-content: center; align-items: center; background: #111; padding: 20px; box-sizing: border-box; }
@@ -93,7 +93,19 @@
             const fotoActual = fotosVivas[idxActual];
             const datos = database[fotoActual];
 
-            document.getElementById('receta-img').src = `${GITHUB_RAW_BASE}/smart_cropped_recipes/${fotoActual}`;
+            const imgElement = document.getElementById('receta-img');
+            const urlOriginal = `${GITHUB_RAW_BASE}/Fotos-recortadas_integrados/${fotoActual}`;
+            
+            imgElement.src = urlOriginal;
+            
+            // Parche definitivo: Si el navegador bloquea la imagen por caché o extensión, fuerza la recarga limpia
+            imgElement.onerror = function() {
+                if (imgElement.src === urlOriginal) {
+                    // Intenta romper la caché del navegador agregando un número aleatorio al final
+                    imgElement.src = urlOriginal + "?v=" + new Date().getTime();
+                }
+            };
+
             document.getElementById('receta-titulo').innerText = datos.titulo || "Sin título";
             document.getElementById('receta-categoria').innerText = datos.categoria || "Otros";
             document.getElementById('receta-archivo').innerText = `ID Archivo: ${fotoActual}`;
