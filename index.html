@@ -153,7 +153,29 @@
             idxActual = 0;
             actualizarPantalla();
         }
-
+function buscarPorIngrediente() {
+            // 1. Convertimos lo que tecleó el usuario a minúsculas y quitamos espacios extras
+            const textoBuscado = document.getElementById('buscador-ingrediente').value.toLowerCase().trim();
+            
+            // Si limpia el buscador, regresamos a mostrar todas las recetas
+            if (textoBuscado === "") {
+                fotosFiltradas = [...todasLasFotos];
+            } else {
+                // 2. Filtramos comparando todo en minúsculas
+                fotosFiltradas = todasLasFotos.filter(foto => {
+                    const tags = database[foto].palabras_clave || [];
+                    // Buscamos si algún ingrediente de la lista contiene el texto buscado
+                    return tags.some(ingrediente => ingrediente.toLowerCase().includes(textoBuscado));
+                });
+            }
+            
+            // Reiniciamos al primer resultado y actualizamos pantalla
+            document.querySelectorAll('.btn-categoria').forEach(btn => btn.classList.remove('activo'));
+            if (textoBuscado === "") document.getElementById('btn-cat-todas').classList.add('activo');
+            
+            idxActual = 0;
+            actualizarPantalla();
+        }
         function actualizarPantalla() {
             if (fotosFiltradas.length === 0) return;
             
