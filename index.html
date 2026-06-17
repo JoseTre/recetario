@@ -5,10 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mi Recetario Familiar Cloud</title>
     <style>
-        body { font-family: 'Segoe UI', sans-serif; background: #1a1a1a; color: #e0e0e0; margin: 0; display: flex; flex-direction: column; height: 100vh; overflow: hidden; }
-        
-        /* Nueva barra superior para el slider de categorías */
-    body { font-family: 'Segoe UI', sans-serif; background: #1a1a1a; color: #e0e0e0; margin: 0; display: flex; flex-direction: column; min-height: 100vh; }
+        body { font-family: 'Segoe UI', sans-serif; background: #1a1a1a; color: #e0e0e0; margin: 0; display: flex; flex-direction: column; min-height: 100vh; }
         
         /* Nueva barra superior para el slider de categorías */
         .slider-categorias { background: #111; padding: 15px 20px; border-bottom: 1px solid #3c3c3c; display: flex; gap: 10px; overflow-x: auto; white-space: nowrap; scrollbar-width: thin; flex-shrink: 0; z-index: 10; }
@@ -21,13 +18,6 @@
 
         /* Contenedor principal ajustado */
         .contenedor-principal { display: flex; flex: 1; height: calc(100vh - 75px); overflow: hidden; }
-        
-        .btn-categoria { background: #262626; color: #aaa; border: 1px solid #444; padding: 8px 16px; border-radius: 20px; cursor: pointer; font-weight: bold; font-size: 0.9rem; transition: all 0.2s; }
-        .btn-categoria:hover { background: #333; color: #fff; }
-        .btn-categoria.activo { background: #d35400; color: white; border-color: #d35400; }
-
-        /* Contenedor principal ajustado */
-        .contenedor-principal { display: flex; flex: 1; height: calc(100vh - 70px); overflow: hidden; }
         
         .panel-izq { width: 60%; height: 100%; display: flex; justify-content: center; align-items: center; background: #111; padding: 20px; box-sizing: border-box; }
         .panel-izq img { max-width: 100%; max-height: 100%; object-fit: contain; box-shadow: 0 4px 15px rgba(0,0,0,0.5); border-radius: 6px; }
@@ -63,7 +53,6 @@
     <!-- Nuevo control deslizable de categorías -->
     <div class="slider-categorias" id="barra-categorias">
         <button class="btn-categoria activo" id="btn-cat-todas" onclick="filtrarPorCategoria('TODAS')">Todas</button>
-        <!-- Las demás categorías se inyectarán aquí automáticamente -->
     </div>
 
     <div class="contenedor-principal">
@@ -102,10 +91,9 @@
         const ARCHIVO_JSON_URL = `${GITHUB_RAW_BASE}/recetas_completas_database.json`;
 
         let database = {};
-        let todasLasFotos = []; // Lista completa inmutable
-        let fotosFiltradas = []; // Lista que cambia según el filtro
+        let todasLasFotos = [];
+        let fotosFiltradas = [];
         let idxActual = 0;
-        let categoriaSeleccionada = "TODAS";
 
         async function cargarRecetario() {
             try {
@@ -118,9 +106,7 @@
                     return;
                 }
                 
-                // Inicialmente, las fotos filtradas son todas
                 fotosFiltradas = [...todasLasFotos];
-                
                 generarBotonesCategorias();
                 actualizarPantalla();
             } catch (error) {
@@ -133,14 +119,12 @@
             const barra = document.getElementById('barra-categorias');
             const categoriasSet = new Set();
             
-            // Extraer categorías únicas del JSON
             todasLasFotos.forEach(foto => {
                 if (database[foto].categoria) {
                     categoriasSet.add(database[foto].categoria);
                 }
             });
             
-            // Crear un botón por cada categoría encontrada
             const categoriasOrdenadas = Array.from(categoriasSet).sort();
             categoriasOrdenadas.forEach(cat => {
                 const boton = document.createElement('button');
@@ -153,9 +137,6 @@
         }
 
         function filtrarPorCategoria(categoria) {
-            categoriaSeleccionada = categoria;
-            
-            // Actualizar estilo visual de los botones
             document.querySelectorAll('.btn-categoria').forEach(btn => btn.classList.remove('activo'));
             if (categoria === 'TODAS') {
                 document.getElementById('btn-cat-todas').classList.add('activo');
@@ -163,12 +144,8 @@
             } else {
                 const btnActivo = document.querySelector(`[data-categoria="${categoria}"]`);
                 if (btnActivo) btnActivo.classList.add('activo');
-                
-                // Filtrar las fotos que pertenecen a la categoría elegida
                 fotosFiltradas = todasLasFotos.filter(foto => database[foto].categoria === categoria);
             }
-            
-            // Reiniciar al primer elemento del nuevo grupo filtrado
             idxActual = 0;
             actualizarPantalla();
         }
@@ -184,17 +161,9 @@
             
             imgElement.src = urlOriginal;
             
-            imgElement.onerror = function() {
-                if (imgElement.src === urlOriginal) {
-                    imgElement.src = urlOriginal + "?v=" + new Date().getTime();
-                }
-            };
-
             document.getElementById('receta-titulo').innerText = datos.titulo || "Sin título";
             document.getElementById('receta-categoria').innerText = datos.categoria || "Otros";
             document.getElementById('receta-archivo').innerText = `ID Archivo: ${fotoActual}`;
-            
-            // Muestra el progreso dinámico (ej: Receta 1 de 12 en esta categoría)
             document.getElementById('receta-progreso').innerHTML = `Receta <strong>${idxActual + 1}</strong> de ${fotosFiltradas.length}`;
             
             const tags = datos.palabras_clave || [];
@@ -206,8 +175,6 @@
 
         function navegar(direccion) {
             idxActual += direccion;
-            if (idxActual < 0) idxActual = 0;
-            if (idxActual >= fotosFiltradas.length) idxActual = fotosFiltradas.length - 1;
             actualizarPantalla();
         }
 
