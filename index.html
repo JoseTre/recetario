@@ -52,7 +52,11 @@
 
     <!-- Nuevo control deslizable de categorías -->
     <div class="slider-categorias" id="barra-categorias">
-        <button class="btn-categoria activo" id="btn-cat-todas" onclick="filtrarPorCategoria('TODAS')">Todas</button>
+        <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap; width: 100%;">
+            <button class="btn-categoria activo" id="btn-cat-todas" onclick="filtrarPorCategoria('TODAS')">Todas</button>
+            
+            <input type="text" id="buscador-ingrediente" oninput="buscarPorIngrediente()" placeholder="🔍 Teclea un ingrediente (ej: nuez)..." style="background: #262626; color: white; border: 1px solid #555; padding: 8px 15px; border-radius: 20px; font-size: 0.9rem; margin-left: auto; width: 250px; outline: none;">
+        </div>
     </div>
 
     <div class="contenedor-principal">
