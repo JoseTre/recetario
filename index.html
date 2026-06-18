@@ -169,36 +169,44 @@
             actualizarPantalla();
         }
 
-        function buscarPorIngrediente() {
+       function buscarPorIngrediente() {
             const textoBuscado = document.getElementById('buscador-ingrediente').value.toLowerCase().trim();
             
             if (textoBuscado === "") {
                 fotosFiltradas = [...todasLasFotos];
             } else {
+                // Filtramos las recetas buscando coincidencia en ingredientes O en el título
                 fotosFiltradas = todasLasFotos.filter(foto => {
-                    const tags = database[foto].palabras_clave || [];
-                    return tags.some(ingrediente => ingrediente.toLowerCase().includes(textoBuscado));
+                    const datos = database[foto];
+                    
+                    // 1. Buscar en las palabras clave (ingredientes)
+                    const tags = datos.palabras_clave || [];
+                    const coincideIngrediente = tags.some(ingrediente => ingrediente.toLowerCase().includes(textoBuscado));
+                    
+                    // 2. Buscar en el título de la receta
+                    const titulo = datos.titulo || "";
+                    const coincideTitulo = titulo.toLowerCase().includes(textoBuscado);
+                    
+                    // Si coincide en cualquiera de las dos partes, se incluye la tarjeta
+                    return coincideIngrediente || coincideTitulo;
                 });
             }
             
             if (fotosFiltradas.length === 0) {
-                // Forzar desaparición total de la imagen anterior y poner cuadro gris
                 document.getElementById('receta-img').style.display = 'none';
                 document.getElementById('cuadro-no-imagen').style.display = 'flex';
                 
-                // Mensajes claros en el panel de datos
                 document.getElementById('receta-titulo').innerText = "Ninguna receta coincide";
                 document.getElementById('receta-categoria').innerText = "Intenta otra búsqueda";
                 document.getElementById('receta-archivo').innerText = "Búsqueda vacía";
                 document.getElementById('receta-progreso').innerHTML = "Resultados: <strong>0 de 0</strong>";
-                document.getElementById('receta-tags').innerText = "No hay palabras clave coincidentes.";
+                document.getElementById('receta-tags').innerText = "No hay coincidencias en títulos ni ingredientes.";
                 
                 document.getElementById('btn-ant').disabled = true;
                 document.getElementById('btn-sig').disabled = true;
                 return; 
             }
             
-            // Si sí hay resultados, regresamos la imagen a su estado normal
             document.getElementById('receta-img').style.display = 'block';
             document.getElementById('cuadro-no-imagen').style.display = 'none';
             
@@ -208,7 +216,6 @@
             idxActual = 0;
             actualizarPantalla();
         }
-
         function actualizarPantalla() {
             if (fotosFiltradas.length === 0) return;
             
