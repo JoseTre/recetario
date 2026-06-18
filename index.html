@@ -1,4 +1,102 @@
-<script>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Recetario Familiar Cloud</title>
+    <style>
+        body { font-family: 'Segoe UI', sans-serif; background: #1a1a1a; color: #e0e0e0; margin: 0; display: flex; flex-direction: column; min-height: 100vh; }
+        
+        /* Barra superior para las categorías y buscador */
+        .slider-categorias { background: #111; padding: 15px 20px; border-bottom: 1px solid #3c3c3c; display: flex; gap: 10px; overflow-x: auto; white-space: nowrap; scrollbar-width: thin; flex-shrink: 0; z-index: 10; }
+        .slider-categorias::-webkit-scrollbar { height: 6px; }
+        .slider-categorias::-webkit-scrollbar-thumb { background: #444; border-radius: 3px; }
+        
+        .btn-categoria { background: #262626; color: #aaa; border: 1px solid #444; padding: 8px 16px; border-radius: 20px; cursor: pointer; font-weight: bold; font-size: 0.9rem; transition: all 0.2s; }
+        .btn-categoria:hover { background: #333; color: #fff; }
+        .btn-categoria.activo { background: #d35400; color: white; border-color: #d35400; }
+
+        /* Contenedor principal */
+        .contenedor-principal { display: flex; flex: 1; height: calc(100vh - 75px); overflow: hidden; }
+        
+        .panel-izq { width: 60%; height: 100%; display: flex; justify-content: center; align-items: center; background: #111; padding: 20px; box-sizing: border-box; position: relative; }
+        .panel-izq img { max-width: 100%; max-height: 100%; object-fit: contain; box-shadow: 0 4px 15px rgba(0,0,0,0.5); border-radius: 6px; }
+        
+        /* Cuadro neutral para cuando no hay imagen */
+        .no-imagen { display: none; width: 80%; height: 80%; background: #222; border: 2px dashed #444; border-radius: 8px; justify-content: center; align-items: center; color: #666; font-size: 1.5rem; font-weight: bold; }
+        
+        .panel-der { width: 40%; height: 100%; background: #262626; padding: 40px; display: flex; flex-direction: column; justify-content: space-between; border-left: 1px solid #3c3c3c; box-sizing: border-box; overflow-y: auto; }
+        
+        h2 { color: #f1c40f; margin-top: 0; margin-bottom: 5px; font-size: 2rem; }
+        .categoria-badge { display: inline-block; background: #d35400; color: white; padding: 5px 12px; border-radius: 15px; font-size: 0.9rem; font-weight: bold; margin-bottom: 20px; }
+        .archivo-nombre { font-size: 0.85rem; color: #888; margin-bottom: 15px; font-family: monospace; }
+        .progreso { font-size: 1rem; color: #aaa; margin-bottom: 20px; }
+        
+        .info-bloque { background: #1a1a1a; padding: 20px; border-radius: 8px; border: 1px solid #444; margin-bottom: 20px; }
+        .info-bloque label { display: block; font-weight: bold; color: #f1c40f; margin-bottom: 5px; font-size: 0.9rem; text-transform: uppercase; }
+        .info-bloque p { margin: 0; font-size: 1.1rem; color: #fff; }
+        
+        .nav-buttons { display: flex; gap: 10px; margin-bottom: 20px; }
+        .btn-nav { flex: 1; padding: 15px; background: #3a3a3a; border: 1px solid #555; color: white; border-radius: 6px; cursor: pointer; font-weight: bold; font-size: 1rem; }
+        .btn-nav:hover { background: #4a4a4a; }
+        .btn-nav:disabled { background: #222; color: #555; cursor: not-allowed; border-color: #333; }
+        
+        .instrucciones { background: #333; padding: 15px; border-radius: 6px; font-size: 0.9rem; color: #ccc; border-left: 4px solid #27ae60; }
+
+        @media (max-width: 768px) {
+            body { overflow: auto; height: auto; }
+            .contenedor-principal { flex-direction: column; height: auto; overflow: visible; }
+            .panel-izq { width: 100%; height: 50vh; padding: 10px; }
+            .panel-der { width: 100%; height: auto; padding: 20px; border-left: none; border-top: 1px solid #3c3c3c; }
+            h2 { font-size: 1.5rem; }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Barra Superior: Categorías y Buscador de Ingredientes -->
+    <div class="slider-categorias" id="barra-categorias">
+        <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap; width: 100%;">
+            <button class="btn-categoria activo" id="btn-cat-todas" onclick="filtrarPorCategoria('TODAS')">Todas</button>
+            
+            <!-- Cuadro de texto para buscar ingredientes -->
+            <input type="text" id="buscador-ingrediente" oninput="buscarPorIngrediente()" placeholder="🔍 Teclea un ingrediente (ej: nuez)..." style="background: #262626; color: white; border: 1px solid #555; padding: 8px 15px; border-radius: 20px; font-size: 0.9rem; margin-left: auto; width: 250px; outline: none;">
+        </div>
+    </div>
+
+    <div class="contenedor-principal">
+        <div class="panel-izq">
+            <img id="receta-img" src="" alt="Receta">
+            <div id="cuadro-no-imagen" class="no-imagen">Ninguna receta coincide</div>
+        </div>
+        <div class="panel-der">
+            <div>
+                <h2 id="receta-titulo">Cargando...</h2>
+                <span id="receta-categoria" class="categoria-badge">-</span>
+                <div id="receta-archivo" class="archivo-nombre">ID Archivo: -</div>
+                
+                <div id="receta-progreso" class="progreso">
+                    Cargando base de datos...
+                </div>
+                
+                <div class="nav-buttons">
+                    <button class="btn-nav" id="btn-ant" onclick="navegar(-1)">◀ Anterior</button>
+                    <button class="btn-nav" id="btn-sig" onclick="navegar(1)">Siguiente ▶</button>
+                </div>
+                
+                <div class="info-bloque">
+                    <label>Palabras Clave / Ingredientes:</label>
+                    <p id="receta-tags">-</p>
+                </div>
+            </div>
+            
+            <div class="instrucciones">
+                <strong>🌍 Recetario Familiar Cloud:</strong> Viendo la base de datos central guardada en internet de forma segura.
+            </div>
+        </div>
+    </div>
+
+    <script>
         const GITHUB_RAW_BASE = "https://raw.githubusercontent.com/JoseTre/recetario/main";
         const ARCHIVO_JSON_URL = `${GITHUB_RAW_BASE}/recetas_completas_database.json`;
 
@@ -44,28 +142,11 @@
                 boton.innerText = cat;
                 boton.onclick = () => filtrarPorCategoria(cat);
                 boton.setAttribute('data-categoria', cat);
-                barra.insertBefore(boton, document.getElementById('buscador-ingrediente').parentNode.id === 'barra-categorias' ? null : barra.firstChild.nextSibling);
                 barra.querySelector('div').insertBefore(boton, document.getElementById('buscador-ingrediente'));
             });
         }
 
-        // Nueva función de ayuda para limpiar la interfaz al instante
-        function actualizarInterfazDeError() {
-            // Oculta la imagen de inmediato para evitar destellos
-            document.getElementById('receta-img').src = "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="; 
-            document.getElementById('receta-titulo').innerText = "Ninguna coincidencia encontrada";
-            document.getElementById('receta-categoria').innerText = "Intenta otra búsqueda";
-            document.getElementById('receta-archivo').innerText = "Búsqueda vacía";
-            document.getElementById('receta-progreso').innerHTML = "Resultados: <strong>0</strong> de <strong>0</strong>";
-            document.getElementById('receta-tags').innerText = "No hay palabras clave coincidentes.";
-
-            // Desactiva los botones de navegación de inmediato
-            document.getElementById('btn-ant').disabled = true;
-            document.getElementById('btn-sig').disabled = true;
-        }
-
         function filtrarPorCategoria(categoria) {
-            // Limpiar buscador si se usa un botón de categoría
             document.getElementById('buscador-ingrediente').value = "";
             
             document.querySelectorAll('.btn-categoria').forEach(btn => btn.classList.remove('activo'));
@@ -93,14 +174,27 @@
                 });
             }
             
-            // Lógica robusta: si no hay coincidencias, limpia la interfaz y detiene
             if (fotosFiltradas.length === 0) {
-                // Llama a la nueva función centralizada para limpiar la interfaz e inhabilitar los botones instantáneamente
-                actualizarInterfazDeError();
-                return; // Se detiene inmediatamente, sin llamar a actualizarPantalla()
+                // Forzar desaparición total de la imagen anterior y poner cuadro gris
+                document.getElementById('receta-img').style.display = 'none';
+                document.getElementById('cuadro-no-imagen').style.display = 'flex';
+                
+                // Mensajes claros en el panel de datos
+                document.getElementById('receta-titulo').innerText = "Ninguna receta coincide";
+                document.getElementById('receta-categoria').innerText = "Intenta otra búsqueda";
+                document.getElementById('receta-archivo').innerText = "Búsqueda vacía";
+                document.getElementById('receta-progreso').innerHTML = "Resultados: <strong>0 de 0</strong>";
+                document.getElementById('receta-tags').innerText = "No hay palabras clave coincidentes.";
+                
+                document.getElementById('btn-ant').disabled = true;
+                document.getElementById('btn-sig').disabled = true;
+                return; 
             }
             
-            // Si hay coincidencias, procede normalmente
+            // Si sí hay resultados, regresamos la imagen a su estado normal
+            document.getElementById('receta-img').style.display = 'block';
+            document.getElementById('cuadro-no-imagen').style.display = 'none';
+            
             document.querySelectorAll('.btn-categoria').forEach(btn => btn.classList.remove('activo'));
             if (textoBuscado === "") document.getElementById('btn-cat-todas').classList.add('activo');
             
@@ -109,7 +203,6 @@
         }
 
         function actualizarPantalla() {
-            // Protección adicional: si por alguna razón la lista está vacía, no hace nada
             if (fotosFiltradas.length === 0) return;
             
             const fotoActual = fotosFiltradas[idxActual];
@@ -128,13 +221,11 @@
             const tags = datos.palabras_clave || [];
             document.getElementById('receta-tags').innerText = tags.length > 0 ? tags.join(', ') : "Ninguna";
 
-            // Asegura el estado de los botones de forma robusta
             document.getElementById('btn-ant').disabled = (idxActual === 0);
             document.getElementById('btn-sig').disabled = (idxActual === fotosFiltradas.length - 1);
         }
 
         function navegar(direccion) {
-            // Protección adicional: no permite navegación si no hay tarjetas
             if (fotosFiltradas.length === 0) return;
             idxActual += direccion;
             actualizarPantalla();
@@ -142,3 +233,5 @@
 
         cargarRecetario();
     </script>
+</body>
+</html>
