@@ -7,7 +7,7 @@
     <style>
         body { font-family: 'Segoe UI', sans-serif; background: #1a1a1a; color: #e0e0e0; margin: 0; display: flex; flex-direction: column; min-height: 100vh; }
         
-        /* Nueva barra superior para el slider de categorías */
+        /* Barra superior para las categorías y buscador */
         .slider-categorias { background: #111; padding: 15px 20px; border-bottom: 1px solid #3c3c3c; display: flex; gap: 10px; overflow-x: auto; white-space: nowrap; scrollbar-width: thin; flex-shrink: 0; z-index: 10; }
         .slider-categorias::-webkit-scrollbar { height: 6px; }
         .slider-categorias::-webkit-scrollbar-thumb { background: #444; border-radius: 3px; }
@@ -50,7 +50,6 @@
 </head>
 <body>
 
-    <!-- Nuevo control deslizable de categorías -->
     <div class="slider-categorias" id="barra-categorias">
         <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap; width: 100%;">
             <button class="btn-categoria activo" id="btn-cat-todas" onclick="filtrarPorCategoria('TODAS')">Todas</button>
@@ -136,11 +135,15 @@
                 boton.innerText = cat;
                 boton.onclick = () => filtrarPorCategoria(cat);
                 boton.setAttribute('data-categoria', cat);
-                barra.appendChild(boton);
+                barra.insertBefore(boton, document.getElementById('buscador-ingrediente').parentNode.id === 'barra-categorias' ? null : barra.firstChild.nextSibling);
+                barra.querySelector('div').insertBefore(boton, document.getElementById('buscador-ingrediente'));
             });
         }
 
         function filtrarPorCategoria(categoria) {
+            // Limpiar buscador si se usa un botón de categoría
+            document.getElementById('buscador-ingrediente').value = "";
+            
             document.querySelectorAll('.btn-categoria').forEach(btn => btn.classList.remove('activo'));
             if (categoria === 'TODAS') {
                 document.getElementById('btn-cat-todas').classList.add('activo');
@@ -153,29 +156,40 @@
             idxActual = 0;
             actualizarPantalla();
         }
-function buscarPorIngrediente() {
-            // 1. Convertimos lo que tecleó el usuario a minúsculas y quitamos espacios extras
+
+        function buscarPorIngrediente() {
             const textoBuscado = document.getElementById('buscador-ingrediente').value.toLowerCase().trim();
             
-            // Si limpia el buscador, regresamos a mostrar todas las recetas
             if (textoBuscado === "") {
                 fotosFiltradas = [...todasLasFotos];
             } else {
-                // 2. Filtramos comparando todo en minúsculas
                 fotosFiltradas = todasLasFotos.filter(foto => {
                     const tags = database[foto].palabras_clave || [];
-                    // Buscamos si algún ingrediente de la lista contiene el texto buscado
                     return tags.some(ingrediente => ingrediente.toLowerCase().includes(textoBuscado));
                 });
             }
             
-            // Reiniciamos al primer resultado y actualizamos pantalla
+            // Si no encuentra coincidencia, limpia la interfaz de forma elegante y apaga botones
+            if (fotosFiltradas.length === 0) {
+                document.getElementById('receta-titulo').innerText = "Ninguna receta coincide";
+                document.getElementById('receta-categoria').innerText = "-";
+                document.getElementById('receta-archivo').innerText = "Intenta con otro ingrediente";
+                document.getElementById('receta-progreso').innerHTML = "Resultados: <strong>0</strong>";
+                document.getElementById('receta-tags').innerText = "-";
+                document.getElementById('receta-img').src = ""; 
+                
+                document.getElementById('btn-ant').disabled = true;
+                document.getElementById('btn-sig').disabled = true;
+                return; 
+            }
+            
             document.querySelectorAll('.btn-categoria').forEach(btn => btn.classList.remove('activo'));
             if (textoBuscado === "") document.getElementById('btn-cat-todas').classList.add('activo');
             
             idxActual = 0;
             actualizarPantalla();
         }
+
         function actualizarPantalla() {
             if (fotosFiltradas.length === 0) return;
             
