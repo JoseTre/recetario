@@ -147,8 +147,14 @@
         }
 
         function filtrarPorCategoria(categoria) {
+            // ¡SOLUCIÓN!: Borramos por completo el texto que se haya quedado en el buscador
             document.getElementById('buscador-ingrediente').value = "";
             
+            // Nos aseguramos de que la imagen y el cuadro gris regresen a su estado normal
+            document.getElementById('receta-img').style.display = 'block';
+            document.getElementById('cuadro-no-imagen').style.display = 'none';
+            
+            // Manejo normal de los botones de categorías
             document.querySelectorAll('.btn-categoria').forEach(btn => btn.classList.remove('activo'));
             if (categoria === 'TODAS') {
                 document.getElementById('btn-cat-todas').classList.add('activo');
@@ -158,6 +164,7 @@
                 if (btnActivo) btnActivo.classList.add('activo');
                 fotosFiltradas = todasLasFotos.filter(foto => database[foto].categoria === categoria);
             }
+            
             idxActual = 0;
             actualizarPantalla();
         }
