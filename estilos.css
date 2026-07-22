@@ -1,4 +1,4 @@
-/* Forzar la imagen de fondo en toda la ventana */
+/* Forzar la imagen de fondo de Vita en todo el sitio */
 html, body {
     margin: 0;
     padding: 0;
@@ -6,8 +6,8 @@ html, body {
     min-height: 100vh;
     font-family: system-ui, -apple-system, sans-serif;
 
-    /* Configuración directa de la imagen */
-    background-image: url("drawing.png") !important;
+    /* Ruta directa a la imagen en la raíz del proyecto */
+    background-image: url('./drawing.png') !important;
     background-position: center top !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
@@ -15,7 +15,7 @@ html, body {
     background-color: #111111 !important;
 }
 
-/* Formato para que el contenido sea transparente y flotante */
+/* Formato traslúcido para las tarjetas de contenido */
 body > div, main, .tarjeta-receta, #contenido {
     background-color: rgba(255, 255, 255, 0.8) !important;
     backdrop-filter: blur(10px);
