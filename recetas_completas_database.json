@@ -4,15 +4,19 @@
         "titulo": "Cuernitos",
         "categoria": "Cakes and cookies",
         "palabras_clave": [
-            "nuez"
+            "nuez",
+            "harina",
+            "azúcar"
         ]
     },
     "IMG_6050.jpeg": {
         "archivo": "IMG_6050.jpeg",
         "titulo": "Galletas de nuez",
-        "categoria": "Cakes and cookies",
+        "categoria": "Cakes and cookies,limón",
         "palabras_clave": [
-            "nuez"
+            "nuez",
+            "harina",
+            "azúcar"
         ]
     },
     "IMG_6052.jpeg": {
@@ -21,7 +25,8 @@
         "categoria": "Cakes and cookies",
         "palabras_clave": [
             "queso",
-            "nuez"
+            "nuez",
+            "queso cheddar"
         ]
     },
     "IMG_6054.jpeg": {
@@ -29,15 +34,17 @@
         "titulo": "Chocolate Drops",
         "categoria": "Cakes and cookies",
         "palabras_clave": [
-            "chocolate"
+            "chocolate Bakers",
+            "huevos"
         ]
     },
     "IMG_6055.jpeg": {
         "archivo": "IMG_6055.jpeg",
-        "titulo": "Chocolate Drops 2",
+        "titulo": "Chocolate Drops",
         "categoria": "Cakes and cookies",
         "palabras_clave": [
-            "chocolate"
+            "chocolate",
+            "huevos"
         ]
     },
     "IMG_6056.jpeg": {
@@ -51,24 +58,30 @@
     },
     "IMG_6057.jpeg": {
         "archivo": "IMG_6057.jpeg",
-        "titulo": "Pastel imposible 2",
+        "titulo": "Pastel imposible",
         "categoria": "Cakes and cookies",
         "palabras_clave": [
-            "coco nuez"
+            "coco",
+            "nuez"
         ]
     },
     "IMG_6058.jpeg": {
         "archivo": "IMG_6058.jpeg",
         "titulo": "Masa para Empanadas",
         "categoria": "Cakes and cookies",
-        "palabras_clave": []
+        "palabras_clave": [
+            "Harina",
+            "huevos",
+            "leche"
+        ]
     },
     "IMG_6060.jpeg": {
         "archivo": "IMG_6060.jpeg",
         "titulo": "Brownies",
         "categoria": "Cakes and cookies",
         "palabras_clave": [
-            "chocolate"
+            "chocolate",
+            "nueces"
         ]
     },
     "IMG_6061.jpeg": {
@@ -76,22 +89,29 @@
         "titulo": "Fudge cake",
         "categoria": "Cakes and cookies",
         "palabras_clave": [
-            "chocolate"
+            "chocolate bakers",
+            "huevos"
         ]
     },
     "IMG_6062.jpeg": {
         "archivo": "IMG_6062.jpeg",
-        "titulo": "Orange Cookies",
+        "titulo": "Orange cookies",
         "categoria": "Cakes and cookies",
         "palabras_clave": [
+            "harina",
+            "huevos",
+            "nueces",
             "naranja"
         ]
     },
     "IMG_6063.jpeg": {
         "archivo": "IMG_6063.jpeg",
-        "titulo": "Orange cookies 2",
+        "titulo": "Orange cookies",
         "categoria": "Cakes and cookies",
         "palabras_clave": [
+            "harina",
+            "huevos",
+            "nueces",
             "naranja"
         ]
     },
@@ -100,14 +120,11 @@
         "titulo": "Bolitas de coñac",
         "categoria": "Cakes and cookies",
         "palabras_clave": [
-            "nuez"
+            "nuez",
+            "waffers",
+            "coñac",
+            "miel karo"
         ]
-    },
-    "IMG_6065.jpeg": {
-        "archivo": "IMG_6065.jpeg",
-        "titulo": "IMG 6065",
-        "categoria": "Cakes and cookies",
-        "palabras_clave": []
     },
     "IMG_6066.jpeg": {
         "archivo": "IMG_6066.jpeg",
@@ -115,16 +132,20 @@
         "categoria": "Cakes and cookies",
         "palabras_clave": [
             "nuez",
-            "coco"
+            "waffers",
+            "coñac",
+            "miel karo"
         ]
     },
     "IMG_6067.jpeg": {
         "archivo": "IMG_6067.jpeg",
-        "titulo": "Galletas coco 2",
+        "titulo": "Galletas coco",
         "categoria": "Cakes and cookies",
         "palabras_clave": [
             "nuez",
-            "coco"
+            "waffers",
+            "coñac",
+            "miel karo"
         ]
     },
     "IMG_6068.jpeg": {
@@ -133,32 +154,40 @@
         "categoria": "Cakes and cookies",
         "palabras_clave": [
             "avena",
-            "pasas"
+            "pasas",
+            "huevos",
+            "harina"
         ]
     },
     "IMG_6069.jpeg": {
         "archivo": "IMG_6069.jpeg",
-        "titulo": "Raisin Oatmeal classics 2",
+        "titulo": "Raisin Oatmeal classics",
         "categoria": "Cakes and cookies",
         "palabras_clave": [
             "avena",
-            "pasas"
+            "pasas",
+            "huevos",
+            "harina"
         ]
     },
     "IMG_6070.jpeg": {
         "archivo": "IMG_6070.jpeg",
-        "titulo": "Anonumo de manzana",
+        "titulo": "Anónimo de manzana",
         "categoria": "Cakes and cookies",
         "palabras_clave": [
-            "manzana"
+            "manzana",
+            "harina",
+            "huevos"
         ]
     },
     "IMG_6071.jpeg": {
         "archivo": "IMG_6071.jpeg",
-        "titulo": "Anonimo de manzana 2",
+        "titulo": "Anónimo de manzana",
         "categoria": "Cakes and cookies",
         "palabras_clave": [
-            "manzana"
+            "manzana",
+            "harina",
+            "huevos"
         ]
     },
     "IMG_6072.jpeg": {
@@ -166,15 +195,21 @@
         "titulo": "Pan de manzana",
         "categoria": "Cakes and cookies",
         "palabras_clave": [
-            "manzana"
+            "manzana",
+            "yogurt",
+            "huevos",
+            "harina"
         ]
     },
     "IMG_6073.jpeg": {
         "archivo": "IMG_6073.jpeg",
-        "titulo": "Pan de manzana 2",
+        "titulo": "Pan de manzana",
         "categoria": "Cakes and cookies",
         "palabras_clave": [
-            "manzana"
+            "manzana",
+            "yogurt",
+            "huevos",
+            "harina"
         ]
     },
     "IMG_6074.jpeg": {
@@ -183,37 +218,42 @@
         "categoria": "Cakes and cookies",
         "palabras_clave": [
             "berries",
-            "almendras"
+            "almendras",
+            "huevos",
+            "harina"
         ]
     },
     "IMG_6075.jpeg": {
         "archivo": "IMG_6075.jpeg",
-        "titulo": "Mixed Berry Coffee Cake 2",
+        "titulo": "Mixed Berry Coffee Cake",
         "categoria": "Cakes and cookies",
         "palabras_clave": [
             "berries",
-            "almendras"
+            "almendras",
+            "huevos",
+            "harina"
         ]
     },
     "IMG_6076.jpeg": {
         "archivo": "IMG_6076.jpeg",
-        "titulo": "Betún ake domino",
+        "titulo": "Betún cake domino",
         "categoria": "Cakes and cookies",
-        "palabras_clave": []
-    },
-    "IMG_6077.jpeg": {
-        "archivo": "IMG_6077.jpeg",
-        "titulo": "IMG 6077",
-        "categoria": "Cakes and cookies",
-        "palabras_clave": []
+        "palabras_clave": [
+            "Mantequilla",
+            "azucar",
+            "naranja"
+        ]
     },
     "IMG_6078.jpeg": {
         "archivo": "IMG_6078.jpeg",
-        "titulo": "Cake de Zanahoria",
+        "titulo": "Cake de zanahoria",
         "categoria": "Cakes and cookies",
         "palabras_clave": [
             "zanahoria",
-            "nuez"
+            "nuez",
+            "canela",
+            "huevos",
+            "harina"
         ]
     },
     "IMG_6079.jpeg": {
@@ -221,55 +261,77 @@
         "titulo": "Betún de queso con crema",
         "categoria": "Cakes and cookies",
         "palabras_clave": [
-            "queso Philadelphia"
+            "queso filadelfia",
+            "crema"
         ]
     },
     "IMG_6080.jpeg": {
         "archivo": "IMG_6080.jpeg",
-        "titulo": "Hersheys special cake 2",
+        "titulo": "Hersheys special cake",
         "categoria": "Cakes and cookies",
-        "palabras_clave": []
+        "palabras_clave": [
+            "cocoa",
+            "huevos",
+            "harina"
+        ]
     },
     "IMG_6081.jpeg": {
         "archivo": "IMG_6081.jpeg",
         "titulo": "Hersheys special cake",
         "categoria": "Cakes and cookies",
         "palabras_clave": [
-            "cocoa"
+            "cocoa",
+            "huevos",
+            "harina"
         ]
     },
     "IMG_6082.jpeg": {
         "archivo": "IMG_6082.jpeg",
         "titulo": "Collectors cocoa cake",
         "categoria": "Cakes and cookies",
-        "palabras_clave": []
+        "palabras_clave": [
+            "cocoa",
+            "huevos",
+            "harina"
+        ]
     },
     "IMG_6083.jpeg": {
         "archivo": "IMG_6083.jpeg",
-        "titulo": "Collectors cocoa cake 2",
+        "titulo": "Collectors cocoa cake",
         "categoria": "Cakes and cookies",
-        "palabras_clave": []
+        "palabras_clave": [
+            "cocoa",
+            "huevos",
+            "harina"
+        ]
     },
     "IMG_6084.jpeg": {
         "archivo": "IMG_6084.jpeg",
         "titulo": "Cake chocolate",
         "categoria": "Cakes and cookies",
         "palabras_clave": [
-            "chocolate"
+            "chocolate",
+            "harina",
+            "huevos"
         ]
     },
     "IMG_6085.jpeg": {
         "archivo": "IMG_6085.jpeg",
         "titulo": "Cake chocolate",
         "categoria": "Cakes and cookies",
-        "palabras_clave": []
+        "palabras_clave": [
+            "chocolate",
+            "harina",
+            "huevos"
+        ]
     },
     "IMG_6086.jpeg": {
         "archivo": "IMG_6086.jpeg",
         "titulo": "Pastel de piña invertido",
         "categoria": "Cakes and cookies",
         "palabras_clave": [
-            "piña"
+            "piña",
+            "azucar morena"
         ]
     },
     "IMG_6087.jpeg": {
@@ -277,7 +339,8 @@
         "titulo": "Pastel de piña invertido",
         "categoria": "Cakes and cookies",
         "palabras_clave": [
-            "piña"
+            "piña",
+            "azucar morena"
         ]
     },
     "IMG_6088.jpeg": {
@@ -285,7 +348,9 @@
         "titulo": "Fruit Cake",
         "categoria": "Cakes and cookies",
         "palabras_clave": [
-            "frutas"
+            "frutas",
+            "harina",
+            "canela"
         ]
     },
     "IMG_6089.jpeg": {
@@ -293,7 +358,9 @@
         "titulo": "Fruit Cake",
         "categoria": "Cakes and cookies",
         "palabras_clave": [
-            "frutas"
+            "frutas",
+            "harina",
+            "canela"
         ]
     },
     "IMG_6090.jpeg": {
@@ -301,7 +368,9 @@
         "titulo": "Cake de chocolate",
         "categoria": "Cakes and cookies",
         "palabras_clave": [
-            "cocoa"
+            "cocoa",
+            "harina",
+            "leche"
         ]
     },
     "IMG_6091.jpeg": {
@@ -309,7 +378,9 @@
         "titulo": "Cake de chocolate",
         "categoria": "Cakes and cookies",
         "palabras_clave": [
-            "cocoa"
+            "cocoa",
+            "harina",
+            "leche"
         ]
     },
     "IMG_6092.jpeg": {
@@ -318,7 +389,9 @@
         "categoria": "Cakes and cookies",
         "palabras_clave": [
             "durazno",
-            "berries"
+            "berries",
+            "harina",
+            "huevos"
         ]
     },
     "IMG_6093.jpeg": {
@@ -327,7 +400,9 @@
         "categoria": "Cakes and cookies",
         "palabras_clave": [
             "durazno",
-            "berries"
+            "berries",
+            "harina",
+            "huevos"
         ]
     },
     "IMG_6094.jpeg": {
@@ -335,6 +410,8 @@
         "titulo": "Cinamon Crumb Cake",
         "categoria": "Cakes and cookies",
         "palabras_clave": [
+            "harina",
+            "huevos",
             "canela"
         ]
     },
@@ -342,31 +419,51 @@
         "archivo": "IMG_6096.jpeg",
         "titulo": "Glaze (Glaceado)",
         "categoria": "Cakes and cookies",
-        "palabras_clave": []
+        "palabras_clave": [
+            "azucar",
+            "limón",
+            "naranja"
+        ]
     },
     "IMG_6097.jpeg": {
         "archivo": "IMG_6097.jpeg",
         "titulo": "Glaceado (otro)",
         "categoria": "Cakes and cookies",
-        "palabras_clave": []
+        "palabras_clave": [
+            "azucar",
+            "limón",
+            "naranja"
+        ]
     },
     "IMG_6098.jpeg": {
         "archivo": "IMG_6098.jpeg",
         "titulo": "Coffee cake",
         "categoria": "Cakes and cookies",
-        "palabras_clave": []
+        "palabras_clave": [
+            "harina",
+            "huevos",
+            "leche"
+        ]
     },
     "IMG_6099.jpeg": {
         "archivo": "IMG_6099.jpeg",
-        "titulo": "Coffee cake 2",
+        "titulo": "Coffe cake",
         "categoria": "Cakes and cookies",
-        "palabras_clave": []
+        "palabras_clave": [
+            "harina",
+            "huevos",
+            "leche"
+        ]
     },
     "IMG_6100.jpeg": {
         "archivo": "IMG_6100.jpeg",
         "titulo": "Hojarascas",
         "categoria": "Cakes and cookies",
-        "palabras_clave": []
+        "palabras_clave": [
+            "harina",
+            "azucar",
+            "canela"
+        ]
     },
     "IMG_6102.jpeg": {
         "archivo": "IMG_6102.jpeg",
@@ -374,29 +471,41 @@
         "categoria": "Cakes and cookies",
         "palabras_clave": [
             "chocolate",
-            "nuez"
+            "nuez",
+            "harina",
+            "huevos"
         ]
     },
     "IMG_6103.jpeg": {
         "archivo": "IMG_6103.jpeg",
-        "titulo": "Galletas de chocolate 2",
+        "titulo": "Galletas de chocolate",
         "categoria": "Cakes and cookies",
         "palabras_clave": [
             "chocolate",
-            "nuez"
+            "nuez",
+            "harina",
+            "huevos"
         ]
     },
     "IMG_6104.jpeg": {
         "archivo": "IMG_6104.jpeg",
-        "titulo": "Sopalpillas",
+        "titulo": "Sopaipillas",
         "categoria": "Cakes and cookies",
-        "palabras_clave": []
+        "palabras_clave": [
+            "harina",
+            "azucar",
+            "leche"
+        ]
     },
     "IMG_6105.jpeg": {
         "archivo": "IMG_6105.jpeg",
-        "titulo": "Sopalpillas 2",
+        "titulo": "Sopaipillas",
         "categoria": "Cakes and cookies",
-        "palabras_clave": []
+        "palabras_clave": [
+            "harina",
+            "azucar",
+            "leche"
+        ]
     },
     "IMG_6106.jpeg": {
         "archivo": "IMG_6106.jpeg",
@@ -405,45 +514,61 @@
         "palabras_clave": [
             "avena",
             "pasas",
-            "ajonjolí"
+            "ajonjolí",
+            "leche condensada"
         ]
     },
     "IMG_6107.jpeg": {
         "archivo": "IMG_6107.jpeg",
-        "titulo": "Galletas de ajonjolí 2",
+        "titulo": "Galletas de ajonjolí",
         "categoria": "Cakes and cookies",
         "palabras_clave": [
             "avena",
             "pasas",
-            "ajonjolí"
+            "ajonjolí",
+            "leche condensada"
         ]
     },
     "IMG_6108.jpeg": {
         "archivo": "IMG_6108.jpeg",
         "titulo": "Buñuelos",
         "categoria": "Cakes and cookies",
-        "palabras_clave": []
+        "palabras_clave": [
+            "harina",
+            "leche",
+            "huevos",
+            "azúcar"
+        ]
     },
     "IMG_6109.jpeg": {
         "archivo": "IMG_6109.jpeg",
-        "titulo": "Buñuelos 2",
+        "titulo": "Buñuelos",
         "categoria": "Cakes and cookies",
-        "palabras_clave": []
+        "palabras_clave": [
+            "harina",
+            "leche",
+            "huevos",
+            "azúcar"
+        ]
     },
     "IMG_6110.jpeg": {
         "archivo": "IMG_6110.jpeg",
         "titulo": "Galletas de chocolate (otra)",
         "categoria": "Cakes and cookies",
         "palabras_clave": [
-            "chocolate"
+            "chocolate carlos v",
+            "harina",
+            "huevos"
         ]
     },
     "IMG_6111.jpeg": {
         "archivo": "IMG_6111.jpeg",
-        "titulo": "Galletas de chocolate (otra) 2",
+        "titulo": "Galletas de chocolate (otra)",
         "categoria": "Cakes and cookies",
         "palabras_clave": [
-            "chocolate"
+            "chocolate carlos v",
+            "harina",
+            "huevos"
         ]
     },
     "IMG_6112.jpeg": {
@@ -453,343 +578,566 @@
         "palabras_clave": [
             "avena",
             "coco",
-            "gomitas"
+            "gomitas",
+            "harina",
+            "huevos"
         ]
     },
     "IMG_6113.jpeg": {
         "archivo": "IMG_6113.jpeg",
-        "titulo": "Gumdrop cookies 2",
+        "titulo": "Gumdrop cookies",
         "categoria": "Cakes and cookies",
         "palabras_clave": [
             "avena",
             "coco",
-            "gomitas"
+            "gomitas",
+            "harina",
+            "huevos"
         ]
     },
     "IMG_6114.jpeg": {
         "archivo": "IMG_6114.jpeg",
-        "titulo": "Cake de Zanahoria (otro=",
+        "titulo": "Cake de zanahoria",
         "categoria": "Cakes and cookies",
         "palabras_clave": [
             "zanahoria",
-            "nuez"
+            "nuez",
+            "harina",
+            "huevos",
+            "canela"
         ]
     },
     "IMG_6115.jpeg": {
         "archivo": "IMG_6115.jpeg",
         "titulo": "Betún de queso con crema",
-        "categoria": "Postres",
+        "categoria": "Cakes and cookies",
         "palabras_clave": [
-            "queso Philadelphia"
+            "queso filadelfia",
+            "crema",
+            "azúcar"
         ]
     },
     "IMG_6147.jpeg": {
         "archivo": "IMG_6147.jpeg",
-        "titulo": "IMG 6147",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Kaffe Kutchen",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "harina",
+            "azúcar",
+            "huevos",
+            "leche"
+        ]
     },
     "IMG_6148.jpeg": {
         "archivo": "IMG_6148.jpeg",
-        "titulo": "IMG 6148",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Kaffe kutchen",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "harina",
+            "azúcar",
+            "huevos",
+            "leche"
+        ]
     },
     "IMG_6149.jpeg": {
         "archivo": "IMG_6149.jpeg",
-        "titulo": "IMG 6149",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Queso de linaza",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "linaza",
+            "aceite de coco",
+            "canela",
+            "huevos"
+        ]
     },
     "IMG_6150.jpeg": {
         "archivo": "IMG_6150.jpeg",
-        "titulo": "IMG 6150",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Blueberry Muffins",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "blueberries",
+            "leche",
+            "azúcar",
+            "huevos"
+        ]
     },
     "IMG_6151.jpeg": {
         "archivo": "IMG_6151.jpeg",
-        "titulo": "IMG 6151",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Blueberry muffins",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "blueberries",
+            "leche",
+            "azúcar",
+            "huevos"
+        ]
     },
     "IMG_6152.jpeg": {
         "archivo": "IMG_6152.jpeg",
-        "titulo": "IMG 6152",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Hotcake de avena",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "avena",
+            "aceite de coco",
+            "leche de almendra",
+            "canela"
+        ]
     },
     "IMG_6153.jpeg": {
         "archivo": "IMG_6153.jpeg",
-        "titulo": "IMG 6153",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Hotcake de avena",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "avena",
+            "aceite de coco",
+            "leche de almendra",
+            "canela"
+        ]
     },
     "IMG_6154.jpeg": {
         "archivo": "IMG_6154.jpeg",
-        "titulo": "IMG 6154",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Baking Poweder Biscuits",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "harina",
+            "crema",
+            "azúcar",
+            "leche"
+        ]
     },
     "IMG_6155.jpeg": {
         "archivo": "IMG_6155.jpeg",
-        "titulo": "IMG 6155",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Baking powder bisquits",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "harina",
+            "crema",
+            "azúcar",
+            "leche"
+        ]
     },
     "IMG_6156.jpeg": {
         "archivo": "IMG_6156.jpeg",
-        "titulo": "IMG 6156",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Rosca de naranja",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "naranja",
+            "harina. leche nestlé",
+            "huevos"
+        ]
     },
     "IMG_6157.jpeg": {
         "archivo": "IMG_6157.jpeg",
-        "titulo": "IMG 6157",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Rosca de naranja",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "naranja",
+            "harina. leche nestlé",
+            "huevos"
+        ]
     },
     "IMG_6158.jpeg": {
         "archivo": "IMG_6158.jpeg",
-        "titulo": "IMG 6158",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Pan de plátano",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "plátano",
+            "nuez",
+            "harina",
+            "azúcar"
+        ]
     },
     "IMG_6159.jpeg": {
         "archivo": "IMG_6159.jpeg",
-        "titulo": "IMG 6159",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Pan de plátano",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "plátano",
+            "nuez",
+            "harina",
+            "azúcar"
+        ]
     },
     "IMG_6160.jpeg": {
         "archivo": "IMG_6160.jpeg",
-        "titulo": "IMG 6160",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "German Sweet Chocolate cream and cheese brownies",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "chocolate dulce",
+            "queso philadelphia",
+            "huevos",
+            "harina"
+        ]
     },
     "IMG_6161.jpeg": {
         "archivo": "IMG_6161.jpeg",
-        "titulo": "IMG 6161",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "German sweet chocolat pie",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "chocolate dulce",
+            "queso filadelfia",
+            "azúcar"
+        ]
     },
     "IMG_6162.jpeg": {
         "archivo": "IMG_6162.jpeg",
-        "titulo": "IMG 6162",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Muffins de café",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "capuchino",
+            "harina",
+            "huevos",
+            "azúcar"
+        ]
     },
     "IMG_6163.jpeg": {
         "archivo": "IMG_6163.jpeg",
-        "titulo": "IMG 6163",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Muffins de cafe",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "capuchino",
+            "harina",
+            "huevos",
+            "azúcar"
+        ]
     },
     "IMG_6164.jpeg": {
         "archivo": "IMG_6164.jpeg",
-        "titulo": "IMG 6164",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Raisin Oatmeal",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "capuchino",
+            "harina",
+            "huevos",
+            "azúcar"
+        ]
     },
     "IMG_6165.jpeg": {
         "archivo": "IMG_6165.jpeg",
-        "titulo": "IMG 6165",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Brownies",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "chocolate amargo",
+            "nuez",
+            "harina",
+            "huevos"
+        ]
     },
     "IMG_6166.jpeg": {
         "archivo": "IMG_6166.jpeg",
-        "titulo": "IMG 6166",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Brownies",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "chocolate amargo",
+            "nuez",
+            "harina",
+            "huevos"
+        ]
     },
     "IMG_6167.jpeg": {
         "archivo": "IMG_6167.jpeg",
-        "titulo": "IMG 6167",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Panecillos de maíz",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "harina de maíz",
+            "nuez",
+            "harina",
+            "leche evaporada"
+        ]
     },
     "IMG_6168.jpeg": {
         "archivo": "IMG_6168.jpeg",
-        "titulo": "IMG 6168",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Panecillos de maíz",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "harina de maíz",
+            "nuez",
+            "harina",
+            "leche evaporada"
+        ]
     },
     "IMG_6169.jpeg": {
         "archivo": "IMG_6169.jpeg",
-        "titulo": "IMG 6169",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Panquecitos allbran",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "allbran",
+            "leche",
+            "azúcar",
+            "harina"
+        ]
     },
     "IMG_6170.jpeg": {
         "archivo": "IMG_6170.jpeg",
-        "titulo": "IMG 6170",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Panquecitos de allbran",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "allbran",
+            "leche",
+            "azúcar",
+            "harina"
+        ]
     },
     "IMG_6171.jpeg": {
         "archivo": "IMG_6171.jpeg",
-        "titulo": "IMG 6171",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Panecillos de maíz",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "nueces",
+            "harina de maíz",
+            "leche condensada",
+            "leche evaporada"
+        ]
     },
     "IMG_6172.jpeg": {
         "archivo": "IMG_6172.jpeg",
-        "titulo": "IMG 6172",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Panecillos de maíz",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "nueces",
+            "harina de maíz",
+            "leche condensada",
+            "leche evaporada"
+        ]
     },
     "IMG_6173.jpeg": {
         "archivo": "IMG_6173.jpeg",
-        "titulo": "IMG 6173",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Oh boy Waffles",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "harina",
+            "huevos",
+            "leche"
+        ]
     },
     "IMG_6174.jpeg": {
         "archivo": "IMG_6174.jpeg",
-        "titulo": "IMG 6174",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Oh boy waffles",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "harina",
+            "huevos",
+            "leche"
+        ]
     },
     "IMG_6175.jpeg": {
         "archivo": "IMG_6175.jpeg",
-        "titulo": "IMG 6175",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Oh boy waffles",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "harina",
+            "huevos",
+            "leche"
+        ]
     },
     "IMG_6176.jpeg": {
         "archivo": "IMG_6176.jpeg",
-        "titulo": "IMG 6176",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Oh boy waffles",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "harina",
+            "huevos",
+            "leche"
+        ]
     },
     "IMG_6177.jpeg": {
         "archivo": "IMG_6177.jpeg",
-        "titulo": "IMG 6177",
-        "categoria": "",
-        "palabras_clave": []
-    },
-    "IMG_6178.jpeg": {
-        "archivo": "IMG_6178.jpeg",
-        "titulo": "IMG 6178",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Quecos de plátano",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "plátano",
+            "nuez",
+            "harina almendras",
+            "huevos"
+        ]
     },
     "IMG_6179.jpeg": {
         "archivo": "IMG_6179.jpeg",
-        "titulo": "IMG 6179",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Quecos de plátano",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "plátano",
+            "nuez",
+            "harina almendras",
+            "huevos"
+        ]
     },
     "IMG_6180.jpeg": {
         "archivo": "IMG_6180.jpeg",
-        "titulo": "IMG 6180",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Galletas de mantequilla",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "harina",
+            "mantequilla",
+            "azúcar"
+        ]
     },
     "IMG_6181.jpeg": {
         "archivo": "IMG_6181.jpeg",
-        "titulo": "IMG 6181",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Blueberries coffee cake",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "blueberries",
+            "harina",
+            "leche",
+            "huevos"
+        ]
     },
     "IMG_6182.jpeg": {
         "archivo": "IMG_6182.jpeg",
-        "titulo": "IMG 6182",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Blueberries coffee cake",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "blueberries",
+            "harina",
+            "leche",
+            "huevos"
+        ]
     },
     "IMG_6183.jpeg": {
         "archivo": "IMG_6183.jpeg",
-        "titulo": "IMG 6183",
-        "categoria": "",
-        "palabras_clave": []
-    },
-    "IMG_6184.jpeg": {
-        "archivo": "IMG_6184.jpeg",
-        "titulo": "IMG 6184",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Cupcakes",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "cocoa",
+            "huevos",
+            "harina",
+            "mantequilla"
+        ]
     },
     "IMG_6185.jpeg": {
         "archivo": "IMG_6185.jpeg",
-        "titulo": "IMG 6185",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Chocolate Butter Frosting",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "chocolate amargo",
+            "azúcar",
+            "leche",
+            "mantequilla"
+        ]
     },
     "IMG_6186.jpeg": {
         "archivo": "IMG_6186.jpeg",
-        "titulo": "IMG 6186",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Butter cream frosting",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "leche",
+            "mantequilla",
+            "azúcar"
+        ]
     },
     "IMG_6187.jpeg": {
         "archivo": "IMG_6187.jpeg",
-        "titulo": "IMG 6187",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Butter cream frosting",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "leche",
+            "mantequilla",
+            "azúcar"
+        ]
     },
     "IMG_6188.jpeg": {
         "archivo": "IMG_6188.jpeg",
-        "titulo": "IMG 6188",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Betún de 7 minutos",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "miel karo",
+            "azúcar",
+            "huevos"
+        ]
     },
     "IMG_6189.jpeg": {
         "archivo": "IMG_6189.jpeg",
-        "titulo": "IMG 6189",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Sea foam fluffy frostings",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "huevos",
+            "azúcar morena"
+        ]
     },
     "IMG_6190.jpeg": {
         "archivo": "IMG_6190.jpeg",
-        "titulo": "IMG 6190",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Whoppies",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "queso crema",
+            "harina",
+            "huevos",
+            "azúcar"
+        ]
     },
     "IMG_6191.jpeg": {
         "archivo": "IMG_6191.jpeg",
-        "titulo": "IMG 6191",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Whopies",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "queso crema",
+            "harina",
+            "huevos",
+            "azúcar"
+        ]
     },
     "IMG_6192.jpeg": {
         "archivo": "IMG_6192.jpeg",
-        "titulo": "IMG 6192",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Biscuits",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "harina",
+            "leche",
+            "manteca"
+        ]
     },
     "IMG_6193.jpeg": {
         "archivo": "IMG_6193.jpeg",
-        "titulo": "IMG 6193",
-        "categoria": "",
-        "palabras_clave": []
-    },
-    "IMG_6194.jpeg": {
-        "archivo": "IMG_6194.jpeg",
-        "titulo": "IMG 6194",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Biscuits",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "harina",
+            "leche",
+            "manteca"
+        ]
     },
     "IMG_6195.jpeg": {
         "archivo": "IMG_6195.jpeg",
-        "titulo": "IMG 6195",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Galletas Mamá Olguita",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "harina",
+            "maseca",
+            "azúcar",
+            "leche"
+        ]
     },
     "IMG_6196.jpeg": {
         "archivo": "IMG_6196.jpeg",
-        "titulo": "IMG 6196",
-        "categoria": "",
-        "palabras_clave": []
+        "titulo": "Galletas Mamá Olguita",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "harina",
+            "maseca",
+            "azúcar",
+            "leche"
+        ]
+    },
+    "IMG_6184.jpeg": {
+        "archivo": "IMG_6184.jpeg",
+        "titulo": "Cake y betún de chocolate",
+        "categoria": "Quick breads",
+        "palabras_clave": [
+            "queso filadelfia",
+            "nueces",
+            "devils food"
+        ]
     },
     "IMG_6201.jpeg": {
         "archivo": "IMG_6201.jpeg",
-        "titulo": "Quiche Philadelphia 2",
+        "titulo": "Quiche Philadelphia",
         "categoria": "Casserole",
         "palabras_clave": [
             "queso philadelphia",
-            "jamón"
+            "jamón",
+            "leche",
+            "huevos"
         ]
     },
     "IMG_6202.jpeg": {
@@ -798,17 +1146,21 @@
         "categoria": "Casserole",
         "palabras_clave": [
             "queso philadelphia",
-            "jamón"
+            "jamón",
+            "leche",
+            "huevos"
         ]
     },
     "IMG_6203.jpeg": {
         "archivo": "IMG_6203.jpeg",
-        "titulo": "Club Chicken Casserole 2",
+        "titulo": "Club Chicken Casserole",
         "categoria": "Casserole",
         "palabras_clave": [
             "pollo",
             "arroz",
-            "champiñones"
+            "champiñones",
+            "morrón",
+            "almendras"
         ]
     },
     "IMG_6204.jpeg": {
@@ -818,7 +1170,9 @@
         "palabras_clave": [
             "pollo",
             "arroz",
-            "champiñones"
+            "champiñones",
+            "morrón",
+            "almendras"
         ]
     },
     "IMG_6205.jpeg": {
@@ -827,32 +1181,44 @@
         "categoria": "Casserole",
         "palabras_clave": [
             "pollo",
-            "arroz",
-            "champiñones"
+            "harina",
+            "morrón",
+            "tomate",
+            "cebolla"
         ]
     },
     "IMG_6206.jpeg": {
         "archivo": "IMG_6206.jpeg",
-        "titulo": "Savory Chicken Casserole 2",
+        "titulo": "Savory Chicken Casserole",
         "categoria": "Casserole",
-        "palabras_clave": []
+        "palabras_clave": [
+            "pollo",
+            "harina",
+            "morrón",
+            "tomate",
+            "cebolla"
+        ]
     },
     "IMG_6207.jpeg": {
         "archivo": "IMG_6207.jpeg",
         "titulo": "Cowboy Quiche",
         "categoria": "Casserole",
         "palabras_clave": [
+            "masa para pastel",
             "tocino",
-            "queso cheddar"
+            "queso cheddar",
+            "huevos"
         ]
     },
     "IMG_6208.jpeg": {
         "archivo": "IMG_6208.jpeg",
-        "titulo": "Cowboy Quiche 2",
+        "titulo": "Cowboy Quiche",
         "categoria": "Casserole",
         "palabras_clave": [
+            "masa para pastel",
             "tocino",
-            "queso cheddar"
+            "queso cheddar",
+            "huevos"
         ]
     },
     "IMG_6209.jpeg": {
@@ -861,16 +1227,18 @@
         "categoria": "Casserole",
         "palabras_clave": [
             "lasaña",
-            "carne molida"
+            "carne molida",
+            "huevos"
         ]
     },
     "IMG_6210.jpeg": {
         "archivo": "IMG_6210.jpeg",
-        "titulo": "Lasaña 2",
+        "titulo": "Lasaña",
         "categoria": "Casserole",
         "palabras_clave": [
             "lasaña",
-            "carne molida"
+            "carne molida",
+            "huevos"
         ]
     },
     "IMG_6211.jpeg": {
@@ -879,7 +1247,8 @@
         "categoria": "Casserole",
         "palabras_clave": [
             "top sirloin",
-            "caldo de pollo"
+            "caldo de pollo",
+            "vino tinto"
         ]
     },
     "IMG_6212.jpeg": {
@@ -887,19 +1256,21 @@
         "titulo": "Tomato Beef Stew",
         "categoria": "Casserole",
         "palabras_clave": [
-            "sirloin",
+            "sirloin en cuadros",
             "crema tomate",
-            "papas"
+            "papas",
+            "zanahorias"
         ]
     },
     "IMG_6213.jpeg": {
         "archivo": "IMG_6213.jpeg",
-        "titulo": "Tomato Beef Stew 2",
+        "titulo": "Tomato Beef Stew",
         "categoria": "Casserole",
         "palabras_clave": [
-            "sirloin",
+            "sirloin en cuadros",
             "crema tomate",
-            "papas"
+            "papas",
+            "zanahorias"
         ]
     },
     "IMG_6214.jpeg": {
@@ -915,7 +1286,7 @@
     },
     "IMG_6215.jpeg": {
         "archivo": "IMG_6215.jpeg",
-        "titulo": "Beef and Cheddar Casserole 2",
+        "titulo": "Beef and Cheddar Casserole",
         "categoria": "Casserole",
         "palabras_clave": [
             "pasta",
@@ -936,7 +1307,7 @@
     },
     "IMG_6217.jpeg": {
         "archivo": "IMG_6217.jpeg",
-        "titulo": "President Eisenhower Beef Stew 2",
+        "titulo": "President Eisenhower Beef Stew",
         "categoria": "Casserole",
         "palabras_clave": [
             "bistek O",
@@ -946,10 +1317,13 @@
     },
     "IMG_6222.jpeg": {
         "archivo": "IMG_6222.jpeg",
-        "titulo": "Peras al vino tinto 2",
+        "titulo": "Peras al vino tinto",
         "categoria": "Postres",
         "palabras_clave": [
-            "peras"
+            "peras",
+            "vino tinto",
+            "canela",
+            "maizena"
         ]
     },
     "IMG_6223.jpeg": {
@@ -957,7 +1331,10 @@
         "titulo": "Peras al vino tinto",
         "categoria": "Postres",
         "palabras_clave": [
-            "peras"
+            "peras",
+            "vino tinto",
+            "canela",
+            "maizena"
         ]
     },
     "IMG_6224.jpeg": {
@@ -968,7 +1345,7 @@
             "fresas",
             "naranja",
             "leche condensada",
-            "evaporada"
+            "leche evaporada"
         ]
     },
     "IMG_6225.jpeg": {
@@ -979,7 +1356,7 @@
             "fresas",
             "naranja",
             "leche condensada",
-            "evaporada"
+            "leche evaporada"
         ]
     },
     "IMG_6226.jpeg": {
@@ -987,15 +1364,19 @@
         "titulo": "Crema barbaroa de Vainilla",
         "categoria": "Postres",
         "palabras_clave": [
-            "gelatina"
+            "gelatina",
+            "leche",
+            "huevos"
         ]
     },
     "IMG_6227.jpeg": {
         "archivo": "IMG_6227.jpeg",
-        "titulo": "Crema barbaroa de Vainilla 2",
+        "titulo": "Crema barbaroa de Vainilla",
         "categoria": "Postres",
         "palabras_clave": [
-            "gelatina"
+            "gelatina",
+            "leche",
+            "huevos"
         ]
     },
     "IMG_6228.jpeg": {
@@ -1003,9 +1384,9 @@
         "titulo": "Postre verde",
         "categoria": "Postres",
         "palabras_clave": [
-            "gelatina",
+            "gelatina limón",
             "leche condensada",
-            "evaporada"
+            "leche evaporada"
         ]
     },
     "IMG_6229.jpeg": {
@@ -1019,7 +1400,7 @@
     },
     "IMG_6230.jpeg": {
         "archivo": "IMG_6230.jpeg",
-        "titulo": "Chocolate mousse cups 2",
+        "titulo": "Chocolate mousse cups",
         "categoria": "Postres",
         "palabras_clave": [
             "baking chocolate",
@@ -1032,12 +1413,14 @@
         "categoria": "Postres",
         "palabras_clave": [
             "leche clavel",
-            "vainilla"
+            "vainilla",
+            "crema",
+            "huevos"
         ]
     },
     "IMG_6232.jpeg": {
         "archivo": "IMG_6232.jpeg",
-        "titulo": "Capitotada",
+        "titulo": "Capirotada",
         "categoria": "Postres",
         "palabras_clave": [
             "pan frances",
@@ -1050,7 +1433,7 @@
     },
     "IMG_6233.jpeg": {
         "archivo": "IMG_6233.jpeg",
-        "titulo": "Capirotada 2",
+        "titulo": "Capirotada",
         "categoria": "Postres",
         "palabras_clave": [
             "pan frances",
@@ -1067,7 +1450,9 @@
         "categoria": "Postres",
         "palabras_clave": [
             "leche nestle",
-            "vainilla"
+            "vainilla",
+            "leche",
+            "huevos"
         ]
     },
     "IMG_6235.jpeg": {
@@ -1077,7 +1462,8 @@
         "palabras_clave": [
             "galletas marías",
             "lata de piña",
-            "crema Nestle"
+            "crema Nestle",
+            "huevos"
         ]
     },
     "IMG_6236.jpeg": {
@@ -1085,12 +1471,10 @@
         "titulo": "Carlota de piña",
         "categoria": "Postres",
         "palabras_clave": [
-            "pan frances",
-            "piloncillo",
-            "queso",
-            "nuez",
-            "cacahuates",
-            "pasitas"
+            "galletas marías",
+            "lata de piña",
+            "crema Nestle",
+            "huevos"
         ]
     },
     "IMG_6237.jpeg": {
@@ -1100,7 +1484,8 @@
         "palabras_clave": [
             "melón",
             "leche condensada",
-            "grenetina"
+            "grenetina",
+            "panqué marmoleado"
         ]
     },
     "IMG_6238.jpeg": {
@@ -1110,7 +1495,8 @@
         "palabras_clave": [
             "melón",
             "leche condensada",
-            "grenetina"
+            "grenetina",
+            "panqué marmoleado"
         ]
     },
     "IMG_6239.jpeg": {
@@ -1119,7 +1505,7 @@
         "categoria": "Postres",
         "palabras_clave": [
             "lechera",
-            "leche nestlé",
+            "leche nestle",
             "gelatina"
         ]
     },
@@ -1129,7 +1515,7 @@
         "categoria": "Postres",
         "palabras_clave": [
             "lechera",
-            "leche nestlé",
+            "leche nestle",
             "gelatina"
         ]
     },
@@ -1139,7 +1525,9 @@
         "categoria": "Postres",
         "palabras_clave": [
             "vainilla",
-            "crema espesa"
+            "crema espesa",
+            "huevos",
+            "azúcar"
         ]
     },
     "IMG_6242.jpeg": {
@@ -1148,7 +1536,9 @@
         "categoria": "Postres",
         "palabras_clave": [
             "vainilla",
-            "crema espesa"
+            "crema espesa",
+            "huevos",
+            "azúcar"
         ]
     },
     "IMG_6243.jpeg": {
@@ -1158,7 +1548,8 @@
         "palabras_clave": [
             "chocolate morelia",
             "fresas",
-            "nuez"
+            "nuez",
+            "leche clavel"
         ]
     },
     "IMG_6244.jpeg": {
@@ -1168,7 +1559,8 @@
         "palabras_clave": [
             "chocolate morelia",
             "fresas",
-            "nuez"
+            "nuez",
+            "leche clavel"
         ]
     },
     "IMG_6245.jpeg": {
@@ -1204,7 +1596,7 @@
     },
     "IMG_6248.jpeg": {
         "archivo": "IMG_6248.jpeg",
-        "titulo": "Daple apple bake",
+        "titulo": "Dapple apple bake",
         "categoria": "Postres",
         "palabras_clave": [
             "manzana",
@@ -1224,7 +1616,7 @@
     },
     "IMG_6250.jpeg": {
         "archivo": "IMG_6250.jpeg",
-        "titulo": "Bourbon Peach Cobbler 2",
+        "titulo": "Bourbon Peach Cobbler",
         "categoria": "Postres",
         "palabras_clave": [
             "durazno",
@@ -1234,22 +1626,26 @@
     },
     "IMG_6251.jpeg": {
         "archivo": "IMG_6251.jpeg",
-        "titulo": "Bourbon Peach Cobbler (rep)",
+        "titulo": "Bourbon Peach Cobbler",
         "categoria": "Postres",
         "palabras_clave": [
             "durazno",
             "bourbon",
-            "heavy cream"
+            "heavy cream",
+            "canela",
+            "harina"
         ]
     },
     "IMG_6252.jpeg": {
         "archivo": "IMG_6252.jpeg",
-        "titulo": "Bourbon Peach Cobbler (rep)",
+        "titulo": "Bourbon Peach Cobbler",
         "categoria": "Postres",
         "palabras_clave": [
             "durazno",
             "bourbon",
-            "heavy cream"
+            "heavy cream",
+            "canela",
+            "harina"
         ]
     },
     "IMG_6253.jpeg": {
@@ -1258,16 +1654,20 @@
         "categoria": "Postres",
         "palabras_clave": [
             "tapioca",
-            "vainilla"
+            "vainilla",
+            "huevos",
+            "leche"
         ]
     },
     "IMG_6254.jpeg": {
         "archivo": "IMG_6254.jpeg",
-        "titulo": "Crema de tapioca minuto 2",
+        "titulo": "Crema de tapioca minuto",
         "categoria": "Postres",
         "palabras_clave": [
             "tapioca",
-            "vainilla"
+            "vainilla",
+            "huevos",
+            "leche"
         ]
     },
     "IMG_6255.jpeg": {
@@ -1276,7 +1676,7 @@
         "categoria": "Postres",
         "palabras_clave": [
             "leche condensada",
-            "leche de clavel",
+            "clavel",
             "café souble",
             "cocoa"
         ]
@@ -1287,8 +1687,9 @@
         "categoria": "Postres",
         "palabras_clave": [
             "leche condensada",
-            "amarett0",
-            "almendras"
+            "amaretto",
+            "almendras",
+            "huevos"
         ]
     },
     "IMG_6257.jpeg": {
@@ -1297,9 +1698,9 @@
         "categoria": "Postres",
         "palabras_clave": [
             "leche condensada",
-            "leche de clavel",
-            "café souble",
-            "cocoa"
+            "amaretto",
+            "almendras",
+            "huevos"
         ]
     },
     "IMG_6258.jpeg": {
@@ -1309,19 +1710,19 @@
         "palabras_clave": [
             "arroz",
             "canela",
-            "lechera",
-            "leche de clavel"
+            "leche condensada",
+            "leche clavel"
         ]
     },
     "IMG_6259.jpeg": {
         "archivo": "IMG_6259.jpeg",
-        "titulo": "Arroz con leche 2",
+        "titulo": "Arroz con leche (mami)",
         "categoria": "Postres",
         "palabras_clave": [
             "arroz",
             "canela",
-            "lechera",
-            "leche de clavel"
+            "leche condensada",
+            "leche clavel"
         ]
     },
     "IMG_6260.jpeg": {
@@ -1333,7 +1734,8 @@
             "kiwi",
             "naranja",
             "rompope",
-            "leches"
+            "leche condensada",
+            "leche evaporada"
         ]
     },
     "IMG_6261.jpeg": {
@@ -1345,7 +1747,8 @@
             "kiwi",
             "naranja",
             "rompope",
-            "leches"
+            "leche condensada",
+            "leche evaporada"
         ]
     },
     "IMG_6262.jpeg": {
@@ -1354,7 +1757,8 @@
         "categoria": "Postres",
         "palabras_clave": [
             "queso crema",
-            "leches"
+            "leche condensada",
+            "leche evaporada"
         ]
     },
     "IMG_6263.jpeg": {
@@ -1363,7 +1767,8 @@
         "categoria": "Postres",
         "palabras_clave": [
             "queso crema",
-            "leches"
+            "leche condensada",
+            "leche evaporada"
         ]
     },
     "IMG_6264.jpeg": {
@@ -1372,7 +1777,7 @@
         "categoria": "Postres",
         "palabras_clave": [
             "arroz",
-            "leches"
+            "leche"
         ]
     },
     "IMG_6265.jpeg": {
@@ -1382,7 +1787,8 @@
         "palabras_clave": [
             "miel",
             "mango",
-            "yogurt"
+            "yoghurt",
+            "crema"
         ]
     },
     "IMG_6266.jpeg": {
@@ -1392,7 +1798,8 @@
         "palabras_clave": [
             "miel",
             "mango",
-            "yogurt"
+            "yoghurt",
+            "crema"
         ]
     },
     "IMG_6267.jpeg": {
@@ -1401,7 +1808,7 @@
         "categoria": "Postres",
         "palabras_clave": [
             "galletas marías",
-            "yogurt",
+            "yoghurt",
             "gelatina",
             "chocolate"
         ]
@@ -1412,7 +1819,7 @@
         "categoria": "Postres",
         "palabras_clave": [
             "galletas marías",
-            "yogurt",
+            "yoghurt",
             "gelatina",
             "chocolate"
         ]
@@ -1424,37 +1831,45 @@
         "palabras_clave": [
             "durazno",
             "limón",
-            "extracto almendras"
+            "extracto almendras",
+            "azúcar",
+            "tartaleta"
         ]
     },
     "IMG_6270.jpeg": {
         "archivo": "IMG_6270.jpeg",
-        "titulo": "Pastel de durazno 2",
+        "titulo": "Pastel de durazno",
         "categoria": "Postres",
         "palabras_clave": [
             "durazno",
             "limón",
-            "extracto almendras"
+            "extracto almendras",
+            "azúcar",
+            "tartaleta"
         ]
     },
     "IMG_6271.jpeg": {
         "archivo": "IMG_6271.jpeg",
-        "titulo": "IMG 6271 pendiente",
+        "titulo": "Pastel de chocolate con nuez",
         "categoria": "Postres",
         "palabras_clave": [
+            "leche",
             "chocolate chips",
             "coco",
-            "nuez picada"
+            "nuez",
+            "galletas marías"
         ]
     },
     "IMG_6272.jpeg": {
         "archivo": "IMG_6272.jpeg",
-        "titulo": "IMG 6272 pendiente",
+        "titulo": "Pastel de chocolate con nuez",
         "categoria": "Postres",
         "palabras_clave": [
+            "leche",
             "chocolate chips",
             "coco",
-            "nuez picada"
+            "nuez",
+            "galletas marías"
         ]
     },
     "IMG_6273.jpeg": {
@@ -1464,17 +1879,5098 @@
         "palabras_clave": [
             "hojaldre",
             "manzana",
-            "nuez"
+            "nuez",
+            "huevos",
+            "mantequilla"
         ]
     },
     "IMG_6274.jpeg": {
         "archivo": "IMG_6274.jpeg",
-        "titulo": "trudel de manzana",
+        "titulo": "Strudel de manzana",
         "categoria": "Postres",
         "palabras_clave": [
             "hojaldre",
             "manzana",
+            "nuez",
+            "huevos",
+            "mantequilla"
+        ]
+    },
+    "IMG_6826.jpg": {
+        "archivo": "IMG_6826.jpg",
+        "titulo": "Pastel de fresas",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "fresas",
+            "fruta",
+            "galletas marías",
+            "leche nestlé",
+            "queso filadelfia"
+        ]
+    },
+    "IMG_6827.jpg": {
+        "archivo": "IMG_6827.jpg",
+        "titulo": "Pastel de fresas",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "fresas",
+            "fruta",
+            "galletas marías",
+            "leche nestlé",
+            "queso filadelfia"
+        ]
+    },
+    "IMG_6829.jpg": {
+        "archivo": "IMG_6829.jpg",
+        "titulo": "Pam´s pie crust",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "harina",
+            "mantequilla",
+            "azúcar"
+        ]
+    },
+    "IMG_6830.jpg": {
+        "archivo": "IMG_6830.jpg",
+        "titulo": "Pam´s pie crust",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "harina",
+            "mantequilla",
+            "azúcar"
+        ]
+    },
+    "IMG_6831.jpg": {
+        "archivo": "IMG_6831.jpg",
+        "titulo": "Apple strudel",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "manzana",
+            "nuez",
+            "pasas",
+            "pan",
+            "pasas"
+        ]
+    },
+    "IMG_6832.jpg": {
+        "archivo": "IMG_6832.jpg",
+        "titulo": "Pastel de chocolate y plátano",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "chocolate abuelita",
+            "plátano",
+            "galletas marías",
+            "leche evaporada"
+        ]
+    },
+    "IMG_6833.jpg": {
+        "archivo": "IMG_6833.jpg",
+        "titulo": "Pastel de chocolate y plátano",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "chocolate abuelita",
+            "plátano",
+            "galletas marías",
+            "leche evaporada"
+        ]
+    },
+    "IMG_6834.jpg": {
+        "archivo": "IMG_6834.jpg",
+        "titulo": "Pastel de chocolate",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "chocolate",
+            "huevos",
+            "mantequilla"
+        ]
+    },
+    "IMG_6835.jpg": {
+        "archivo": "IMG_6835.jpg",
+        "titulo": "Pastel de chocolate",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "chocolate",
+            "huevos",
+            "mantequilla"
+        ]
+    },
+    "IMG_6836.jpg": {
+        "archivo": "IMG_6836.jpg",
+        "titulo": "Pastel de atún rápido",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "atún",
+            "papas",
+            "crema",
+            "huevos",
+            "queso amarillo"
+        ]
+    },
+    "IMG_6837.jpg": {
+        "archivo": "IMG_6837.jpg",
+        "titulo": "Lemon chiffon pie",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "huevos",
+            "limón",
+            "gelatina",
+            "azúcar"
+        ]
+    },
+    "IMG_6838.jpg": {
+        "archivo": "IMG_6838.jpg",
+        "titulo": "Lemon chiffon pie",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "huevos",
+            "limón",
+            "gelatina",
+            "azúcar"
+        ]
+    },
+    "IMG_6839.jpg": {
+        "archivo": "IMG_6839.jpg",
+        "titulo": "Pastel de chocolate",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "cocoa",
+            "leche",
+            "maizena",
+            "azúcar"
+        ]
+    },
+    "IMG_6840.jpg": {
+        "archivo": "IMG_6840.jpg",
+        "titulo": "Pastel de chocolate",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "cocoa",
+            "leche",
+            "maizena",
+            "azúcar"
+        ]
+    },
+    "IMG_6841.jpg": {
+        "archivo": "IMG_6841.jpg",
+        "titulo": "Pastel de queso y chocolate",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "chocolate carlos V",
+            "queso crema",
+            "leche condensada"
+        ]
+    },
+    "IMG_6842.jpg": {
+        "archivo": "IMG_6842.jpg",
+        "titulo": "Pastel de plátano",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "plátano",
+            "pasta",
+            "crema",
+            "huevos"
+        ]
+    },
+    "IMG_6843.jpg": {
+        "archivo": "IMG_6843.jpg",
+        "titulo": "Pastel de plátano",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "plátano",
+            "pasta",
+            "crema",
+            "huevos"
+        ]
+    },
+    "IMG_6844.jpg": {
+        "archivo": "IMG_6844.jpg",
+        "titulo": "Key lime pie",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "limón",
+            "leche condensada",
+            "galletas marías",
+            "molde con galleta maría"
+        ]
+    },
+    "IMG_6845.jpg": {
+        "archivo": "IMG_6845.jpg",
+        "titulo": "Key lime pie",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "limón",
+            "leche condensada",
+            "galletas marías",
+            "molde con galleta maría"
+        ]
+    },
+    "IMG_6846.jpg": {
+        "archivo": "IMG_6846.jpg",
+        "titulo": "Pastelitos de jamón con queso",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "jamóm",
+            "aceituna",
+            "hongos",
+            "huevos",
+            "morrón",
+            "queso chihuahua"
+        ]
+    },
+    "IMG_6847.jpg": {
+        "archivo": "IMG_6847.jpg",
+        "titulo": "Pastelitos de jamón con queso",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "jamóm",
+            "aceituna",
+            "hongos",
+            "huevos",
+            "morrón",
+            "queso chihuahua"
+        ]
+    },
+    "IMG_6848.jpg": {
+        "archivo": "IMG_6848.jpg",
+        "titulo": "Pastel de fresas con crema",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "fresas",
+            "leche condensada",
+            "mantequilla",
+            "huevos",
+            "harina"
+        ]
+    },
+    "IMG_6849.jpg": {
+        "archivo": "IMG_6849.jpg",
+        "titulo": "Tartaletas de jamón y queso",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "queso filadelfia",
+            "jamón",
+            "queso Chihuahua",
+            "mantequilla"
+        ]
+    },
+    "IMG_6850.jpg": {
+        "archivo": "IMG_6850.jpg",
+        "titulo": "Tartaletas de jamón y queso",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "queso filadelfia",
+            "jamón",
+            "queso Chihuahua",
+            "mantequilla"
+        ]
+    },
+    "IMG_6851.jpg": {
+        "archivo": "IMG_6851.jpg",
+        "titulo": "Pastel de mil hojas y frutos rojos",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "frambuesa",
+            "blue berries",
+            "fresas",
+            "harina",
+            "pasta hojaldre"
+        ]
+    },
+    "IMG_6852.jpg": {
+        "archivo": "IMG_6852.jpg",
+        "titulo": "Pastel de mil hojas y frutos rojos",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "frambuesa",
+            "blue berries",
+            "fresas",
+            "harina",
+            "pasta hojaldre"
+        ]
+    },
+    "IMG_6853.jpg": {
+        "archivo": "IMG_6853.jpg",
+        "titulo": "Pastel de 3 nueces",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "nuez",
+            "almendra",
+            "avellana",
+            "harina",
+            "mantequilla"
+        ]
+    },
+    "IMG_6854.jpg": {
+        "archivo": "IMG_6854.jpg",
+        "titulo": "Pastel de 3 nueces",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "nuez",
+            "almendra",
+            "avellana",
+            "harina",
+            "mantequilla"
+        ]
+    },
+    "IMG_6855.jpg": {
+        "archivo": "IMG_6855.jpg",
+        "titulo": "Pastel de limón chico",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "limón",
+            "huevos",
+            "harina",
+            "manteca",
+            "azúcar",
+            "maizena"
+        ]
+    },
+    "IMG_6856.jpg": {
+        "archivo": "IMG_6856.jpg",
+        "titulo": "Pastel de limón chico",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "limón",
+            "huevos",
+            "harina",
+            "manteca",
+            "azúcar",
+            "maizena"
+        ]
+    },
+    "IMG_6857.jpg": {
+        "archivo": "IMG_6857.jpg",
+        "titulo": "Lemon breeze",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "corn flakes",
+            "limón gelatina",
+            "huevos",
+            "azúcar",
+            "canela"
+        ]
+    },
+    "IMG_6858.jpg": {
+        "archivo": "IMG_6858.jpg",
+        "titulo": "Lemon breeze",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "corn flakes",
+            "limón gelatina",
+            "huevos",
+            "azúcar",
+            "canela"
+        ]
+    },
+    "IMG_6859.jpg": {
+        "archivo": "IMG_6859.jpg",
+        "titulo": "Pastel de manzana",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "manzana",
+            "queso filadelfia",
+            "mantequilla",
+            "harina"
+        ]
+    },
+    "IMG_6860.jpg": {
+        "archivo": "IMG_6860.jpg",
+        "titulo": "Pastel de manzana",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "manzana",
+            "queso filadelfia",
+            "mantequilla",
+            "harina"
+        ]
+    },
+    "IMG_6861.jpg": {
+        "archivo": "IMG_6861.jpg",
+        "titulo": "Pastel de limón grande",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "limón",
+            "harina",
+            "manteca"
+        ]
+    },
+    "IMG_6862.jpg": {
+        "archivo": "IMG_6862.jpg",
+        "titulo": "Pastel de limón grande",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "limón",
+            "harina",
+            "manteca"
+        ]
+    },
+    "IMG_6863.jpg": {
+        "archivo": "IMG_6863.jpg",
+        "titulo": "Pastel de piña",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "piña",
+            "mantequilla",
+            "azúcar"
+        ]
+    },
+    "IMG_6864.jpg": {
+        "archivo": "IMG_6864.jpg",
+        "titulo": "Pastel de piña",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "piña",
+            "mantequilla",
+            "azúcar"
+        ]
+    },
+    "IMG_6865.jpg": {
+        "archivo": "IMG_6865.jpg",
+        "titulo": "Pay de fresa y chocolate",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "chocolate carlos V",
+            "galletas de chocolate",
+            "huevos",
+            "mantequilla"
+        ]
+    },
+    "IMG_6866.jpg": {
+        "archivo": "IMG_6866.jpg",
+        "titulo": "Pay de fresa y chocolate",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "chocolate carlos V",
+            "galletas de chocolate",
+            "huevos",
+            "mantequilla",
+            "queso crema",
+            "leche",
+            "naranja"
+        ]
+    },
+    "IMG_6867.jpg": {
+        "archivo": "IMG_6867.jpg",
+        "titulo": "Pastel de malvaviscos y fresas",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "malvaviscos",
+            "fresas",
+            "crema",
+            "leche"
+        ]
+    },
+    "IMG_6868.jpg": {
+        "archivo": "IMG_6868.jpg",
+        "titulo": "Philadelphia double-lemon cheesecake bars",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "queso filadelfia",
+            "limón",
+            "galletas marías",
+            "harina",
+            "mantequilla"
+        ]
+    },
+    "IMG_6869.jpg": {
+        "archivo": "IMG_6869.jpg",
+        "titulo": "Philadelphia double-lemon cheesecake bars",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "queso filadelfia",
+            "limón",
+            "galletas marías",
+            "harina",
+            "mantequilla"
+        ]
+    },
+    "IMG_6870.jpg": {
+        "archivo": "IMG_6870.jpg",
+        "titulo": "Pastel de manzana",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "manzana",
+            "harina",
+            "canela",
+            "azúcar",
+            "manteca"
+        ]
+    },
+    "IMG_6871.jpg": {
+        "archivo": "IMG_6871.jpg",
+        "titulo": "Pastel de manzana",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "manzana",
+            "harina",
+            "canela",
+            "azúcar",
+            "manteca"
+        ]
+    },
+    "IMG_6872.jpg": {
+        "archivo": "IMG_6872.jpg",
+        "titulo": "Pastel de crema a la vainilla",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "huevos",
+            "azúcar",
+            "leche",
+            "maizena"
+        ]
+    },
+    "IMG_6873.jpg": {
+        "archivo": "IMG_6873.jpg",
+        "titulo": "Pastel de crema a la vainilla",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "huevos",
+            "azúcar",
+            "leche",
+            "maizena"
+        ]
+    },
+    "IMG_6874.jpg": {
+        "archivo": "IMG_6874.jpg",
+        "titulo": "Pastel de limón al baño María",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "limón",
+            "harina",
+            "leche",
+            "huevos"
+        ]
+    },
+    "IMG_6875.jpg": {
+        "archivo": "IMG_6875.jpg",
+        "titulo": "Pastel de limón al baño María",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "limón",
+            "harina",
+            "leche",
+            "huevos"
+        ]
+    },
+    "IMG_6876.jpg": {
+        "archivo": "IMG_6876.jpg",
+        "titulo": "Cheesecake de arroz con leche",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "galletas marías",
+            "arroz",
+            "queso crema",
+            "leches"
+        ]
+    },
+    "IMG_6877.jpg": {
+        "archivo": "IMG_6877.jpg",
+        "titulo": "Cheesecake de arroz con leche",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "galletas marías",
+            "arroz",
+            "queso crema",
+            "leches"
+        ]
+    },
+    "IMG_6878.jpg": {
+        "archivo": "IMG_6878.jpg",
+        "titulo": "Pastel de durazno",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "duraznos",
+            "limón",
+            "harina",
+            "azúcar"
+        ]
+    },
+    "IMG_6879.jpg": {
+        "archivo": "IMG_6879.jpg",
+        "titulo": "Pastel de durazno",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "duraznos",
+            "limón",
+            "harina",
+            "azúcar"
+        ]
+    },
+    "IMG_6880.jpg": {
+        "archivo": "IMG_6880.jpg",
+        "titulo": "Pastelitos de nuez",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "nuez",
+            "queso filadelfia",
+            "azucar morena",
+            "harina"
+        ]
+    },
+    "IMG_6881.jpg": {
+        "archivo": "IMG_6881.jpg",
+        "titulo": "Pastelitos de nuez",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "nuez",
+            "queso filadelfia",
+            "azucar morena",
+            "harina"
+        ]
+    },
+    "IMG_6882.jpg": {
+        "archivo": "IMG_6882.jpg",
+        "titulo": "Spiced Pecans",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "nuez",
+            "canela",
+            "miel de maíz"
+        ]
+    },
+    "IMG_6883.jpg": {
+        "archivo": "IMG_6883.jpg",
+        "titulo": "Southern pecan pie",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "nuez",
+            "miel de maíz",
+            "huevos"
+        ]
+    },
+    "IMG_6884.jpg": {
+        "archivo": "IMG_6884.jpg",
+        "titulo": "Southern pecan pie",
+        "categoria": "Pasteles",
+        "palabras_clave": [
+            "nuez",
+            "miel de maíz",
+            "huevos"
+        ]
+    },
+    "IMG_6799.jpg": {
+        "archivo": "IMG_6799.jpg",
+        "titulo": "Pasta con salsa de chabacano",
+        "categoria": "Pastas",
+        "palabras_clave": [
+            "mermelada de chabacano",
+            "jamón",
+            "pasta moñitos"
+        ]
+    },
+    "IMG_6800.jpg": {
+        "archivo": "IMG_6800.jpg",
+        "titulo": "Pesto",
+        "categoria": "Pastas",
+        "palabras_clave": [
+            "piñones",
+            "queso parmesano",
+            "albahaca"
+        ]
+    },
+    "IMG_6801.jpg": {
+        "archivo": "IMG_6801.jpg",
+        "titulo": "Pasta con salsa de ostión y chipotle",
+        "categoria": "Pastas",
+        "palabras_clave": [
+            "ostiones ahumados",
+            "chile chipotle",
+            "pasta pene",
+            "consomé de pollo"
+        ]
+    },
+    "IMG_6802.jpg": {
+        "archivo": "IMG_6802.jpg",
+        "titulo": "Pasta con salsa de ostión y chipotle",
+        "categoria": "Pastas",
+        "palabras_clave": [
+            "ostiones ahumados",
+            "chile chipotle",
+            "pasta pene",
+            "consomé de pollo"
+        ]
+    },
+    "IMG_6803.jpg": {
+        "archivo": "IMG_6803.jpg",
+        "titulo": "Pasta Alfredo",
+        "categoria": "Pastas",
+        "palabras_clave": [
+            "queso crema",
+            "queso parmesano",
+            "pasta cocida"
+        ]
+    },
+    "IMG_6804.jpg": {
+        "archivo": "IMG_6804.jpg",
+        "titulo": "Pasta Alfredo",
+        "categoria": "Pastas",
+        "palabras_clave": [
+            "queso crema",
+            "queso parmesano",
+            "pasta cocida"
+        ]
+    },
+    "IMG_6805.jpg": {
+        "archivo": "IMG_6805.jpg",
+        "titulo": "Linguine con camarón y pesto",
+        "categoria": "Pastas",
+        "palabras_clave": [
+            "linguine",
+            "camarones grandes",
+            "queso parmesano",
+            "pesto"
+        ]
+    },
+    "IMG_6806.jpg": {
+        "archivo": "IMG_6806.jpg",
+        "titulo": "Linguine con camarón y pesto",
+        "categoria": "Pastas",
+        "palabras_clave": [
+            "linguine",
+            "camarones grandes",
+            "queso parmesano",
+            "pesto"
+        ]
+    },
+    "IMG_6807.jpg": {
+        "archivo": "IMG_6807.jpg",
+        "titulo": "Espagueti magalay",
+        "categoria": "Pastas",
+        "palabras_clave": [
+            "chile morrón",
+            "queso filadelfia",
+            "pasta",
+            "queso parmesano"
+        ]
+    },
+    "IMG_6808.jpg": {
+        "archivo": "IMG_6808.jpg",
+        "titulo": "Coronas de espagueti",
+        "categoria": "Pastas",
+        "palabras_clave": [
+            "espagueti",
+            "crema",
+            "queso amarillo"
+        ]
+    },
+    "IMG_6809.jpg": {
+        "archivo": "IMG_6809.jpg",
+        "titulo": "Coronas de espagueti",
+        "categoria": "Pastas",
+        "palabras_clave": [
+            "espagueti",
+            "crema",
+            "queso amarillo"
+        ]
+    },
+    "IMG_6810.jpg": {
+        "archivo": "IMG_6810.jpg",
+        "titulo": "Savory cannelloni",
+        "categoria": "Pastas",
+        "palabras_clave": [
+            "cannelloni",
+            "espinacas",
+            "queso parmesano",
+            "crema"
+        ]
+    },
+    "IMG_6811.jpg": {
+        "archivo": "IMG_6811.jpg",
+        "titulo": "Pasta rosa",
+        "categoria": "Pastas",
+        "palabras_clave": [
+            "pasta pene",
+            "pollo cocido",
+            "puré de tomate",
+            "queso filadelfia"
+        ]
+    },
+    "IMG_6812.jpg": {
+        "archivo": "IMG_6812.jpg",
+        "titulo": "Pasta rosa",
+        "categoria": "Pastas",
+        "palabras_clave": [
+            "pasta pene",
+            "pollo cocido",
+            "puré de tomate",
+            "queso filadelfia"
+        ]
+    },
+    "IMG_6813.jpg": {
+        "archivo": "IMG_6813.jpg",
+        "titulo": "Linguine Fra Diavolo",
+        "categoria": "Pastas",
+        "palabras_clave": [
+            "linguine",
+            "camarón",
+            "surimi",
+            "puré de tomate"
+        ]
+    },
+    "IMG_6814.jpg": {
+        "archivo": "IMG_6814.jpg",
+        "titulo": "Linguine Fra Diavolo",
+        "categoria": "Pastas",
+        "palabras_clave": [
+            "linguine",
+            "camarón",
+            "surimi",
+            "puré de tomate"
+        ]
+    },
+    "IMG_6815.jpg": {
+        "archivo": "IMG_6815.jpg",
+        "titulo": "Pasta ligera con queso",
+        "categoria": "Pastas",
+        "palabras_clave": [
+            "pasta",
+            "brocoli",
+            "queso svelty",
+            "caldo pollo"
+        ]
+    },
+    "IMG_6816.jpg": {
+        "archivo": "IMG_6816.jpg",
+        "titulo": "Fusilli con setas y tocino",
+        "categoria": "Pastas",
+        "palabras_clave": [
+            "fusilli",
+            "tocino",
+            "setas",
+            "tomatillos",
+            "queso parmesano",
+            "leche clavel"
+        ]
+    },
+    "IMG_6817.jpg": {
+        "archivo": "IMG_6817.jpg",
+        "titulo": "Fusilli con setas y tocino",
+        "categoria": "Pastas",
+        "palabras_clave": [
+            "fusilli",
+            "tocino",
+            "setas",
+            "tomatillos",
+            "queso parmesano",
+            "leche clavel"
+        ]
+    },
+    "IMG_6818.jpg": {
+        "archivo": "IMG_6818.jpg",
+        "titulo": "Greek pasta",
+        "categoria": "Pastas",
+        "palabras_clave": [
+            "pasta",
+            "piñones",
+            "espinacas",
+            "queso",
+            "tomates"
+        ]
+    },
+    "IMG_6819.jpg": {
+        "archivo": "IMG_6819.jpg",
+        "titulo": "Greek pasta",
+        "categoria": "Pastas",
+        "palabras_clave": [
+            "pasta",
+            "piñones",
+            "espinacas",
+            "queso",
+            "tomates"
+        ]
+    },
+    "IMG_6820.jpg": {
+        "archivo": "IMG_6820.jpg",
+        "titulo": "Spaghetti carbonara",
+        "categoria": "Pastas",
+        "palabras_clave": [
+            "spaghetti",
+            "tocino",
+            "queso parmesano",
+            "huevos"
+        ]
+    },
+    "IMG_6821.jpg": {
+        "archivo": "IMG_6821.jpg",
+        "titulo": "Spaghetti carbonara",
+        "categoria": "Pastas",
+        "palabras_clave": [
+            "spaghetti",
+            "tocino",
+            "queso parmesano",
+            "huevos"
+        ]
+    },
+    "IMG_6728.jpg": {
+        "archivo": "IMG_6728.jpg",
+        "titulo": "Albondigas",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "carne molida",
+            "queso parmesano",
+            "pan molido",
+            "huevos"
+        ]
+    },
+    "IMG_6729.jpg": {
+        "archivo": "IMG_6729.jpg",
+        "titulo": "Albondigas",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "carne molida",
+            "queso parmesano",
+            "pan molido",
+            "huevos"
+        ]
+    },
+    "IMG_6730.jpg": {
+        "archivo": "IMG_6730.jpg",
+        "titulo": "Albondigas con verduras",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "carne molida",
+            "papas",
+            "tomate molido",
+            "zanahoria"
+        ]
+    },
+    "IMG_6731.jpg": {
+        "archivo": "IMG_6731.jpg",
+        "titulo": "Albondigas con verduras",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "carne molida",
+            "papas",
+            "tomate molido",
+            "zanahoria"
+        ]
+    },
+    "IMG_6732.jpg": {
+        "archivo": "IMG_6732.jpg",
+        "titulo": "Pierna de puerco / tamarindo",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "pierna de puerco",
+            "concentrado tamarindo",
+            "chile ancho"
+        ]
+    },
+    "IMG_6733.jpg": {
+        "archivo": "IMG_6733.jpg",
+        "titulo": "Pierna de puerco / tamarindo",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "pierna de puerco",
+            "concentrado tamarindo",
+            "chile ancho"
+        ]
+    },
+    "IMG_6734.jpg": {
+        "archivo": "IMG_6734.jpg",
+        "titulo": "Relleno de carne",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "Carne de res",
+            "carne de puerco",
+            "nuez",
+            "almendras"
+        ]
+    },
+    "IMG_6735.jpg": {
+        "archivo": "IMG_6735.jpg",
+        "titulo": "Chuletas de Puerco empanizadas",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "chuletas de puerco",
+            "galleta molida",
+            "huevo"
+        ]
+    },
+    "IMG_6736.jpg": {
+        "archivo": "IMG_6736.jpg",
+        "titulo": "Hígado duquesa",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "hígado",
+            "papas",
+            "knor",
+            "huevos",
+            "morrón"
+        ]
+    },
+    "IMG_6737.jpg": {
+        "archivo": "IMG_6737.jpg",
+        "titulo": "Hígado duquesa",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "hígado",
+            "papas",
+            "knor",
+            "huevos",
+            "morrón"
+        ]
+    },
+    "IMG_6738.jpg": {
+        "archivo": "IMG_6738.jpg",
+        "titulo": "Puntas a la sierra madre",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "puntas de filete res",
+            "tocino",
+            "elotes",
+            "ejotes",
+            "zanahoria"
+        ]
+    },
+    "IMG_6739.jpg": {
+        "archivo": "IMG_6739.jpg",
+        "titulo": "Puntas a la sierra madre",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "puntas de filete res",
+            "tocino",
+            "elotes",
+            "ejotes",
+            "zanahoria"
+        ]
+    },
+    "IMG_6740.jpg": {
+        "archivo": "IMG_6740.jpg",
+        "titulo": "Roast rib of beef",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "chuleton"
+        ]
+    },
+    "IMG_6741.jpg": {
+        "archivo": "IMG_6741.jpg",
+        "titulo": "Pierna de puerco Mostaza",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "pierna de puerco",
+            "mostaza",
+            "leche",
+            "papas",
+            "manzana"
+        ]
+    },
+    "IMG_6742.jpg": {
+        "archivo": "IMG_6742.jpg",
+        "titulo": "Pierna de puerco en salsa de mostaza",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "pierna de puerco",
+            "mostaza",
+            "leche",
+            "papas",
+            "manzana"
+        ]
+    },
+    "IMG_6743.jpg": {
+        "archivo": "IMG_6743.jpg",
+        "titulo": "Pierna de puerco en salsa de mostaza",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "pierna de puerco",
+            "mostaza",
+            "leche",
+            "papas",
+            "manzana"
+        ]
+    },
+    "IMG_6744.jpg": {
+        "archivo": "IMG_6744.jpg",
+        "titulo": "Carne de puerco con achiote",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "pulpa cortada",
+            "achiote"
+        ]
+    },
+    "IMG_6745.jpg": {
+        "archivo": "IMG_6745.jpg",
+        "titulo": "Carne de puerco con achiote",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "pulpa cortada",
+            "achiote"
+        ]
+    },
+    "IMG_6746.jpg": {
+        "archivo": "IMG_6746.jpg",
+        "titulo": "Deshebrada de res",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "carne para deshebrar",
+            "laurel",
+            "tomillo",
+            "mejorana"
+        ]
+    },
+    "IMG_6747.jpg": {
+        "archivo": "IMG_6747.jpg",
+        "titulo": "San cran",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "repollo",
+            "carne molida de puerco",
+            "arroz"
+        ]
+    },
+    "IMG_6748.jpg": {
+        "archivo": "IMG_6748.jpg",
+        "titulo": "San cran",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "repollo",
+            "carne molida de puerco",
+            "arroz"
+        ]
+    },
+    "IMG_6749.jpg": {
+        "archivo": "IMG_6749.jpg",
+        "titulo": "Bistecs en chile pasilla",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "bistek de res",
+            "chiles pasilla",
+            "knor",
+            "leche clavel"
+        ]
+    },
+    "IMG_6750.jpg": {
+        "archivo": "IMG_6750.jpg",
+        "titulo": "Bistecs en chile pasilla",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "bistek de res",
+            "chiles pasilla",
+            "knor",
+            "leche clavel"
+        ]
+    },
+    "IMG_6751.jpg": {
+        "archivo": "IMG_6751.jpg",
+        "titulo": "Cortadillo en salsa verde y chipotle",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "carne",
+            "tomate fresadilla",
+            "chiles chipotle"
+        ]
+    },
+    "IMG_6752.jpg": {
+        "archivo": "IMG_6752.jpg",
+        "titulo": "Cortadillo en salsa verde y chipotle",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "carne",
+            "tomate fresadilla",
+            "chiles chipotle"
+        ]
+    },
+    "IMG_6753.jpg": {
+        "archivo": "IMG_6753.jpg",
+        "titulo": "Homestyle beef stew",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "carne de res",
+            "tomillo",
+            "caldo de res",
+            "papas",
+            "zanahoria"
+        ]
+    },
+    "IMG_6754.jpg": {
+        "archivo": "IMG_6754.jpg",
+        "titulo": "Parma meatloaf",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "carne molida",
+            "pan",
+            "queso parmesano",
+            "kraft barbecue"
+        ]
+    },
+    "IMG_6755.jpg": {
+        "archivo": "IMG_6755.jpg",
+        "titulo": "Chile con carne",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "carne molida",
+            "tomate de lata",
+            "cebolla",
+            "frijoles ranch style"
+        ]
+    },
+    "IMG_6756.jpg": {
+        "archivo": "IMG_6756.jpg",
+        "titulo": "Chile con carne",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "carne molida",
+            "tomate de lata",
+            "cebolla",
+            "frijoles ranch style"
+        ]
+    },
+    "IMG_6757.jpg": {
+        "archivo": "IMG_6757.jpg",
+        "titulo": "Spicy meatloaf",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "carne molida",
+            "champiñones",
+            "pasta de tomate",
+            "chile rojo"
+        ]
+    },
+    "IMG_6758.jpg": {
+        "archivo": "IMG_6758.jpg",
+        "titulo": "Spicy meatloaf",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "carne molida",
+            "champiñones",
+            "pasta de tomate",
+            "chile rojo"
+        ]
+    },
+    "IMG_6759.jpg": {
+        "archivo": "IMG_6759.jpg",
+        "titulo": "Asado de puerco",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "costillas de puerco",
+            "chile ancho",
+            "chile cascabel",
+            "caldo pollo"
+        ]
+    },
+    "IMG_6760.jpg": {
+        "archivo": "IMG_6760.jpg",
+        "titulo": "Asado de puerco",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "costillas de puerco",
+            "chile ancho",
+            "chile cascabel",
+            "caldo pollo"
+        ]
+    },
+    "IMG_6761.jpg": {
+        "archivo": "IMG_6761.jpg",
+        "titulo": "Chuletas de puerco sabrosas",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "chuletas de puerco",
+            "jugo naranja",
+            "jugo limon",
+            "sazonador"
+        ]
+    },
+    "IMG_6762.jpg": {
+        "archivo": "IMG_6762.jpg",
+        "titulo": "Chuletas de puerco sabrosas",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "chuletas de puerco",
+            "jugo naranja",
+            "jugo limon",
+            "sazonador"
+        ]
+    },
+    "IMG_6763.jpg": {
+        "archivo": "IMG_6763.jpg",
+        "titulo": "Beef Balls Strogonoff",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "carne molida",
+            "hongos",
+            "catsup",
+            "consome",
+            "maggie"
+        ]
+    },
+    "IMG_6764.jpg": {
+        "archivo": "IMG_6764.jpg",
+        "titulo": "Beef Balls Strogonoff",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "carne molida",
+            "hongos",
+            "catsup",
+            "consome",
+            "maggie"
+        ]
+    },
+    "IMG_6765.jpg": {
+        "archivo": "IMG_6765.jpg",
+        "titulo": "Bolas de carne",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "Carne molida",
+            "pan",
+            "queso parmesano"
+        ]
+    },
+    "IMG_6766.jpg": {
+        "archivo": "IMG_6766.jpg",
+        "titulo": "Bolas de carne",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "Carne molida",
+            "pan",
+            "queso parmesano"
+        ]
+    },
+    "IMG_6767.jpg": {
+        "archivo": "IMG_6767.jpg",
+        "titulo": "Albondigas rancheras",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "carne molida",
+            "arroz",
+            "papas",
+            "zanahoria",
+            "tomates"
+        ]
+    },
+    "IMG_6768.jpg": {
+        "archivo": "IMG_6768.jpg",
+        "titulo": "Albondigas rancheras",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "carne molida",
+            "arroz",
+            "papas",
+            "zanahoria",
+            "tomates"
+        ]
+    },
+    "IMG_6769.jpg": {
+        "archivo": "IMG_6769.jpg",
+        "titulo": "Carnero de arroz",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "carnero",
+            "arroz",
+            "caldo de carne"
+        ]
+    },
+    "IMG_6770.jpg": {
+        "archivo": "IMG_6770.jpg",
+        "titulo": "Trozo a la cerveza",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "paleta cerdo",
+            "jugo carne",
+            "cerveza"
+        ]
+    },
+    "IMG_6771.jpg": {
+        "archivo": "IMG_6771.jpg",
+        "titulo": "Chuletas de carne faciles",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "chuletas",
+            "miel de abeja",
+            "pepper falkes"
+        ]
+    },
+    "IMG_6772.jpg": {
+        "archivo": "IMG_6772.jpg",
+        "titulo": "Chuletas de carne faciles",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "chuletas",
+            "miel de abeja",
+            "pepper falkes"
+        ]
+    },
+    "IMG_6773.jpg": {
+        "archivo": "IMG_6773.jpg",
+        "titulo": "Pierna adobada kiki",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "pierna",
+            "chile ancho",
+            "chipotle",
+            "cebolla",
+            "tomates"
+        ]
+    },
+    "IMG_6774.jpg": {
+        "archivo": "IMG_6774.jpg",
+        "titulo": "Pierna adobada kiki",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "pierna",
+            "chile ancho",
+            "chipotle",
+            "cebolla",
+            "tomates"
+        ]
+    },
+    "IMG_6775.jpg": {
+        "archivo": "IMG_6775.jpg",
+        "titulo": "Estofado original",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "carne de res",
+            "salsa inglesa",
+            "papas",
+            "zanahoria"
+        ]
+    },
+    "IMG_6776.jpg": {
+        "archivo": "IMG_6776.jpg",
+        "titulo": "Estofado original",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "carne de res",
+            "salsa inglesa",
+            "papas",
+            "zanahoria"
+        ]
+    },
+    "IMG_6777.jpg": {
+        "archivo": "IMG_6777.jpg",
+        "titulo": "Chuletas de puerco catsup",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "chuletas",
+            "catsup",
+            "mostaza",
+            "salsa inglesa"
+        ]
+    },
+    "IMG_6778.jpg": {
+        "archivo": "IMG_6778.jpg",
+        "titulo": "Chuletas de puerco catsup",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "chuletas",
+            "catsup",
+            "mostaza",
+            "salsa inglesa"
+        ]
+    },
+    "IMG_6779.jpg": {
+        "archivo": "IMG_6779.jpg",
+        "titulo": "Steak fettuccini cajun",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "carne de res",
+            "fettuchini",
+            "queso parmesano",
+            "especies"
+        ]
+    },
+    "IMG_6780.jpg": {
+        "archivo": "IMG_6780.jpg",
+        "titulo": "Old fashioned beef stew",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "carne",
+            "papas",
+            "zanahoria",
+            "salsa inglesa"
+        ]
+    },
+    "IMG_6781.jpg": {
+        "archivo": "IMG_6781.jpg",
+        "titulo": "Old fashioned beef stew",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "carne",
+            "papas",
+            "zanahoria",
+            "salsa inglesa"
+        ]
+    },
+    "IMG_6782.jpg": {
+        "archivo": "IMG_6782.jpg",
+        "titulo": "Rollos de carne milagros",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "carne",
+            "pan",
+            "huevos",
+            "puré papa",
+            "queso parmesano"
+        ]
+    },
+    "IMG_6783.jpg": {
+        "archivo": "IMG_6783.jpg",
+        "titulo": "Rollos de carne milagros",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "carne",
+            "pan",
+            "huevos",
+            "puré papa",
+            "queso parmesano"
+        ]
+    },
+    "IMG_6784.jpg": {
+        "archivo": "IMG_6784.jpg",
+        "titulo": "Pastel pastor",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "carne molida",
+            "gravy",
+            "salsa inglesa",
+            "papas",
+            "queso cheddar"
+        ]
+    },
+    "IMG_6785.jpg": {
+        "archivo": "IMG_6785.jpg",
+        "titulo": "Pastel pastor",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "carne molida",
+            "gravy",
+            "salsa inglesa",
+            "papas",
+            "queso cheddar"
+        ]
+    },
+    "IMG_6786.jpg": {
+        "archivo": "IMG_6786.jpg",
+        "titulo": "Best ever burgers",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "carne molida",
+            "sopa de cebolla"
+        ]
+    },
+    "IMG_6787.jpg": {
+        "archivo": "IMG_6787.jpg",
+        "titulo": "Coffee rubbed ribeye",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "chili",
+            "espresso",
+            "mostaza",
+            "especies"
+        ]
+    },
+    "IMG_6788.jpg": {
+        "archivo": "IMG_6788.jpg",
+        "titulo": "Coffee rubbed ribeye",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "chili",
+            "espresso",
+            "mostaza",
+            "especies"
+        ]
+    },
+    "IMG_6789.jpg": {
+        "archivo": "IMG_6789.jpg",
+        "titulo": "Beef goulash",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "Carne",
+            "papas",
+            "cebolla",
+            "caldo de res"
+        ]
+    },
+    "IMG_6790.jpg": {
+        "archivo": "IMG_6790.jpg",
+        "titulo": "Beef goulash",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "Carne",
+            "papas",
+            "cebolla",
+            "caldo de res"
+        ]
+    },
+    "IMG_6791.jpg": {
+        "archivo": "IMG_6791.jpg",
+        "titulo": "Albondigas en cebolla y crema agria",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "carne molida",
+            "pan",
+            "cebolla",
+            "leche"
+        ]
+    },
+    "IMG_6792.jpg": {
+        "archivo": "IMG_6792.jpg",
+        "titulo": "Albondigas en cebolla y crema agria",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "carne molida",
+            "pan",
+            "cebolla",
+            "leche"
+        ]
+    },
+    "IMG_6793.jpg": {
+        "archivo": "IMG_6793.jpg",
+        "titulo": "Meatballs in onions and sour cream",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "carne molida",
+            "pan",
+            "cebolla",
+            "mostaza"
+        ]
+    },
+    "IMG_6794.jpg": {
+        "archivo": "IMG_6794.jpg",
+        "titulo": "Meatballs in onions and sour cream",
+        "categoria": "Carnes",
+        "palabras_clave": [
+            "carne molida",
+            "pan",
+            "cebolla",
+            "mostaza"
+        ]
+    },
+    "IMG_6661.jpg": {
+        "archivo": "IMG_6661.jpg",
+        "titulo": "Steak oriental",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "pulpa de res",
+            "salsa soya",
+            "chile morrón",
+            "jícama"
+        ]
+    },
+    "IMG_6662.jpg": {
+        "archivo": "IMG_6662.jpg",
+        "titulo": "Steak oriental",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "pulpa de res",
+            "salsa soya",
+            "chile morrón",
+            "jícama"
+        ]
+    },
+    "IMG_6663.jpg": {
+        "archivo": "IMG_6663.jpg",
+        "titulo": "Taquiza",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "carne",
+            "tocino",
+            "salchicha",
+            "chile morrón"
+        ]
+    },
+    "IMG_6664.jpg": {
+        "archivo": "IMG_6664.jpg",
+        "titulo": "Taquiza",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "carne",
+            "tocino",
+            "salchicha",
+            "chile morrón"
+        ]
+    },
+    "IMG_6665.jpg": {
+        "archivo": "IMG_6665.jpg",
+        "titulo": "Lomo de puerco con fruta y chile poblano",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "lomo de puerco",
+            "chile poblano",
+            "menbrillos",
+            "duraznos"
+        ]
+    },
+    "IMG_6666.jpg": {
+        "archivo": "IMG_6666.jpg",
+        "titulo": "Lomo de puerco con fruta y chile poblano",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "lomo de puerco",
+            "chile poblano",
+            "menbrillos",
+            "duraznos"
+        ]
+    },
+    "IMG_6667.jpg": {
+        "archivo": "IMG_6667.jpg",
+        "titulo": "Lomo al tequila y epazote",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "lomo de puerco",
+            "epazote",
+            "tequila",
+            "maggie"
+        ]
+    },
+    "IMG_6668.jpg": {
+        "archivo": "IMG_6668.jpg",
+        "titulo": "Lomo al tequila y epazote",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "lomo de puerco",
+            "epazote",
+            "tequila",
+            "maggie"
+        ]
+    },
+    "IMG_6669.jpg": {
+        "archivo": "IMG_6669.jpg",
+        "titulo": "Punta de palomilla con repollo",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "punta palomilla",
+            "pimientos",
+            "pimiento morrón",
+            "zanahoria"
+        ]
+    },
+    "IMG_6670.jpg": {
+        "archivo": "IMG_6670.jpg",
+        "titulo": "Punta de palomilla con repollo",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "punta palomilla",
+            "pimientos",
+            "pimiento morrón",
+            "zanahoria"
+        ]
+    },
+    "IMG_6671.jpg": {
+        "archivo": "IMG_6671.jpg",
+        "titulo": "Stir anf fry beef",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "pulpa",
+            "soya",
+            "gengibre",
+            "hongos",
+            "puré tomate"
+        ]
+    },
+    "IMG_6672.jpg": {
+        "archivo": "IMG_6672.jpg",
+        "titulo": "Stir anf fry beef",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "pulpa",
+            "soya",
+            "gengibre",
+            "hongos",
+            "puré tomate"
+        ]
+    },
+    "IMG_6673.jpg": {
+        "archivo": "IMG_6673.jpg",
+        "titulo": "Guis de carne de puerco medio chino",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "carne puerco",
+            "caldo pollo",
+            "pimientos morrones"
+        ]
+    },
+    "IMG_6674.jpg": {
+        "archivo": "IMG_6674.jpg",
+        "titulo": "Guis de carne de puerco medio chino",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "carne puerco",
+            "caldo pollo",
+            "pimientos morrones"
+        ]
+    },
+    "IMG_6675.jpg": {
+        "archivo": "IMG_6675.jpg",
+        "titulo": "Chiles en nogada",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "carne molida",
+            "pasas",
+            "nuez",
+            "almendra",
+            "pan"
+        ]
+    },
+    "IMG_6676.jpg": {
+        "archivo": "IMG_6676.jpg",
+        "titulo": "Chiles en nogada",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "carne molida",
+            "pasas",
+            "nuez",
+            "almendra",
+            "pan"
+        ]
+    },
+    "IMG_6677.jpg": {
+        "archivo": "IMG_6677.jpg",
+        "titulo": "Salpicon de res",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "falda de res",
+            "rábanos",
+            "cebolla",
+            "tomate",
+            "chiles"
+        ]
+    },
+    "IMG_6678.jpg": {
+        "archivo": "IMG_6678.jpg",
+        "titulo": "Salpicon de res",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "falda de res",
+            "rábanos",
+            "cebolla",
+            "tomate",
+            "chiles"
+        ]
+    },
+    "IMG_6679.jpg": {
+        "archivo": "IMG_6679.jpg",
+        "titulo": "Sincronizadas",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "tortillas",
+            "jamón",
+            "queso",
+            "aguacate"
+        ]
+    },
+    "IMG_6680.jpg": {
+        "archivo": "IMG_6680.jpg",
+        "titulo": "Sincronizadas",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "tortillas",
+            "jamón",
+            "queso",
+            "aguacate"
+        ]
+    },
+    "IMG_6681.jpg": {
+        "archivo": "IMG_6681.jpg",
+        "titulo": "Flautas mexicanas",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "tortillas",
+            "falda de res",
+            "chiles pasilla",
+            "crema",
+            "queso"
+        ]
+    },
+    "IMG_6682.jpg": {
+        "archivo": "IMG_6682.jpg",
+        "titulo": "Fritada de cabrito",
+        "categoria": "Regioal",
+        "palabras_clave": [
+            "cabrito",
+            "chile poblano",
+            "chile morrón",
+            "tomate"
+        ]
+    },
+    "IMG_6683.jpg": {
+        "archivo": "IMG_6683.jpg",
+        "titulo": "Fritada",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "cabrito",
+            "chile poblano",
+            "chile morrón",
+            "tomate"
+        ]
+    },
+    "IMG_6684.jpg": {
+        "archivo": "IMG_6684.jpg",
+        "titulo": "Pipian de teresita",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "carne puerco",
+            "pepitas",
+            "tomate fresadilla",
+            "chile serrano"
+        ]
+    },
+    "IMG_6685.jpg": {
+        "archivo": "IMG_6685.jpg",
+        "titulo": "Pipian de teresita",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "carne puerco",
+            "pepitas",
+            "tomate fresadilla",
+            "chile serrano"
+        ]
+    },
+    "IMG_6686.jpg": {
+        "archivo": "IMG_6686.jpg",
+        "titulo": "Rajas ppoblanas",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "chiles poblanos",
+            "elote",
+            "queso philadelphia",
+            "consome pollo"
+        ]
+    },
+    "IMG_6687.jpg": {
+        "archivo": "IMG_6687.jpg",
+        "titulo": "Rajas ppoblanas",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "chiles poblanos",
+            "elote",
+            "queso philadelphia",
+            "consome pollo"
+        ]
+    },
+    "IMG_6688.jpg": {
+        "archivo": "IMG_6688.jpg",
+        "titulo": "Asado de puerco",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "carne de puerco",
+            "chiles ancho",
+            "chiles cascabel",
+            "caldo pollo"
+        ]
+    },
+    "IMG_6689.jpg": {
+        "archivo": "IMG_6689.jpg",
+        "titulo": "Asado de puerco",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "carne de puerco",
+            "chiles ancho",
+            "chiles cascabel",
+            "caldo pollo"
+        ]
+    },
+    "IMG_6690.jpg": {
+        "archivo": "IMG_6690.jpg",
+        "titulo": "Pozole",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "manitas de puerco",
+            "pollo",
+            "carne puerco",
+            "maíz"
+        ]
+    },
+    "IMG_6691.jpg": {
+        "archivo": "IMG_6691.jpg",
+        "titulo": "Chili con carne",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "frijoles ranch style",
+            "carne molida",
+            "tomates (lata)"
+        ]
+    },
+    "IMG_6692.jpg": {
+        "archivo": "IMG_6692.jpg",
+        "titulo": "Chili con carne",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "frijoles ranch style",
+            "carne molida",
+            "tomates (lata)"
+        ]
+    },
+    "IMG_6693.jpg": {
+        "archivo": "IMG_6693.jpg",
+        "titulo": "Menudo",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "menudo",
+            "panza",
+            "nixtamal",
+            "chile colorado"
+        ]
+    },
+    "IMG_6694.jpg": {
+        "archivo": "IMG_6694.jpg",
+        "titulo": "Menudo",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "menudo",
+            "panza",
+            "nixtamal",
+            "chile colorado"
+        ]
+    },
+    "IMG_6695.jpg": {
+        "archivo": "IMG_6695.jpg",
+        "titulo": "Cochinita pibil",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "carne de puerco",
+            "achiote",
+            "jugo naranja",
+            "jugo limon"
+        ]
+    },
+    "IMG_6696.jpg": {
+        "archivo": "IMG_6696.jpg",
+        "titulo": "Cochinita pibil",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "carne de puerco",
+            "achiote",
+            "jugo naranja",
+            "jugo limon"
+        ]
+    },
+    "IMG_6697.jpg": {
+        "archivo": "IMG_6697.jpg",
+        "titulo": "Calabacita con elote y carne de puerco",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "carne de puerco",
+            "calabacitas",
+            "elote",
+            "tomate"
+        ]
+    },
+    "IMG_6698.jpg": {
+        "archivo": "IMG_6698.jpg",
+        "titulo": "Calabacita con elote y carne de puerco",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "carne de puerco",
+            "calabacitas",
+            "elote",
+            "tomate"
+        ]
+    },
+    "IMG_6699.jpg": {
+        "archivo": "IMG_6699.jpg",
+        "titulo": "Cortadillo sinaloense",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "carne para cortadillo",
+            "pimientos",
+            "papas",
+            "calabacitas",
+            "papas"
+        ]
+    },
+    "IMG_6700.jpg": {
+        "archivo": "IMG_6700.jpg",
+        "titulo": "Cortadillo sinaloense",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "carne para cortadillo",
+            "pimientos",
+            "papas",
+            "calabacitas",
+            "papas"
+        ]
+    },
+    "IMG_6701.jpg": {
+        "archivo": "IMG_6701.jpg",
+        "titulo": "Tinga poblana",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "longaniza",
+            "falda de res",
+            "falda de puerco",
+            "pechuga pollo"
+        ]
+    },
+    "IMG_6702.jpg": {
+        "archivo": "IMG_6702.jpg",
+        "titulo": "Tinga poblana",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "longaniza",
+            "falda de res",
+            "falda de puerco",
+            "pechuga pollo"
+        ]
+    },
+    "IMG_6703.jpg": {
+        "archivo": "IMG_6703.jpg",
+        "titulo": "Rajas con flor de calabaza",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "chiles poblanos",
+            "elote",
+            "flor de calabaza",
+            "calabacitas"
+        ]
+    },
+    "IMG_6704.jpg": {
+        "archivo": "IMG_6704.jpg",
+        "titulo": "Rajas con flor de calabaza",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "chiles poblanos",
+            "elote",
+            "flor de calabaza",
+            "calabacitas"
+        ]
+    },
+    "IMG_6705.jpg": {
+        "archivo": "IMG_6705.jpg",
+        "titulo": "Tacos de camaron al chipotle",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "camarón pacotillo",
+            "chipotle molido",
+            "frijoles refritos"
+        ]
+    },
+    "IMG_6706.jpg": {
+        "archivo": "IMG_6706.jpg",
+        "titulo": "Tacos de camaron al chipotle",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "camarón pacotillo",
+            "chipotle molido",
+            "frijoles refritos"
+        ]
+    },
+    "IMG_6707.jpg": {
+        "archivo": "IMG_6707.jpg",
+        "titulo": "Cjicharron en salsa verde",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "chicharron de puerco",
+            "chiles jalapeños",
+            "tomate fresadilla"
+        ]
+    },
+    "IMG_6708.jpg": {
+        "archivo": "IMG_6708.jpg",
+        "titulo": "Cjicharron en salsa verde",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "chicharron de puerco",
+            "chiles jalapeños",
+            "tomate fresadilla"
+        ]
+    },
+    "IMG_6709.jpg": {
+        "archivo": "IMG_6709.jpg",
+        "titulo": "Enchiladas con salsa de chicharron",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "chile chipotle",
+            "chile guajillo",
+            "chile ancho",
+            "tortillas"
+        ]
+    },
+    "IMG_6710.jpg": {
+        "archivo": "IMG_6710.jpg",
+        "titulo": "Enchiladas con salsa de chicharron",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "chile chipotle",
+            "chile guajillo",
+            "chile ancho",
+            "tortillas"
+        ]
+    },
+    "IMG_6711.jpg": {
+        "archivo": "IMG_6711.jpg",
+        "titulo": "Tortitas de carne con salsa guajillo",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "falda de res",
+            "huevos",
+            "tortillas de harina"
+        ]
+    },
+    "IMG_6712.jpg": {
+        "archivo": "IMG_6712.jpg",
+        "titulo": "Tortitas de carne con salsa guajillo",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "falda de res",
+            "huevos",
+            "tortillas de harina"
+        ]
+    },
+    "IMG_6713.jpg": {
+        "archivo": "IMG_6713.jpg",
+        "titulo": "Puchero",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "pecho",
+            "elote",
+            "camote",
+            "papa",
+            "calabacitas",
+            "zanahoria"
+        ]
+    },
+    "IMG_6714.jpg": {
+        "archivo": "IMG_6714.jpg",
+        "titulo": "Albonigas suizas",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "carne molida",
+            "huevos",
+            "pan",
+            "queso manchego",
+            "leche evaporada"
+        ]
+    },
+    "IMG_6715.jpg": {
+        "archivo": "IMG_6715.jpg",
+        "titulo": "Albonigas suizas",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "carne molida",
+            "huevos",
+            "pan",
+            "queso manchego",
+            "leche evaporada"
+        ]
+    },
+    "IMG_6716.jpg": {
+        "archivo": "IMG_6716.jpg",
+        "titulo": "Chow mein",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "carne de puerco",
+            "hongos",
+            "frijol germinado",
+            "caldo de res"
+        ]
+    },
+    "IMG_6717.jpg": {
+        "archivo": "IMG_6717.jpg",
+        "titulo": "Chow mein",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "carne de puerco",
+            "hongos",
+            "frijol germinado",
+            "caldo de res"
+        ]
+    },
+    "IMG_6718.jpg": {
+        "archivo": "IMG_6718.jpg",
+        "titulo": "Steak oriental",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "pulpa de res",
+            "chile morron verde",
+            "jícama",
+            "caldo pollo"
+        ]
+    },
+    "IMG_6719.jpg": {
+        "archivo": "IMG_6719.jpg",
+        "titulo": "Steak oriental",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "pulpa de res",
+            "chile morron verde",
+            "jícama",
+            "caldo pollo"
+        ]
+    },
+    "IMG_6720.jpg": {
+        "archivo": "IMG_6720.jpg",
+        "titulo": "Pastel azteca en mole",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "mole rojo",
+            "chocolate abuelita",
+            "maggie",
+            "tortillas",
+            "pechuga pollo"
+        ]
+    },
+    "IMG_6721.jpg": {
+        "archivo": "IMG_6721.jpg",
+        "titulo": "Pastel azteca en mole",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "mole rojo",
+            "chocolate abuelita",
+            "maggie",
+            "tortillas",
+            "pechuga pollo"
+        ]
+    },
+    "IMG_6722.jpg": {
+        "archivo": "IMG_6722.jpg",
+        "titulo": "Pastel azteca",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "tomatillos",
+            "cebolla",
+            "queso philadelphia"
+        ]
+    },
+    "IMG_6723.jpg": {
+        "archivo": "IMG_6723.jpg",
+        "titulo": "Pastel azteca",
+        "categoria": "Regional",
+        "palabras_clave": [
+            "tomatillos",
+            "cebolla",
+            "queso philadelphia"
+        ]
+    },
+    "IMG_6619.jpg": {
+        "archivo": "IMG_6619.jpg",
+        "titulo": "Pescado en salsa de jícama y mango",
+        "categoria": "Mariscos",
+        "palabras_clave": [
+            "pescado",
+            "mango",
+            "jícama",
+            "zanahorias"
+        ]
+    },
+    "IMG_6620.jpg": {
+        "archivo": "IMG_6620.jpg",
+        "titulo": "Pescado en salsa de jícama y mango",
+        "categoria": "Mariscos",
+        "palabras_clave": [
+            "pescado",
+            "mango",
+            "jícama",
+            "zanahorias"
+        ]
+    },
+    "IMG_6621.jpg": {
+        "archivo": "IMG_6621.jpg",
+        "titulo": "Norwegian fish chowder",
+        "categoria": "Mariscos",
+        "palabras_clave": [
+            "bacalao",
+            "papas",
+            "zanahorias",
+            "pepino"
+        ]
+    },
+    "IMG_6622.jpg": {
+        "archivo": "IMG_6622.jpg",
+        "titulo": "Norwegian fish chowder",
+        "categoria": "Mariscos",
+        "palabras_clave": [
+            "bacalao",
+            "papas",
+            "zanahorias",
+            "pepino"
+        ]
+    },
+    "IMG_6623.jpg": {
+        "archivo": "IMG_6623.jpg",
+        "titulo": "Croquetas de atún",
+        "categoria": "Mariscos",
+        "palabras_clave": [
+            "atún",
+            "papas",
+            "pan molido",
+            "huevos"
+        ]
+    },
+    "IMG_6624.jpg": {
+        "archivo": "IMG_6624.jpg",
+        "titulo": "Croquetas de atún",
+        "categoria": "Mariscos",
+        "palabras_clave": [
+            "atún",
+            "papas",
+            "pan molido",
+            "huevos"
+        ]
+    },
+    "IMG_6625.jpg": {
+        "archivo": "IMG_6625.jpg",
+        "titulo": "Key west grilled salmon",
+        "categoria": "Mariscos",
+        "palabras_clave": [
+            "salmón",
+            "aceite de olivo",
+            "apio"
+        ]
+    },
+    "IMG_6626.jpg": {
+        "archivo": "IMG_6626.jpg",
+        "titulo": "Huachinango en salsa de jaiba",
+        "categoria": "Mariscos",
+        "palabras_clave": [
+            "huachinango",
+            "jaiba",
+            "naranja",
+            "limón",
+            "caldo de pollo"
+        ]
+    },
+    "IMG_6627.jpg": {
+        "archivo": "IMG_6627.jpg",
+        "titulo": "Huachinango en salsa de jaiba",
+        "categoria": "Mariscos",
+        "palabras_clave": [
+            "huachinango",
+            "jaiba",
+            "naranja",
+            "limón",
+            "caldo de pollo"
+        ]
+    },
+    "IMG_6628.jpg": {
+        "archivo": "IMG_6628.jpg",
+        "titulo": "Oysters with salsa verde",
+        "categoria": "Mariscos",
+        "palabras_clave": [
+            "ostiones",
+            "tocino",
+            "salsa verde",
+            "pan"
+        ]
+    },
+    "IMG_6629.jpg": {
+        "archivo": "IMG_6629.jpg",
+        "titulo": "Oysters with salsa verde",
+        "categoria": "Mariscos",
+        "palabras_clave": [
+            "ostiones",
+            "tocino",
+            "salsa verde",
+            "pan"
+        ]
+    },
+    "IMG_6630.jpg": {
+        "archivo": "IMG_6630.jpg",
+        "titulo": "Fisherman's tartar sauce",
+        "categoria": "Mariscos",
+        "palabras_clave": [
+            "mayonesa",
+            "pepino",
+            "aceitunas"
+        ]
+    },
+    "IMG_6631.jpg": {
+        "archivo": "IMG_6631.jpg",
+        "titulo": "Fisherman's tartar sauce",
+        "categoria": "Mariscos",
+        "palabras_clave": [
+            "mayonesa",
+            "pepino",
+            "aceitunas"
+        ]
+    },
+    "IMG_6632.jpg": {
+        "archivo": "IMG_6632.jpg",
+        "titulo": "Pescado a la Veracruzana",
+        "categoria": "Mariscos",
+        "palabras_clave": [
+            "robalo",
+            "chile poblano",
+            "tomate",
+            "aceitunas",
+            "cebolla"
+        ]
+    },
+    "IMG_6633.jpg": {
+        "archivo": "IMG_6633.jpg",
+        "titulo": "Pescado en salsa de jícama y mango",
+        "categoria": "Mariscos",
+        "palabras_clave": [
+            "pescado",
+            "zanahorias",
+            "jícama",
+            "mango",
+            "jalapeños"
+        ]
+    },
+    "IMG_6634.jpg": {
+        "archivo": "IMG_6634.jpg",
+        "titulo": "Pescado en salsa de jícama y mango",
+        "categoria": "Mariscos",
+        "palabras_clave": [
+            "pescado",
+            "zanahorias",
+            "jícama",
+            "mango",
+            "jalapeños"
+        ]
+    },
+    "IMG_6635.jpg": {
+        "archivo": "IMG_6635.jpg",
+        "titulo": "Salmón al pesto",
+        "categoria": "Mariscos",
+        "palabras_clave": [
+            "salmón",
+            "nueces",
+            "queso parmesano",
+            "albahaca"
+        ]
+    },
+    "IMG_6636.jpg": {
+        "archivo": "IMG_6636.jpg",
+        "titulo": "Salmón al pesto",
+        "categoria": "Mariscos",
+        "palabras_clave": [
+            "salmón",
+            "nueces",
+            "queso parmesano",
+            "albahaca"
+        ]
+    },
+    "IMG_6637.jpg": {
+        "archivo": "IMG_6637.jpg",
+        "titulo": "Salmón al pesto",
+        "categoria": "Mariscos",
+        "palabras_clave": [
+            "salmón",
+            "nueces",
+            "queso parmesano",
+            "albahaca"
+        ]
+    },
+    "IMG_6638.jpg": {
+        "archivo": "IMG_6638.jpg",
+        "titulo": "Salmón al pesto",
+        "categoria": "Mariscos",
+        "palabras_clave": [
+            "salmón",
+            "nueces",
+            "queso parmesano",
+            "albahaca"
+        ]
+    },
+    "IMG_6639.jpg": {
+        "archivo": "IMG_6639.jpg",
+        "titulo": "Pescado empanizado con nuez",
+        "categoria": "Mariscos",
+        "palabras_clave": [
+            "pescado",
+            "huevos",
+            "salsa inglesa",
+            "lima",
             "nuez"
+        ]
+    },
+    "IMG_6640.jpg": {
+        "archivo": "IMG_6640.jpg",
+        "titulo": "Pescado empanizado con nuez",
+        "categoria": "Mariscos",
+        "palabras_clave": [
+            "pescado",
+            "huevos",
+            "salsa inglesa",
+            "lima",
+            "nuez"
+        ]
+    },
+    "IMG_6641.jpg": {
+        "archivo": "IMG_6641.jpg",
+        "titulo": "Pulpos en su tinta",
+        "categoria": "Mariscos",
+        "palabras_clave": [
+            "pulpo",
+            "cebolla",
+            "aceite de olivo",
+            "tomate"
+        ]
+    },
+    "IMG_6642.jpg": {
+        "archivo": "IMG_6642.jpg",
+        "titulo": "Pulpos en su tinta",
+        "categoria": "Mariscos",
+        "palabras_clave": [
+            "pulpo",
+            "cebolla",
+            "aceite de olivo",
+            "tomate"
+        ]
+    },
+    "IMG_6643.jpg": {
+        "archivo": "IMG_6643.jpg",
+        "titulo": "Ostiones a la diabla",
+        "categoria": "Mariscos",
+        "palabras_clave": [
+            "ostiones",
+            "tocino",
+            "acelgas",
+            "queso parmesano"
+        ]
+    },
+    "IMG_6644.jpg": {
+        "archivo": "IMG_6644.jpg",
+        "titulo": "Trucha arco iris y aceitunas",
+        "categoria": "Mariscos",
+        "palabras_clave": [
+            "truchas",
+            "jerez",
+            "champiñones",
+            "aceitunas"
+        ]
+    },
+    "IMG_6645.jpg": {
+        "archivo": "IMG_6645.jpg",
+        "titulo": "Trucha arco iris y aceitunas",
+        "categoria": "Mariscos",
+        "palabras_clave": [
+            "truchas",
+            "jerez",
+            "champiñones",
+            "aceitunas"
+        ]
+    },
+    "IMG_6646.jpg": {
+        "archivo": "IMG_6646.jpg",
+        "titulo": "Pescado en salsa de jícama y mango",
+        "categoria": "Mariscos",
+        "palabras_clave": [
+            "pescado",
+            "jícama",
+            "mango",
+            "jalapeños",
+            "zanahorias"
+        ]
+    },
+    "IMG_6647.jpg": {
+        "archivo": "IMG_6647.jpg",
+        "titulo": "Pescado en salsa de jícama y mango",
+        "categoria": "Mariscos",
+        "palabras_clave": [
+            "pescado",
+            "jícama",
+            "mango",
+            "jalapeños",
+            "zanahorias"
+        ]
+    },
+    "IMG_6648.jpg": {
+        "archivo": "IMG_6648.jpg",
+        "titulo": "Tilapia",
+        "categoria": "Mariscos",
+        "palabras_clave": [
+            "tilapia",
+            "zanahorias",
+            "crema",
+            "salsa de soya"
+        ]
+    },
+    "IMG_6649.jpg": {
+        "archivo": "IMG_6649.jpg",
+        "titulo": "Tilapia",
+        "categoria": "Mariscos",
+        "palabras_clave": [
+            "tilapia",
+            "zanahorias",
+            "crema",
+            "salsa de soya"
+        ]
+    },
+    "IMG_6650.jpg": {
+        "archivo": "IMG_6650.jpg",
+        "titulo": "Trozos de pescado al poblano",
+        "categoria": "Mariscos",
+        "palabras_clave": [
+            "pescado",
+            "queso chihuahua",
+            "crema lala",
+            "elote",
+            "chile poblano"
+        ]
+    },
+    "IMG_6651.jpg": {
+        "archivo": "IMG_6651.jpg",
+        "titulo": "Pescado en salsa de cilantro",
+        "categoria": "Mariscos",
+        "palabras_clave": [
+            "pescado",
+            "rebanadas de piña",
+            "leche evaporada"
+        ]
+    },
+    "IMG_6652.jpg": {
+        "archivo": "IMG_6652.jpg",
+        "titulo": "Pescado en salsa de cilantro",
+        "categoria": "Mariscos",
+        "palabras_clave": [
+            "pescado",
+            "rebanadas de piña",
+            "leche evaporada"
+        ]
+    },
+    "IMG_6653.jpg": {
+        "archivo": "IMG_6653.jpg",
+        "titulo": "Pescado en salsa de maní",
+        "categoria": "Mariscos",
+        "palabras_clave": [
+            "pescado",
+            "crema de cacahuate",
+            "salsa de soya",
+            "cebollitas cambray"
+        ]
+    },
+    "IMG_6654.jpg": {
+        "archivo": "IMG_6654.jpg",
+        "titulo": "Pescado en salsa de maní",
+        "categoria": "Mariscos",
+        "palabras_clave": [
+            "pescado",
+            "crema de cacahuate",
+            "salsa de soya",
+            "cebollitas cambray"
+        ]
+    },
+    "IMG_6966.jpg": {
+        "archivo": "IMG_6966.jpg",
+        "titulo": "Pollo al horno",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pollo",
+            "limón",
+            "poultry seasoning"
+        ]
+    },
+    "IMG_6967.jpg": {
+        "archivo": "IMG_6967.jpg",
+        "titulo": "Creole chicken breasts",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pechugas pollo",
+            "morrón",
+            "caldo pollo",
+            "cayenne",
+            "tomillo"
+        ]
+    },
+    "IMG_6968.jpg": {
+        "archivo": "IMG_6968.jpg",
+        "titulo": "Creole chicken breasts",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pechugas pollo",
+            "morrón",
+            "caldo pollo",
+            "cayenne",
+            "tomillo"
+        ]
+    },
+    "IMG_6969.jpg": {
+        "archivo": "IMG_6969.jpg",
+        "titulo": "Pollo estragón",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pechuga pollo",
+            "limguini",
+            "harina",
+            "nuez mozcada"
+        ]
+    },
+    "IMG_6970.jpg": {
+        "archivo": "IMG_6970.jpg",
+        "titulo": "Pollo estragón",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pechuga pollo",
+            "limguini",
+            "harina",
+            "nuez mozcada"
+        ]
+    },
+    "IMG_6971.jpg": {
+        "archivo": "IMG_6971.jpg",
+        "titulo": "Pollo savory",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pollo",
+            "mejorana",
+            "vino tinto"
+        ]
+    },
+    "IMG_6972.jpg": {
+        "archivo": "IMG_6972.jpg",
+        "titulo": "Pollo savory",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pollo",
+            "mejorana",
+            "vino tinto"
+        ]
+    },
+    "IMG_6973.jpg": {
+        "archivo": "IMG_6973.jpg",
+        "titulo": "Pechugas de pollo en salsa de mostaza",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pechuga pollo",
+            "queso crema",
+            "maizena",
+            "caldo pollo",
+            "miel de abeja"
+        ]
+    },
+    "IMG_6974.jpg": {
+        "archivo": "IMG_6974.jpg",
+        "titulo": "Pechugas de pollo en salsa de mostaza",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pechuga pollo",
+            "queso crema",
+            "maizena",
+            "caldo pollo",
+            "miel de abeja"
+        ]
+    },
+    "IMG_6975.jpg": {
+        "archivo": "IMG_6975.jpg",
+        "titulo": "Fajitas de pollo",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pechuga pollo",
+            "red peper",
+            "morrones",
+            "salsa soya"
+        ]
+    },
+    "IMG_6976.jpg": {
+        "archivo": "IMG_6976.jpg",
+        "titulo": "Fajitas de pollo",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pechuga pollo",
+            "red peper",
+            "morrones",
+            "salsa soya"
+        ]
+    },
+    "IMG_6977.jpg": {
+        "archivo": "IMG_6977.jpg",
+        "titulo": "Pechugas de pollo en salsa de nuez",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pechuga pollo",
+            "nuez",
+            "leche evaporada",
+            "caldo de pollo"
+        ]
+    },
+    "IMG_6978.jpg": {
+        "archivo": "IMG_6978.jpg",
+        "titulo": "Pechugas de pollo en salsa de nuez",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pechuga pollo",
+            "nuez",
+            "leche evaporada",
+            "caldo de pollo"
+        ]
+    },
+    "IMG_6979.jpg": {
+        "archivo": "IMG_6979.jpg",
+        "titulo": "Cheesu chicken burgers",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pollo molido",
+            "queso crema",
+            "queso chedar",
+            "cebolla",
+            "lechuga"
+        ]
+    },
+    "IMG_6980.jpg": {
+        "archivo": "IMG_6980.jpg",
+        "titulo": "Croquetas de pollo pipián",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pechuga pollo",
+            "leche clavel",
+            "harina",
+            "cebolla",
+            "pan molido"
+        ]
+    },
+    "IMG_6981.jpg": {
+        "archivo": "IMG_6981.jpg",
+        "titulo": "Croquetas de pollo pipián",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pechuga pollo",
+            "leche clavel",
+            "harina",
+            "cebolla",
+            "pan molido"
+        ]
+    },
+    "IMG_6982.jpg": {
+        "archivo": "IMG_6982.jpg",
+        "titulo": "Pechugas cordon blue",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "milanesas de pollo",
+            "queso gruyere",
+            "jamón harina",
+            "crema espesa"
+        ]
+    },
+    "IMG_6983.jpg": {
+        "archivo": "IMG_6983.jpg",
+        "titulo": "Pechugas cordon blue",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "milanesas de pollo",
+            "queso gruyere",
+            "jamón harina",
+            "crema espesa"
+        ]
+    },
+    "IMG_6984.jpg": {
+        "archivo": "IMG_6984.jpg",
+        "titulo": "Rollos de pechuga rellenos",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pan molido",
+            "pechugas de pollo",
+            "huevos",
+            "leche",
+            "queso manchego"
+        ]
+    },
+    "IMG_6985.jpg": {
+        "archivo": "IMG_6985.jpg",
+        "titulo": "Rollos de pechuga rellenos",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pan molido",
+            "pechugas de pollo",
+            "huevos",
+            "leche",
+            "queso manchego"
+        ]
+    },
+    "IMG_6986.jpg": {
+        "archivo": "IMG_6986.jpg",
+        "titulo": "Pechugas florentinas",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pechugas",
+            "mantequilla",
+            "queso mosarell",
+            "tocino",
+            "crema"
+        ]
+    },
+    "IMG_6987.jpg": {
+        "archivo": "IMG_6987.jpg",
+        "titulo": "Pechugas florentinas",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pechugas",
+            "mantequilla",
+            "queso mosarell",
+            "tocino",
+            "crema"
+        ]
+    },
+    "IMG_6988.jpg": {
+        "archivo": "IMG_6988.jpg",
+        "titulo": "Pechuga de pavo con salsa de chabacano y pistache",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pechuga pavo",
+            "leche carnation. salsa chabacana",
+            "pistaches"
+        ]
+    },
+    "IMG_6989.jpg": {
+        "archivo": "IMG_6989.jpg",
+        "titulo": "Pechuga de pavo con salsa de chabacano y pistache",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pechuga pavo",
+            "leche carnation. salsa chabacana",
+            "pistaches"
+        ]
+    },
+    "IMG_6990.jpg": {
+        "archivo": "IMG_6990.jpg",
+        "titulo": "Pollo en salsa de Manzana y tocino",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pechuga",
+            "manzanas amarillas",
+            "leche evaporada",
+            "tocino",
+            "caldo de pollo"
+        ]
+    },
+    "IMG_6991.jpg": {
+        "archivo": "IMG_6991.jpg",
+        "titulo": "Pollo en salsa de Manzana y tocino",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pechuga",
+            "manzanas amarillas",
+            "leche evaporada",
+            "tocino",
+            "caldo de pollo"
+        ]
+    },
+    "IMG_6992.jpg": {
+        "archivo": "IMG_6992.jpg",
+        "titulo": "Pollo fricassee con dumplings",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pollo",
+            "harina",
+            "leche",
+            "manteca"
+        ]
+    },
+    "IMG_6993.jpg": {
+        "archivo": "IMG_6993.jpg",
+        "titulo": "Pollo fricassee con dumplings",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pollo",
+            "harina",
+            "leche",
+            "manteca"
+        ]
+    },
+    "IMG_6994.jpg": {
+        "archivo": "IMG_6994.jpg",
+        "titulo": "Chicken and fettuccine Alfredo",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "fettuccine",
+            "brocoli",
+            "pollo",
+            "harina",
+            "crema",
+            "huevos",
+            "mostaza"
+        ]
+    },
+    "IMG_6995.jpg": {
+        "archivo": "IMG_6995.jpg",
+        "titulo": "Lemon chicken",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pechuga pollo",
+            "naranja",
+            "piña",
+            "arroz",
+            "vino blanco",
+            "pan"
+        ]
+    },
+    "IMG_6996.jpg": {
+        "archivo": "IMG_6996.jpg",
+        "titulo": "Lemon chicken",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pechuga pollo",
+            "naranja",
+            "piña",
+            "arroz",
+            "vino blanco",
+            "pan"
+        ]
+    },
+    "IMG_6997.jpg": {
+        "archivo": "IMG_6997.jpg",
+        "titulo": "Pechugas noche buena",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pechugas",
+            "queso filadelfia",
+            "crema natural",
+            "nuez"
+        ]
+    },
+    "IMG_6998.jpg": {
+        "archivo": "IMG_6998.jpg",
+        "titulo": "Pechugas noche buena",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pechugas",
+            "queso filadelfia",
+            "crema natural",
+            "nuez"
+        ]
+    },
+    "IMG_6999.jpg": {
+        "archivo": "IMG_6999.jpg",
+        "titulo": "Chicken hash",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pechuga pollo",
+            "pan blanco",
+            "queso parmesano",
+            "harina"
+        ]
+    },
+    "IMG_7001.jpg": {
+        "archivo": "IMG_7001.jpg",
+        "titulo": "Chicken hash",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pechuga pollo",
+            "pan blanco",
+            "queso parmesano",
+            "harina"
+        ]
+    },
+    "IMG_7002.jpg": {
+        "archivo": "IMG_7002.jpg",
+        "titulo": "Southern chicken pie",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pollo",
+            "huevos",
+            "crema",
+            "chícharros",
+            "harina",
+            "pimientos"
+        ]
+    },
+    "IMG_7003.jpg": {
+        "archivo": "IMG_7003.jpg",
+        "titulo": "Southern chicken pie",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pollo",
+            "huevos",
+            "crema",
+            "chícharros",
+            "harina",
+            "pimientos"
+        ]
+    },
+    "IMG_7004.jpg": {
+        "archivo": "IMG_7004.jpg",
+        "titulo": "Relleno de pan",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pan en cubos",
+            "tomillo",
+            "manzanas",
+            "pasas",
+            "nuez",
+            "caldo de pollo"
+        ]
+    },
+    "IMG_7005.jpg": {
+        "archivo": "IMG_7005.jpg",
+        "titulo": "Fajitas de pollo en salsa chipotle",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "fajitas de pollo asadas",
+            "leche evaporada",
+            "caldo pollo",
+            "chiles chipotle"
+        ]
+    },
+    "IMG_7006.jpg": {
+        "archivo": "IMG_7006.jpg",
+        "titulo": "Fajitas de pollo en salsa chipotle",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "fajitas de pollo asadas",
+            "leche evaporada",
+            "caldo pollo",
+            "chiles chipotle"
+        ]
+    },
+    "IMG_7007.jpg": {
+        "archivo": "IMG_7007.jpg",
+        "titulo": "Pollo a la reina",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pollo",
+            "shallots",
+            "hatina",
+            "jerez seco",
+            "caldo de pollo",
+            "tomillo"
+        ]
+    },
+    "IMG_7008.jpg": {
+        "archivo": "IMG_7008.jpg",
+        "titulo": "Pollo a la reina",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pollo",
+            "shallots",
+            "hatina",
+            "jerez seco",
+            "caldo de pollo",
+            "tomillo"
+        ]
+    },
+    "IMG_7009.jpg": {
+        "archivo": "IMG_7009.jpg",
+        "titulo": "Chicken curry",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pollo",
+            "manzana",
+            "curry",
+            "caldo pollo",
+            "leche",
+            "hongos"
+        ]
+    },
+    "IMG_7010.jpg": {
+        "archivo": "IMG_7010.jpg",
+        "titulo": "Chicken curry",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pollo",
+            "manzana",
+            "curry",
+            "caldo pollo",
+            "leche",
+            "hongos"
+        ]
+    },
+    "IMG_7011.jpg": {
+        "archivo": "IMG_7011.jpg",
+        "titulo": "Pollo gringo",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "alitas de pollo",
+            "coca cola",
+            "ketchup",
+            "miel de abeja",
+            "mostaza"
+        ]
+    },
+    "IMG_7012.jpg": {
+        "archivo": "IMG_7012.jpg",
+        "titulo": "Pollo gringo",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "alitas de pollo",
+            "coca cola",
+            "ketchup",
+            "miel de abeja",
+            "mostaza"
+        ]
+    },
+    "IMG_7013.jpg": {
+        "archivo": "IMG_7013.jpg",
+        "titulo": "Tiempo cocimiento pavo",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pavo"
+        ]
+    },
+    "IMG_7014.jpg": {
+        "archivo": "IMG_7014.jpg",
+        "titulo": "Relleno de carne",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "res molida",
+            "puerco molido",
+            "pasas",
+            "nuez",
+            "almendras"
+        ]
+    },
+    "IMG_7015.jpg": {
+        "archivo": "IMG_7015.jpg",
+        "titulo": "Pechugas a la mostaza",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "Pechugas",
+            "mayonesa con limón",
+            "mostaza",
+            "miel de abeja"
+        ]
+    },
+    "IMG_7016.jpg": {
+        "archivo": "IMG_7016.jpg",
+        "titulo": "Pechugas a la mostaza",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "Pechugas",
+            "mayonesa con limón",
+            "mostaza",
+            "miel de abeja"
+        ]
+    },
+    "IMG_7017.jpg": {
+        "archivo": "IMG_7017.jpg",
+        "titulo": "Easy chicken paprika",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pllo",
+            "champiñones",
+            "sopa de tomate",
+            "crema agria"
+        ]
+    },
+    "IMG_7018.jpg": {
+        "archivo": "IMG_7018.jpg",
+        "titulo": "Easy chicken paprika",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pllo",
+            "champiñones",
+            "sopa de tomate",
+            "crema agria"
+        ]
+    },
+    "IMG_7019.jpg": {
+        "archivo": "IMG_7019.jpg",
+        "titulo": "Pollo marsala",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pechugas",
+            "harina",
+            "mantequilla",
+            "champiñones",
+            "vino marsala"
+        ]
+    },
+    "IMG_7020.jpg": {
+        "archivo": "IMG_7020.jpg",
+        "titulo": "Pollo marsala",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pechugas",
+            "harina",
+            "mantequilla",
+            "champiñones",
+            "vino marsala"
+        ]
+    },
+    "IMG_7021.jpg": {
+        "archivo": "IMG_7021.jpg",
+        "titulo": "Pollo en salsa de ciruelas y chipotle",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pierna y muslo pollo",
+            "ciruelas pasa",
+            "chipotles molidos",
+            "queso filadelfia"
+        ]
+    },
+    "IMG_7022.jpg": {
+        "archivo": "IMG_7022.jpg",
+        "titulo": "Pollo en salsa de ciruelas y chipotle",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pierna y muslo pollo",
+            "ciruelas pasa",
+            "chipotles molidos",
+            "queso filadelfia"
+        ]
+    },
+    "IMG_7023.jpg": {
+        "archivo": "IMG_7023.jpg",
+        "titulo": "Chicken with roasted almonds and vinagrette",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "jugo pomegranate",
+            "pechuga",
+            "almendras",
+            "tarragon"
+        ]
+    },
+    "IMG_7024.jpg": {
+        "archivo": "IMG_7024.jpg",
+        "titulo": "Pollo agridulce",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pollo",
+            "maizena",
+            "salsa soya",
+            "gengibre",
+            "azúcar"
+        ]
+    },
+    "IMG_7025.jpg": {
+        "archivo": "IMG_7025.jpg",
+        "titulo": "Pollo agridulce",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pollo",
+            "maizena",
+            "salsa soya",
+            "gengibre",
+            "azúcar"
+        ]
+    },
+    "IMG_7026.jpg": {
+        "archivo": "IMG_7026.jpg",
+        "titulo": "Southern fried chicken",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pollo",
+            "leche",
+            "harina",
+            "crema gravy"
+        ]
+    },
+    "IMG_7027.jpg": {
+        "archivo": "IMG_7027.jpg",
+        "titulo": "Cream gravy",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "harina",
+            "mantequilla",
+            "crema",
+            "caldo de pollo"
+        ]
+    },
+    "IMG_7028.jpg": {
+        "archivo": "IMG_7028.jpg",
+        "titulo": "Pollo savory",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "Pollo",
+            "mantequilla",
+            "aceite",
+            "jugo limón"
+        ]
+    },
+    "IMG_7029.jpg": {
+        "archivo": "IMG_7029.jpg",
+        "titulo": "Pollo savory",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "Pollo",
+            "mantequilla",
+            "aceite",
+            "jugo limón",
+            "pure de tomate"
+        ]
+    },
+    "IMG_7030.jpg": {
+        "archivo": "IMG_7030.jpg",
+        "titulo": "Pechuga rellena con salsa de manchego",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pechuga",
+            "tocino",
+            "queso cottage",
+            "leche carnation",
+            "queso manchego"
+        ]
+    },
+    "IMG_7031.jpg": {
+        "archivo": "IMG_7031.jpg",
+        "titulo": "Pechuga rellena con salsa de manchego",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pechuga",
+            "tocino",
+            "queso cottage",
+            "leche carnation",
+            "queso manchego"
+        ]
+    },
+    "IMG_7032.jpg": {
+        "archivo": "IMG_7032.jpg",
+        "titulo": "Pollo pegasjoso",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pollo en piezas",
+            "sopa de cebolla",
+            "mermelada de durazno",
+            "ketchup"
+        ]
+    },
+    "IMG_7033.jpg": {
+        "archivo": "IMG_7033.jpg",
+        "titulo": "Pollo pegasjoso",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pollo en piezas",
+            "sopa de cebolla",
+            "mermelada de durazno",
+            "ketchup"
+        ]
+    },
+    "IMG_7034.jpg": {
+        "archivo": "IMG_7034.jpg",
+        "titulo": "Creamy chicken tarragon",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pechugas",
+            "linguini",
+            "harina",
+            "canela",
+            "crema",
+            "huevos"
+        ]
+    },
+    "IMG_7035.jpg": {
+        "archivo": "IMG_7035.jpg",
+        "titulo": "Creamy chicken tarragon",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pechugas",
+            "linguini",
+            "harina",
+            "canela",
+            "crema",
+            "huevos"
+        ]
+    },
+    "IMG_7036.jpg": {
+        "archivo": "IMG_7036.jpg",
+        "titulo": "Pollo a la reina",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pollo",
+            "hongos",
+            "morrón",
+            "harina",
+            "leche"
+        ]
+    },
+    "IMG_7037.jpg": {
+        "archivo": "IMG_7037.jpg",
+        "titulo": "Pollo a la reina",
+        "categoria": "Pollo",
+        "palabras_clave": [
+            "pollo",
+            "hongos",
+            "morrón",
+            "harina",
+            "leche"
+        ]
+    },
+    "IMG_7043.jpg": {
+        "archivo": "IMG_7043.jpg",
+        "titulo": "Ensalada de arugula con betabel y queso de cabra",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "betabel",
+            "juliana",
+            "arugula",
+            "queso de cabra",
+            "nuez"
+        ]
+    },
+    "IMG_7044.jpg": {
+        "archivo": "IMG_7044.jpg",
+        "titulo": "Ensalada de betabel y arúgula",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "betabel",
+            "arrúgula",
+            "nueces",
+            "queso parmesano"
+        ]
+    },
+    "IMG_7045.jpg": {
+        "archivo": "IMG_7045.jpg",
+        "titulo": "Ensalada de betabel y arúgula",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "betabel",
+            "arrúgula",
+            "nueces",
+            "queso parmesano"
+        ]
+    },
+    "IMG_7046.jpg": {
+        "archivo": "IMG_7046.jpg",
+        "titulo": "Ensalada de lechugas con jícama y mango",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "lechuga orejona",
+            "lechuga romana",
+            "mangos",
+            "jícama",
+            "aguacates"
+        ]
+    },
+    "IMG_7047.jpg": {
+        "archivo": "IMG_7047.jpg",
+        "titulo": "Ensalada de lechugas con jícama y mango",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "lechuga orejona",
+            "lechuga romana",
+            "mangos",
+            "jícama",
+            "aguacates"
+        ]
+    },
+    "IMG_7048.jpg": {
+        "archivo": "IMG_7048.jpg",
+        "titulo": "Ensalada de mango",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "lechuga",
+            "berros",
+            "mangos",
+            "tomate",
+            "mostaza"
+        ]
+    },
+    "IMG_7049.jpg": {
+        "archivo": "IMG_7049.jpg",
+        "titulo": "Ensalada de pollo",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "pollo",
+            "zanahoria",
+            "apio",
+            "pasitas",
+            "nueces",
+            "jalapeño",
+            "manzana",
+            "arándaros"
+        ]
+    },
+    "IMG_7050.jpg": {
+        "archivo": "IMG_7050.jpg",
+        "titulo": "Vinagreta de orégano",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "Vinagre",
+            "aceite de olivo",
+            "limón",
+            "orégano"
+        ]
+    },
+    "IMG_7051.jpg": {
+        "archivo": "IMG_7051.jpg",
+        "titulo": "Ensalada de tomato aspic",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "jugo tomate",
+            "gelatina",
+            "clavos",
+            "cebolla",
+            "azúcar"
+        ]
+    },
+    "IMG_7052.jpg": {
+        "archivo": "IMG_7052.jpg",
+        "titulo": "Ensalada de tomato aspic",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "jugo tomate",
+            "gelatina",
+            "clavos",
+            "cebolla",
+            "azúcar"
+        ]
+    },
+    "IMG_7053.jpg": {
+        "archivo": "IMG_7053.jpg",
+        "titulo": "Gelatina de pepino",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "jello verde",
+            "pepino",
+            "queso filadelfia",
+            "crema",
+            "mayonesa",
+            "limón"
+        ]
+    },
+    "IMG_7054.jpg": {
+        "archivo": "IMG_7054.jpg",
+        "titulo": "Gelatina de cranberry",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "gelatina frambuesa",
+            "lata piña",
+            "cranberry sauce",
+            "nuez picada",
+            "gelatina knox"
+        ]
+    },
+    "IMG_7055.jpg": {
+        "archivo": "IMG_7055.jpg",
+        "titulo": "Gelatina de cranberry",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "gelatina frambuesa",
+            "lata piña",
+            "cranberry sauce",
+            "nuez picada",
+            "gelatina knox"
+        ]
+    },
+    "IMG_7056.jpg": {
+        "archivo": "IMG_7056.jpg",
+        "titulo": "Aderezo oriental",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "salsa soya",
+            "limones",
+            "consomé pollo",
+            "huevos",
+            "salsa maggie"
+        ]
+    },
+    "IMG_7057.jpg": {
+        "archivo": "IMG_7057.jpg",
+        "titulo": "Ensalada de berros",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "berros",
+            "aguacate",
+            "tomate",
+            "tocino",
+            "mostaza",
+            "cebolla",
+            "salsa inglesa"
+        ]
+    },
+    "IMG_7058.jpg": {
+        "archivo": "IMG_7058.jpg",
+        "titulo": "Chicken salad",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "pollo",
+            "huevos",
+            "aceitunas",
+            "mayonesa",
+            "crema agria",
+            "ketchup"
+        ]
+    },
+    "IMG_7059.jpg": {
+        "archivo": "IMG_7059.jpg",
+        "titulo": "Chicken salad",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "pollo",
+            "huevos",
+            "aceitunas",
+            "mayonesa",
+            "crema agria",
+            "ketchup"
+        ]
+    },
+    "IMG_7060.jpg": {
+        "archivo": "IMG_7060.jpg",
+        "titulo": "Ensalada griega",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "lechuga",
+            "pepino",
+            "tomates",
+            "aceitunas",
+            "alcaparras"
+        ]
+    },
+    "IMG_7061.jpg": {
+        "archivo": "IMG_7061.jpg",
+        "titulo": "Aderez de cilantro",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "aceite mazola",
+            "vinagre",
+            "ajos",
+            "knor suiza",
+            "huevos"
+        ]
+    },
+    "IMG_7062.jpg": {
+        "archivo": "IMG_7062.jpg",
+        "titulo": "Ensalada de surimi",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "surimi",
+            "pepinos",
+            "cilantro",
+            "ajonjolí",
+            "vinagre",
+            "salsa soya"
+        ]
+    },
+    "IMG_7063.jpg": {
+        "archivo": "IMG_7063.jpg",
+        "titulo": "Ensalada de surimi",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "surimi",
+            "pepinos",
+            "cilantro",
+            "ajonjolí",
+            "vinagre",
+            "salsa soya"
+        ]
+    },
+    "IMG_7064.jpg": {
+        "archivo": "IMG_7064.jpg",
+        "titulo": "Ensalada de panela",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "Lechuga orejona",
+            "pepino",
+            "zanahoria",
+            "aguacates",
+            "queso panela"
+        ]
+    },
+    "IMG_7065.jpg": {
+        "archivo": "IMG_7065.jpg",
+        "titulo": "Garden pasta salad",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "pasta de colores",
+            "brócoli",
+            "zanahorias",
+            "vinagre",
+            "mostaza",
+            "morrón"
+        ]
+    },
+    "IMG_7066.jpg": {
+        "archivo": "IMG_7066.jpg",
+        "titulo": "Garden pasta salad",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "pasta de colores",
+            "brócoli",
+            "zanahorias",
+            "vinagre",
+            "mostaza",
+            "morrón"
+        ]
+    },
+    "IMG_7067.jpg": {
+        "archivo": "IMG_7067.jpg",
+        "titulo": "Ensalada de surimi",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "surimi",
+            "apio",
+            "repollo",
+            "crema espesa",
+            "mayonesa",
+            "chipotle"
+        ]
+    },
+    "IMG_7068.jpg": {
+        "archivo": "IMG_7068.jpg",
+        "titulo": "Aderezo",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "queso parmesano",
+            "vinagre",
+            "limón",
+            "aceite olivo"
+        ]
+    },
+    "IMG_7069.jpg": {
+        "archivo": "IMG_7069.jpg",
+        "titulo": "Ensalada de pollo con yogurt",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "yogurt",
+            "mostaza",
+            "limón",
+            "granola",
+            "pechuga pollo",
+            "manzana",
+            "almendras"
+        ]
+    },
+    "IMG_7070.jpg": {
+        "archivo": "IMG_7070.jpg",
+        "titulo": "Ensalada de papa",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "papas",
+            "cebolla",
+            "huevos",
+            "apio",
+            "pepino",
+            "aderezo french"
+        ]
+    },
+    "IMG_7071.jpg": {
+        "archivo": "IMG_7071.jpg",
+        "titulo": "Aderezo de ajonjolí",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "tocino",
+            "lechuga",
+            "espinacas",
+            "pepitas",
+            "ajonjilí",
+            "agyacate"
+        ]
+    },
+    "IMG_7072.jpg": {
+        "archivo": "IMG_7072.jpg",
+        "titulo": "Aderezo de ajonjolí",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "tocino",
+            "lechuga",
+            "espinacas",
+            "pepitas",
+            "ajonjilí",
+            "agyacate"
+        ]
+    },
+    "IMG_7073.jpg": {
+        "archivo": "IMG_7073.jpg",
+        "titulo": "Cabbage salad",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "repollo",
+            "tomates",
+            "morrón",
+            "salsa francesa"
+        ]
+    },
+    "IMG_7074.jpg": {
+        "archivo": "IMG_7074.jpg",
+        "titulo": "Ensalada de jícama y berros",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "jícam",
+            "berros",
+            "tocino",
+            "queso crema",
+            "aceite olivo",
+            "yoguty"
+        ]
+    },
+    "IMG_7075.jpg": {
+        "archivo": "IMG_7075.jpg",
+        "titulo": "Ensalada de piña y queso",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "gelatina",
+            "jugo piña",
+            "piña",
+            "queso amarillo",
+            "crema batida"
+        ]
+    },
+    "IMG_7076.jpg": {
+        "archivo": "IMG_7076.jpg",
+        "titulo": "Ensalada de piña y queso",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "gelatina",
+            "jugo piña",
+            "piña",
+            "queso amarillo",
+            "crema batida"
+        ]
+    },
+    "IMG_7077.jpg": {
+        "archivo": "IMG_7077.jpg",
+        "titulo": "Ensalada de repollo",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "repollo",
+            "morrón",
+            "zanahorias",
+            "apio",
+            "cebolla",
+            "mayonesa",
+            "leche"
+        ]
+    },
+    "IMG_7078.jpg": {
+        "archivo": "IMG_7078.jpg",
+        "titulo": "Salsa de aguacate",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "leche",
+            "aguacates",
+            "crema",
+            "limón",
+            "cebollín"
+        ]
+    },
+    "IMG_7079.jpg": {
+        "archivo": "IMG_7079.jpg",
+        "titulo": "Caeser salad",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "aderezo italiano",
+            "pan francés",
+            "acete olivo",
+            "anchoas",
+            "jugo limón",
+            "mayonesa"
+        ]
+    },
+    "IMG_7080.jpg": {
+        "archivo": "IMG_7080.jpg",
+        "titulo": "Caeser salad",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "aderezo italiano",
+            "pan francés",
+            "acete olivo",
+            "anchoas",
+            "jugo limón",
+            "mayonesa"
+        ]
+    },
+    "IMG_7081.jpg": {
+        "archivo": "IMG_7081.jpg",
+        "titulo": "Ensalada de camarón y aguacate",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "camarón",
+            "aguacate",
+            "vinagre de vino rojo",
+            "jugo naranja",
+            "jalapeños",
+            "lechuga roja",
+            "naranjas"
+        ]
+    },
+    "IMG_7082.jpg": {
+        "archivo": "IMG_7082.jpg",
+        "titulo": "Ensalada de camarón y aguacate",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "camarón",
+            "aguacate",
+            "vinagre de vino rojo",
+            "jugo naranja",
+            "jalapeños",
+            "lechuga roja",
+            "naranjas"
+        ]
+    },
+    "IMG_7083.jpg": {
+        "archivo": "IMG_7083.jpg",
+        "titulo": "Aderezo de buttermilk",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "buttermilk",
+            "crema agria",
+            "queso parmesano",
+            "anchoas"
+        ]
+    },
+    "IMG_7084.jpg": {
+        "archivo": "IMG_7084.jpg",
+        "titulo": "Ensalada verde",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "lechuga",
+            "aguacate",
+            "huevi duro",
+            "angulas",
+            "tocino",
+            "pan"
+        ]
+    },
+    "IMG_7085.jpg": {
+        "archivo": "IMG_7085.jpg",
+        "titulo": "Ensalada de repollo campestre",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "Mayonesa",
+            "repollo",
+            "zanahoria",
+            "morrón",
+            "mostaza",
+            "cebolla"
+        ]
+    },
+    "IMG_7086.jpg": {
+        "archivo": "IMG_7086.jpg",
+        "titulo": "Ensalada de nuez, manzana y queso",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "lechuga",
+            "nuez",
+            "manzanas",
+            "queso gorgonzola. vinagre vino",
+            "aceite canola"
+        ]
+    },
+    "IMG_7087.jpg": {
+        "archivo": "IMG_7087.jpg",
+        "titulo": "Ensalada de nuez, manzana y queso",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "lechuga",
+            "nuez",
+            "manzanas",
+            "queso gorgonzola. vinagre vino",
+            "aceite canola"
+        ]
+    },
+    "IMG_7088.jpg": {
+        "archivo": "IMG_7088.jpg",
+        "titulo": "Ensalada de huevos",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "mayonesa",
+            "limón",
+            "huevos",
+            "vinagre",
+            "cebollin",
+            "lechuga"
+        ]
+    },
+    "IMG_7089.jpg": {
+        "archivo": "IMG_7089.jpg",
+        "titulo": "Ensalada de huevos",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "mayonesa",
+            "limón",
+            "huevos",
+            "vinagre",
+            "cebollin",
+            "lechuga"
+        ]
+    },
+    "IMG_7090.jpg": {
+        "archivo": "IMG_7090.jpg",
+        "titulo": "Ensalada de surimi",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "surimi",
+            "mango",
+            "apio",
+            "mayonesa",
+            "yogurt"
+        ]
+    },
+    "IMG_7091.jpg": {
+        "archivo": "IMG_7091.jpg",
+        "titulo": "Ensalada de orso",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "orso",
+            "perejil",
+            "albahaca",
+            "queso feta",
+            "aceite olovo"
+        ]
+    },
+    "IMG_7092.jpg": {
+        "archivo": "IMG_7092.jpg",
+        "titulo": "Ensalada de nuez garapiñada, manzana y queso",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "lechuga",
+            "nuez garapiñnada",
+            "manzana",
+            "vinagre",
+            "miel de abejas",
+            "aceite canola"
+        ]
+    },
+    "IMG_7093.jpg": {
+        "archivo": "IMG_7093.jpg",
+        "titulo": "Ensalada de nuez garapiñada, manzana y queso",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "lechuga",
+            "nuez garapiñnada",
+            "manzana",
+            "vinagre",
+            "miel de abejas",
+            "aceite canola"
+        ]
+    },
+    "IMG_7094.jpg": {
+        "archivo": "IMG_7094.jpg",
+        "titulo": "Ensalada de pollo",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "pollo",
+            "apio",
+            "huevos duros",
+            "pickles",
+            "mayonesa"
+        ]
+    },
+    "IMG_7095.jpg": {
+        "archivo": "IMG_7095.jpg",
+        "titulo": "Ensalada de espinacas",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "espinacas",
+            "huevos duros",
+            "aceite vegetal",
+            "aceite ajonjolí",
+            "tocino"
+        ]
+    },
+    "IMG_7096.jpg": {
+        "archivo": "IMG_7096.jpg",
+        "titulo": "Ensalada de espinacas",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "espinacas",
+            "huevos duros",
+            "aceite vegetal",
+            "aceite ajonjolí",
+            "tocino"
+        ]
+    },
+    "IMG_7097.jpg": {
+        "archivo": "IMG_7097.jpg",
+        "titulo": "Ensalada de pollo con uvas",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "pechuga pollo",
+            "morrón",
+            "manzana",
+            "nuez",
+            "mayonesa",
+            "uvas"
+        ]
+    },
+    "IMG_7098.jpg": {
+        "archivo": "IMG_7098.jpg",
+        "titulo": "Ensalada de baby spinach",
+        "categoria": "Ensaladas",
+        "palabras_clave": [
+            "baby spinach",
+            "queso feta",
+            "tocino",
+            "shallots",
+            "mango",
+            "aceite olivo",
+            "vinagre"
+        ]
+    },
+    "IMG_7104.jpg": {
+        "archivo": "IMG_7104.jpg",
+        "titulo": "Arroz verde",
+        "categoria": "Sopas",
+        "palabras_clave": [
+            "arroz",
+            "cebolla",
+            "cilantro",
+            "chile poblano",
+            "aceite vegetal"
+        ]
+    },
+    "IMG_7105.jpg": {
+        "archivo": "IMG_7105.jpg",
+        "titulo": "Arroz verde",
+        "categoria": "Sopas",
+        "palabras_clave": [
+            "arroz",
+            "cebolla",
+            "cilantro",
+            "chile poblano",
+            "aceite vegetal"
+        ]
+    },
+    "IMG_7106.jpg": {
+        "archivo": "IMG_7106.jpg",
+        "titulo": "Crema de calabacitas",
+        "categoria": "Sopas",
+        "palabras_clave": [
+            "calabacitas",
+            "leche condensada",
+            "sasonador",
+            "caldo pollo"
+        ]
+    },
+    "IMG_7107.jpg": {
+        "archivo": "IMG_7107.jpg",
+        "titulo": "Crema de almejas",
+        "categoria": "Sopas",
+        "palabras_clave": [
+            "almejas",
+            "tocino",
+            "papas",
+            "leche evaporada",
+            "consomé de pollo"
+        ]
+    },
+    "IMG_7108.jpg": {
+        "archivo": "IMG_7108.jpg",
+        "titulo": "Crema de almejas",
+        "categoria": "Sopas",
+        "palabras_clave": [
+            "almejas",
+            "tocino",
+            "papas",
+            "leche evaporada",
+            "consomé de pollo"
+        ]
+    },
+    "IMG_7109.jpg": {
+        "archivo": "IMG_7109.jpg",
+        "titulo": "Sopa seca de elote",
+        "categoria": "Sopas",
+        "palabras_clave": [
+            "elotes",
+            "mantequilla",
+            "manteca",
+            "azúcar",
+            "queso rallado",
+            "chile verde"
+        ]
+    },
+    "IMG_7110.jpg": {
+        "archivo": "IMG_7110.jpg",
+        "titulo": "Sopa de calabaza",
+        "categoria": "Sopas",
+        "palabras_clave": [
+            "calabaza",
+            "mantequilla",
+            "cebolla",
+            "caldo de pollo",
+            "queso manchego",
+            "crema"
+        ]
+    },
+    "IMG_7111.jpg": {
+        "archivo": "IMG_7111.jpg",
+        "titulo": "Sopa de calabaza",
+        "categoria": "Sopas",
+        "palabras_clave": [
+            "calabaza",
+            "mantequilla",
+            "cebolla",
+            "caldo de pollo",
+            "queso manchego",
+            "crema"
+        ]
+    },
+    "IMG_7112.jpg": {
+        "archivo": "IMG_7112.jpg",
+        "titulo": "Caldo de camarón",
+        "categoria": "Sopas",
+        "palabras_clave": [
+            "camarón seco",
+            "zanahoria",
+            "papa",
+            "cebolla",
+            "tomate",
+            "guajillos",
+            "chipotle"
+        ]
+    },
+    "IMG_7113.jpg": {
+        "archivo": "IMG_7113.jpg",
+        "titulo": "Caldo de camarón",
+        "categoria": "Sopas",
+        "palabras_clave": [
+            "camarón seco",
+            "zanahoria",
+            "papa",
+            "cebolla",
+            "tomate",
+            "guajillos",
+            "chipotle"
+        ]
+    },
+    "IMG_7114.jpg": {
+        "archivo": "IMG_7114.jpg",
+        "titulo": "Crema de verduras",
+        "categoria": "Sopas",
+        "palabras_clave": [
+            "harina",
+            "verduras cocidas",
+            "mantequilla",
+            "leche"
+        ]
+    },
+    "IMG_7115.jpg": {
+        "archivo": "IMG_7115.jpg",
+        "titulo": "Crema de verduras",
+        "categoria": "Sopas",
+        "palabras_clave": [
+            "harina",
+            "verduras cocidas",
+            "mantequilla",
+            "leche"
+        ]
+    },
+    "IMG_7116.jpg": {
+        "archivo": "IMG_7116.jpg",
+        "titulo": "Sopa de codos",
+        "categoria": "Sopas",
+        "palabras_clave": [
+            "codos",
+            "morrón rojo",
+            "morrón verde"
+        ]
+    },
+    "IMG_7117.jpg": {
+        "archivo": "IMG_7117.jpg",
+        "titulo": "Arroz al vapor con champiñones",
+        "categoria": "Sopas",
+        "palabras_clave": [
+            "arroz",
+            "mantequilla",
+            "nuez moscada",
+            "champiñones"
+        ]
+    },
+    "IMG_7118.jpg": {
+        "archivo": "IMG_7118.jpg",
+        "titulo": "Arroz al vapor con champiñones",
+        "categoria": "Sopas",
+        "palabras_clave": [
+            "arroz",
+            "mantequilla",
+            "nuez moscada",
+            "champiñones"
+        ]
+    },
+    "IMG_7119.jpg": {
+        "archivo": "IMG_7119.jpg",
+        "titulo": "Arroz blanco",
+        "categoria": "Sopas",
+        "palabras_clave": [
+            "arroz",
+            "aceite vegetal",
+            "chile serrano",
+            "perejil"
+        ]
+    },
+    "IMG_7120.jpg": {
+        "archivo": "IMG_7120.jpg",
+        "titulo": "Arroz blanco",
+        "categoria": "Sopas",
+        "palabras_clave": [
+            "arroz",
+            "aceite vegetal",
+            "chile serrano",
+            "perejil"
+        ]
+    },
+    "IMG_7121.jpg": {
+        "archivo": "IMG_7121.jpg",
+        "titulo": "Crema de chicharrón placero",
+        "categoria": "Sopas",
+        "palabras_clave": [
+            "chicharrón de puerco",
+            "leche evaporada",
+            "guajillos",
+            "knorr",
+            "aguacate",
+            "crema"
+        ]
+    },
+    "IMG_7122.jpg": {
+        "archivo": "IMG_7122.jpg",
+        "titulo": "Crema de chicharrón placero",
+        "categoria": "Sopas",
+        "palabras_clave": [
+            "chicharrón de puerco",
+            "leche evaporada",
+            "guajillos",
+            "knorr",
+            "aguacate",
+            "crema"
+        ]
+    },
+    "IMG_7162.jpg": {
+        "archivo": "IMG_7162.jpg",
+        "titulo": "Oven fried potatoes",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "papas",
+            "queso parmesano",
+            "paprika",
+            "aceite vegetal"
+        ]
+    },
+    "IMG_7163.jpg": {
+        "archivo": "IMG_7163.jpg",
+        "titulo": "Oven fried potatoes",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "papas",
+            "queso parmesano",
+            "paprika",
+            "aceite vegetal"
+        ]
+    },
+    "IMG_7164.jpg": {
+        "archivo": "IMG_7164.jpg",
+        "titulo": "Scalloped potatoes",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "papas",
+            "harina",
+            "mantequilla",
+            "leche"
+        ]
+    },
+    "IMG_7165.jpg": {
+        "archivo": "IMG_7165.jpg",
+        "titulo": "Scalloped potatoes",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "papas",
+            "harina",
+            "mantequilla",
+            "leche"
+        ]
+    },
+    "IMG_7166.jpg": {
+        "archivo": "IMG_7166.jpg",
+        "titulo": "Casserole ejotes",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "ejotes",
+            "champiñones",
+            "aceite olivo",
+            "crema agria",
+            "french fried onions"
+        ]
+    },
+    "IMG_7167.jpg": {
+        "archivo": "IMG_7167.jpg",
+        "titulo": "Casserole ejotes",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "ejotes",
+            "champiñones",
+            "aceite olivo",
+            "crema agria",
+            "french fried onions"
+        ]
+    },
+    "IMG_7168.jpg": {
+        "archivo": "IMG_7168.jpg",
+        "titulo": "Espinacas suprema fritada",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "espinaca",
+            "mantequilla",
+            "arroz",
+            "queso parmesano",
+            "huevos"
+        ]
+    },
+    "IMG_7169.jpg": {
+        "archivo": "IMG_7169.jpg",
+        "titulo": "Espinacas suprema fritada",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "espinaca",
+            "mantequilla",
+            "arroz",
+            "queso parmesano",
+            "huevos"
+        ]
+    },
+    "IMG_7170.jpg": {
+        "archivo": "IMG_7170.jpg",
+        "titulo": "Papas scalloped",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "papas",
+            "mantequilla",
+            "harina",
+            "leche"
+        ]
+    },
+    "IMG_7171.jpg": {
+        "archivo": "IMG_7171.jpg",
+        "titulo": "Betabel harvard",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "betabel",
+            "mantequilla",
+            "maizena",
+            "azúcar",
+            "vinagre"
+        ]
+    },
+    "IMG_7172.jpg": {
+        "archivo": "IMG_7172.jpg",
+        "titulo": "Betabel harvard",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "betabel",
+            "mantequilla",
+            "maizena",
+            "azúcar",
+            "vinagre"
+        ]
+    },
+    "IMG_7173.jpg": {
+        "archivo": "IMG_7173.jpg",
+        "titulo": "Esparragos orientales",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "esparragos",
+            "pollo",
+            "chile cayera",
+            "salsa soya",
+            "salsa ostras"
+        ]
+    },
+    "IMG_7174.jpg": {
+        "archivo": "IMG_7174.jpg",
+        "titulo": "Esparragos orientales",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "esparragos",
+            "pollo",
+            "chile cayera",
+            "salsa soya",
+            "salsa ostras"
+        ]
+    },
+    "IMG_7175.jpg": {
+        "archivo": "IMG_7175.jpg",
+        "titulo": "Oven pumkin",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "Calabaza"
+        ]
+    },
+    "IMG_7176.jpg": {
+        "archivo": "IMG_7176.jpg",
+        "titulo": "Papas rojas galeana",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "papitas rojas",
+            "aceite olivo",
+            "romero fresco"
+        ]
+    },
+    "IMG_7177.jpg": {
+        "archivo": "IMG_7177.jpg",
+        "titulo": "Papas rojas galeana",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "papitas rojas",
+            "aceite olivo",
+            "romero fresco"
+        ]
+    },
+    "IMG_7178.jpg": {
+        "archivo": "IMG_7178.jpg",
+        "titulo": "Betabel endiablado",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "betabel",
+            "mantequilla",
+            "mostaza",
+            "miel de abeja",
+            "salsa inglesa"
+        ]
+    },
+    "IMG_7179.jpg": {
+        "archivo": "IMG_7179.jpg",
+        "titulo": "Papas al cilantro",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "papas de galeana",
+            "jugo de limón"
+        ]
+    },
+    "IMG_7180.jpg": {
+        "archivo": "IMG_7180.jpg",
+        "titulo": "Souflee de espinacas",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "espinacas",
+            "huevo",
+            "pan",
+            "mantequilla",
+            "harina",
+            "caldo pollo",
+            "leche evaporada",
+            "parmesano"
+        ]
+    },
+    "IMG_7181.jpg": {
+        "archivo": "IMG_7181.jpg",
+        "titulo": "Souflee de espinacas",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "espinacas",
+            "huevo",
+            "pan",
+            "mantequilla",
+            "harina",
+            "caldo pollo",
+            "leche evaporada",
+            "parmesano"
+        ]
+    },
+    "IMG_7182.jpg": {
+        "archivo": "IMG_7182.jpg",
+        "titulo": "Papas rebanadas al horno",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "papas",
+            "crema ácida",
+            "knorr suiza",
+            "mantequilla",
+            "cebollín"
+        ]
+    },
+    "IMG_7183.jpg": {
+        "archivo": "IMG_7183.jpg",
+        "titulo": "Chiles jalapeños rellenos y asados",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "chiles jalapeños",
+            "queso crema",
+            "tomates",
+            "albahaca",
+            "jalapeños"
+        ]
+    },
+    "IMG_7184.jpg": {
+        "archivo": "IMG_7184.jpg",
+        "titulo": "Chiles jalapeños rellenos y asados",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "chiles jalapeños",
+            "queso crema",
+            "tomates",
+            "albahaca",
+            "jalapeños"
+        ]
+    },
+    "IMG_7185.jpg": {
+        "archivo": "IMG_7185.jpg",
+        "titulo": "Splendir green bean casserole",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "ejotes",
+            "frebch fried onions",
+            "aceite olivo",
+            "champiñones",
+            "crema agria",
+            "leche"
+        ]
+    },
+    "IMG_7186.jpg": {
+        "archivo": "IMG_7186.jpg",
+        "titulo": "Splendir green bean casserole",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "ejotes",
+            "frebch fried onions",
+            "aceite olivo",
+            "champiñones",
+            "crema agria",
+            "leche"
+        ]
+    },
+    "IMG_7187.jpg": {
+        "archivo": "IMG_7187.jpg",
+        "titulo": "Zanahorias glaceadas",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "zanahorias",
+            "azúcar morena",
+            "mantequilla"
+        ]
+    },
+    "IMG_7188.jpg": {
+        "archivo": "IMG_7188.jpg",
+        "titulo": "Spanakopita",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "espinacas",
+            "aceite olivo",
+            "cebollitas",
+            "queso feta",
+            "queso cottage",
+            "parmesano",
+            "huevos",
+            "nuez"
+        ]
+    },
+    "IMG_7189.jpg": {
+        "archivo": "IMG_7189.jpg",
+        "titulo": "Spanakopita",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "espinacas",
+            "aceite olivo",
+            "cebollitas",
+            "queso feta",
+            "queso cottage",
+            "parmesano",
+            "huevos",
+            "nuez"
+        ]
+    },
+    "IMG_7190.jpg": {
+        "archivo": "IMG_7190.jpg",
+        "titulo": "Ejotes franceses",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "ejotes",
+            "manteca de tocino",
+            "caldo de pollo",
+            "cebolla",
+            "morrón"
+        ]
+    },
+    "IMG_7191.jpg": {
+        "archivo": "IMG_7191.jpg",
+        "titulo": "Ejotes franceses",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "ejotes",
+            "manteca de tocino",
+            "caldo de pollo",
+            "cebolla",
+            "morrón"
+        ]
+    },
+    "IMG_7192.jpg": {
+        "archivo": "IMG_7192.jpg",
+        "titulo": "Nopalada",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "nopales",
+            "flor de calabaza",
+            "champiñones",
+            "cubos de pollo",
+            "manchego"
+        ]
+    },
+    "IMG_7193.jpg": {
+        "archivo": "IMG_7193.jpg",
+        "titulo": "Nopalada",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "nopales",
+            "flor de calabaza",
+            "champiñones",
+            "cubos de pollo",
+            "manchego"
+        ]
+    },
+    "IMG_7194.jpg": {
+        "archivo": "IMG_7194.jpg",
+        "titulo": "Asian Stir-fry french beans",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "ejotes",
+            "gengibre",
+            "salsa de soya",
+            "ajonjolí",
+            "salsa de ajo"
+        ]
+    },
+    "IMG_7195.jpg": {
+        "archivo": "IMG_7195.jpg",
+        "titulo": "Asian Stir-fry french beans",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "ejotes",
+            "gengibre",
+            "salsa de soya",
+            "ajonjolí",
+            "salsa de ajo"
+        ]
+    },
+    "IMG_7196.jpg": {
+        "archivo": "IMG_7196.jpg",
+        "titulo": "Champiñones rellenos",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "champiñones grandes",
+            "parmesano",
+            "pan",
+            "mantequilla",
+            "cebolla"
+        ]
+    },
+    "IMG_7197.jpg": {
+        "archivo": "IMG_7197.jpg",
+        "titulo": "Champiñones rellenos",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "champiñones grandes",
+            "parmesano",
+            "pan",
+            "mantequilla",
+            "cebolla"
+        ]
+    },
+    "IMG_7198.jpg": {
+        "archivo": "IMG_7198.jpg",
+        "titulo": "Brocoli rostizado",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "brocoli",
+            "almendras",
+            "parmesano",
+            "jugo limón",
+            "aceite olivo",
+            "salsa inglesa"
+        ]
+    },
+    "IMG_7199.jpg": {
+        "archivo": "IMG_7199.jpg",
+        "titulo": "Brocoli rostizado",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "brocoli",
+            "almendras",
+            "parmesano",
+            "jugo limón",
+            "aceite olivo",
+            "salsa inglesa"
+        ]
+    },
+    "IMG_7200.jpg": {
+        "archivo": "IMG_7200.jpg",
+        "titulo": "Repollo",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "repollo",
+            "cebolla",
+            "ajo",
+            "huevos",
+            "tomillo"
+        ]
+    },
+    "IMG_7201.jpg": {
+        "archivo": "IMG_7201.jpg",
+        "titulo": "Repollo con tocina",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "tocino",
+            "repollo",
+            "pimienta",
+            "sal"
+        ]
+    },
+    "IMG_7202.jpg": {
+        "archivo": "IMG_7202.jpg",
+        "titulo": "Tortitas de espinacas",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "espinacas",
+            "cebolla",
+            "mozzarella",
+            "avena",
+            "huevos"
+        ]
+    },
+    "IMG_7203.jpg": {
+        "archivo": "IMG_7203.jpg",
+        "titulo": "Tortitas de espinacas",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "espinacas",
+            "cebolla",
+            "mozzarella",
+            "avena",
+            "huevos"
+        ]
+    },
+    "IMG_7204.jpg": {
+        "archivo": "IMG_7204.jpg",
+        "titulo": "Tortitas de callabacita y zanahoria",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "calabacita",
+            "zanahorias",
+            "queso rrallado",
+            "huevos"
+        ]
+    },
+    "IMG_7205.jpg": {
+        "archivo": "IMG_7205.jpg",
+        "titulo": "Hojas de repollo",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "hojas de repollo",
+            "carne molida de puerco",
+            "caldo de pollo"
+        ]
+    },
+    "IMG_7206.jpg": {
+        "archivo": "IMG_7206.jpg",
+        "titulo": "Pie de calabacitas",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "calabacitas",
+            "aceite olivo",
+            "cebollas",
+            "queso feta",
+            "arroz",
+            "menta",
+            "huevos"
+        ]
+    },
+    "IMG_7207.jpg": {
+        "archivo": "IMG_7207.jpg",
+        "titulo": "Pie de calabacitas",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "calabacitas",
+            "aceite olivo",
+            "cebollas",
+            "queso feta",
+            "arroz",
+            "menta",
+            "huevos"
+        ]
+    },
+    "IMG_7208.jpg": {
+        "archivo": "IMG_7208.jpg",
+        "titulo": "Baggette de camarón y chipotle",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "camarones",
+            "aceite de olivo",
+            "comino",
+            "chipotle",
+            "pan",
+            "lechuga"
+        ]
+    },
+    "IMG_7210.jpg": {
+        "archivo": "IMG_7210.jpg",
+        "titulo": "Croquetas de atún",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "pan molido",
+            "atún",
+            "papa",
+            "huevos",
+            "leche",
+            "aceite"
+        ]
+    },
+    "IMG_7211.jpg": {
+        "archivo": "IMG_7211.jpg",
+        "titulo": "croquetas de atún",
+        "categoria": "Verduras",
+        "palabras_clave": [
+            "pan molido",
+            "atún",
+            "papa",
+            "huevos",
+            "leche",
+            "aceite"
         ]
     }
 }
