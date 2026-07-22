@@ -1,31 +1,28 @@
-/* Fondo general con la foto de Vita */
-body {
+/* Forzar la imagen de fondo en toda la ventana */
+html, body {
     margin: 0;
-    padding: 20px;
+    padding: 0;
+    width: 100%;
     min-height: 100vh;
-    box-sizing: border-box;
-    background-image: url('drawing.png');
-    background-position: center top;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-    background-color: #111111;
-    display: flex;
-    justify-content: center;
-    align-items: center;
     font-family: system-ui, -apple-system, sans-serif;
+
+    /* Configuración directa de la imagen */
+    background-image: url("drawing.png") !important;
+    background-position: center top !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-attachment: fixed !important;
+    background-color: #111111 !important;
 }
 
-/* Le aplica la tarjeta traslúcida a cualquier contenedor principal (div, section, main) */
-body > div, main, #contenido, .tarjeta-receta {
-    background-color: rgba(255, 255, 255, 0.75) !important;
-    backdrop-filter: blur(12px);
-    -webkit-backdrop-filter: blur(12px);
-    width: 100%;
+/* Formato para que el contenido sea transparente y flotante */
+body > div, main, .tarjeta-receta, #contenido {
+    background-color: rgba(255, 255, 255, 0.8) !important;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
     max-width: 650px;
+    margin: 40px auto;
     padding: 30px;
     border-radius: 16px;
-    border: 1px solid rgba(255, 255, 255, 0.4);
-    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.3);
-    color: #222222;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
 }
