@@ -1,13 +1,10 @@
-/* Forzar la imagen de fondo de Vita en todo el sitio */
+/* 1. Aplicar la imagen de fondo de Vita al cuerpo de la página */
 html, body {
-    margin: 0;
-    padding: 0;
-    width: 100%;
-    min-height: 100vh;
-    font-family: system-ui, -apple-system, sans-serif;
-
-    /* Ruta directa a la imagen en la raíz del proyecto */
-    background-image: url('./drawing.png') !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 100% !important;
+    min-height: 100vh !important;
+    background-image: url('drawing.png') !important;
     background-position: center top !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
@@ -15,14 +12,14 @@ html, body {
     background-color: #111111 !important;
 }
 
-/* Formato traslúcido para las tarjetas de contenido */
-body > div, main, .tarjeta-receta, #contenido {
-    background-color: rgba(255, 255, 255, 0.8) !important;
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
-    max-width: 650px;
-    margin: 40px auto;
-    padding: 30px;
-    border-radius: 16px;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
+/* 2. Hacer traslúcido el contenedor principal que detectó el inspector */
+.contenedor-principal {
+    background-color: rgba(255, 255, 255, 0.85) !important;
+    backdrop-filter: blur(10px) !important;
+    -webkit-backdrop-filter: blur(10px) !important;
+    max-width: 800px !important;
+    margin: 30px auto !important;
+    padding: 25px !important;
+    border-radius: 16px !important;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5) !important;
 }
