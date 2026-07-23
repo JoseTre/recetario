@@ -1,4 +1,4 @@
-/* Estilos limpios y legibles para el recetario */
+/* Estilos limpios enfocados en las tarjetas */
 html, body {
     margin: 0;
     padding: 0;
@@ -7,6 +7,14 @@ html, body {
     font-family: system-ui, -apple-system, sans-serif;
     background-color: #f4f4f9;
     color: #333333;
+}
+
+/* Regla para que las fotos originales se adapten bien y no salgan giradas */
+img {
+    image-orientation: from-image;
+    max-width: 100%;
+    height: auto;
+    display: block;
 }
 
 .contenedor-principal {
