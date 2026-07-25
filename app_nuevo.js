@@ -1,5 +1,5 @@
 const CARPETA_IMAGENES = "Fotos-recortadas_integrados";
-const ARCHIVO_JSON = "recetas_completas_database.json";
+const ARCHIVO_JSON = "recetas.json";
 let recetas = [];
 let indiceActual = 0;
 
